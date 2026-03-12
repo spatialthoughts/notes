@@ -13,11 +13,3 @@
 .grid.cards.group-ai          > ul > li { background-color: var(--color-ai); }
 .grid.cards.group-domain      > ul > li { background-color: var(--color-domain); }
 .grid.cards.group-other       > ul > li { background-color: var(--color-other); }
-
-/* Latest Finds — each card colored by its source section
-   Card 1: Claude Code → AI/ML
-   Card 2: India Open Geo Data → Data Science
-   Card 3: Earth Copilot → AI/ML  */
-.grid.cards.group-latest > ul > li:nth-child(1) { background-color: var(--color-ai); }
-.grid.cards.group-latest > ul > li:nth-child(2) { background-color: var(--color-data); }
-.grid.cards.group-latest > ul > li:nth-child(3) { background-color: var(--color-ai); }

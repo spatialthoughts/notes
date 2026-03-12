@@ -2,27 +2,9 @@
 
 ## Latest Finds
 
-<div class="grid cards group-latest" markdown>
-
--   :material-console: **[Claude Tips by Arvid Kahl](https://x.com/arvidkahl/status/2031457304328229184)**
-
-    Tips and best practices for working effectively with Claude AI.
-
-    [:octicons-arrow-right-24: More in Claude Code](Claude_Code.md)
-
--   :material-table: **[India Open Geo Data](https://yashveeeeeer.github.io/india-geodata/)**
-
-    A unified collection of India's openly-licensed geospatial data across 26 datasets and 11 categories.
-
-    [:octicons-arrow-right-24: More in Data](Data.md)
-
--   :material-robot: **[Earth Copilot](https://github.com/microsoft/Earth-Copilot)**
-
-    An AI-powered geospatial app for exploring Earth science satellite data via natural language queries.
-
-    [:octicons-arrow-right-24: More in AI](AI.md)
-
-</div>
+- [Claude Tips by Arvid Kahl](https://x.com/arvidkahl/status/2031457304328229184): Tips and best practices for working effectively with Claude AI. *Claude, Claude Code, tips, productivity, LLM, AI* — [More in Claude Code](Claude_Code.md)
+- [India Open Geo Data](https://yashveeeeeer.github.io/india-geodata/): A unified collection of India's openly-licensed geospatial data across 26 datasets and 11 categories, including administrative boundaries, electoral maps, census data, environmental information, and infrastructure networks. *data, India, geospatial, open data, administrative boundaries, census* — [More in Data](Data.md)
+- [Earth Copilot](https://github.com/microsoft/Earth-Copilot): An AI-powered geospatial application enabling exploration and visualization of Earth science satellite data through natural language queries, built on Azure AI services and Semantic Kernel agents. *AI, Microsoft, NASA, satellite data, natural language, geospatial* — [More in AI](AI.md)
 
 ## Topics
 
