@@ -2,6 +2,8 @@
 
 ## 2026
 
+- [Copernicus Master in Digital Earth](https://www.master-cde.eu/): European master's degree program focused on advanced geospatial technology, Earth observation, and satellite data for understanding planetary systems. [Keywords: `Earth observation` `geospatial science` `satellite data` `Europe` `master's degree`]
+
 - [Dark Store Map India](https://darkstoremap.in/): Tool for visualizing dark store (quick commerce) locations using isochrone delivery coverage analysis across Indian cities. [Keywords: `quick commerce` `logistics` `isochrone` `delivery` `India` `urban`]
 
 - [MapToPoster](https://github.com/originalankur/maptoposter): Python tool that generates beautiful minimalist map posters for any city from OpenStreetMap data with customizable themes and high-resolution export. [Keywords: `OSM` `cartography` `poster` `city maps` `Python`]

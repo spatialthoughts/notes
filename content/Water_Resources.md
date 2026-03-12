@@ -36,7 +36,7 @@
 
 - [Groundwater Recharge Modeling with GEE](https://guillaumeattard.com/groundwater-recharge-estimation-using-earth-engine/): Tutorial on estimating groundwater recharge using Google Earth Engine. [Keywords: `water` `groundwater` `recharge` `GEE` `modeling`]
 
-- [Rainfall-Runoff Model in GEE](https://www.currentscience.ac.in/Volumes/121/11/1433.pdf): Paper on cloud-based SCS Curve Number rainfall-runoff model using GEE. [Code](https://github.com/sukantjain/Google-Earth-Engine/blob/main/JavaScript/CurveNumberModel.js)Keywords: `water` `rainfall-runoff` `GEE` `SCS` `curve number` `hydrology`
+- [Rainfall-Runoff Model in GEE](https://www.currentscience.ac.in/Volumes/121/11/1433.pdf): Paper on cloud-based SCS Curve Number rainfall-runoff model using GEE. [Code](https://github.com/sukantjain/Google-Earth-Engine/blob/main/JavaScript/CurveNumberModel.js) [Keywords: `water` `rainfall-runoff` `GEE` `SCS` `curve number` `hydrology`]
 
 - [River Channel Change Detection with GEE](https://wires.onlinelibrary.wiley.com/doi/full/10.1002/wat2.1496): Review paper on GEE applications in fluvial geomorphology for detecting river channel change. [Keywords: `water` `river` `geomorphology` `GEE` `change detection`]
 
