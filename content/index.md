@@ -2,11 +2,11 @@
 
 This site is a collection of my personal notes and bookmarks collected over the years. It is organized to help search and recall specific items or find notes related to a certain topic. 
 
-These notes were scattered across many places and hard to manage. Finally, Claude Code helped organize this and build this site. These are now auto-updated weekly from my notes.
+These notes were scattered across many places and hard to manage. Finally, Claude Code helped organize this and build this site. These are now auto-updated weekly from my notes. See the [CLAUDE.md](https://github.com/spatialthoughts/notes/blob/main/CLAUDE.md) file with processing instructions.
 
 ## Latest Finds
 
-- [Copernicus Master in Digital Earth](https://www.master-cde.eu/): European master's degree program focused on advanced geospatial technology, Earth observation, and satellite data for understanding planetary systems. [Keywords: `Earth observation` `geospatial science` `satellite data` `Europe` `master's degree`] — [More in Miscellaneous](Misc.md)
+- [NISAR Soil Moisture Analytics](https://github.com/anil002/nisar-analysis): Python tools for analyzing NISAR satellite data for soil moisture retrieval and related surface parameter estimation. [Keywords: `NISAR` `SAR` `soil moisture` `remote sensing` `Python`] — [More in Remote Sensing](Remote_Sensing.md)
 - [Claude Tips by Arvid Kahl](https://x.com/arvidkahl/status/2031457304328229184): Tips and best practices for working effectively with Claude AI. [Keywords: `Claude` `Claude Code` `tips` `productivity` `LLM` `AI`] — [More in Claude Code](Claude_Code.md)
 - [India Open Geo Data](https://yashveeeeeer.github.io/india-geodata/): A unified collection of India's openly-licensed geospatial data across 26 datasets and 11 categories, including administrative boundaries, electoral maps, census data, environmental information, and infrastructure networks. [Keywords: `data` `India` `geospatial` `open data` `administrative boundaries` `census`] — [More in Data](Data.md)
 

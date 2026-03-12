@@ -27,7 +27,7 @@ Prioritize the ability to search and recall specific items. These notes are prim
 - Next go to any new daily notes and process them.
 
 ### Update the website
-- Update the "Latest Finds" section with 3 latest notes. Ensure each note is from a different topic.
+- Update the "Latest Finds" section with 3 latest notes. Ensure each note is from a different topic. Do not pick these from Misc.md.
 - Push the notes to GitHub.
 
 ## Instructions
