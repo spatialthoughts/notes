@@ -1,9 +1,23 @@
-/* Latest Finds */
-.grid.cards.group-latest      > ul > li { background-color: #ffd6d6; }
+/* Define group colors as variables for reuse */
+:root {
+  --color-geospatial: #cce5ff;
+  --color-data:       #fffacc;
+  --color-ai:         #e5ccff;
+  --color-domain:     #ccf5d6;
+  --color-other:      #ffe8cc;
+}
 
-/* One pastel color per group */
-.grid.cards.group-geospatial > ul > li { background-color: #cce5ff; }
-.grid.cards.group-data        > ul > li { background-color: #fffacc; }
-.grid.cards.group-ai          > ul > li { background-color: #e5ccff; }
-.grid.cards.group-domain      > ul > li { background-color: #ccf5d6; }
-.grid.cards.group-other       > ul > li { background-color: #ffe8cc; }
+/* Topic section cards — all same color per group */
+.grid.cards.group-geospatial > ul > li { background-color: var(--color-geospatial); }
+.grid.cards.group-data        > ul > li { background-color: var(--color-data); }
+.grid.cards.group-ai          > ul > li { background-color: var(--color-ai); }
+.grid.cards.group-domain      > ul > li { background-color: var(--color-domain); }
+.grid.cards.group-other       > ul > li { background-color: var(--color-other); }
+
+/* Latest Finds — each card colored by its source section
+   Card 1: Claude Code → AI/ML
+   Card 2: India Open Geo Data → Data Science
+   Card 3: Earth Copilot → AI/ML  */
+.grid.cards.group-latest > ul > li:nth-child(1) { background-color: var(--color-ai); }
+.grid.cards.group-latest > ul > li:nth-child(2) { background-color: var(--color-data); }
+.grid.cards.group-latest > ul > li:nth-child(3) { background-color: var(--color-ai); }
