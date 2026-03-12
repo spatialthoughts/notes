@@ -6,9 +6,9 @@ These notes were scattered across many places and hard to manage. Finally, Claud
 
 ## Latest Finds
 
-- [Claude Tips by Arvid Kahl](https://x.com/arvidkahl/status/2031457304328229184): Tips and best practices for working effectively with Claude AI. Keywords: `Claude` `Claude Code` `tips` `productivity` `LLM` `AI` — [More in Claude Code](Claude_Code.md)
-- [India Open Geo Data](https://yashveeeeeer.github.io/india-geodata/): A unified collection of India's openly-licensed geospatial data across 26 datasets and 11 categories, including administrative boundaries, electoral maps, census data, environmental information, and infrastructure networks. Keywords: `data` `India` `geospatial` `open data` `administrative boundaries` `census` — [More in Data](Data.md)
-- [Earth Copilot](https://github.com/microsoft/Earth-Copilot): An AI-powered geospatial application enabling exploration and visualization of Earth science satellite data through natural language queries, built on Azure AI services and Semantic Kernel agents. Keywords: `AI` `Microsoft` `NASA` `satellite data` `natural language` `geospatial` — [More in AI](AI.md)
+- [Claude Tips by Arvid Kahl](https://x.com/arvidkahl/status/2031457304328229184): Tips and best practices for working effectively with Claude AI. [Keywords: `Claude` `Claude Code` `tips` `productivity` `LLM` `AI`] — [More in Claude Code](Claude_Code.md)
+- [India Open Geo Data](https://yashveeeeeer.github.io/india-geodata/): A unified collection of India's openly-licensed geospatial data across 26 datasets and 11 categories, including administrative boundaries, electoral maps, census data, environmental information, and infrastructure networks. [Keywords: `data` `India` `geospatial` `open data` `administrative boundaries` `census`] — [More in Data](Data.md)
+- [Earth Copilot](https://github.com/microsoft/Earth-Copilot): An AI-powered geospatial application enabling exploration and visualization of Earth science satellite data through natural language queries, built on Azure AI services and Semantic Kernel agents. [Keywords: `AI` `Microsoft` `NASA` `satellite data` `natural language` `geospatial`] — [More in AI](AI.md)
 
 ## Topics
 
