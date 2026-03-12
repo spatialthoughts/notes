@@ -8,13 +8,19 @@
 
     Tips and best practices for working effectively with Claude AI.
 
+    [:octicons-arrow-right-24: More in Claude Code](Claude_Code.md)
+
 -   :material-table: **[India Open Geo Data](https://yashveeeeeer.github.io/india-geodata/)**
 
     A unified collection of India's openly-licensed geospatial data across 26 datasets and 11 categories.
 
+    [:octicons-arrow-right-24: More in Data](Data.md)
+
 -   :material-robot: **[Earth Copilot](https://github.com/microsoft/Earth-Copilot)**
 
     An AI-powered geospatial app for exploring Earth science satellite data via natural language queries.
+
+    [:octicons-arrow-right-24: More in AI](AI.md)
 
 </div>
 
