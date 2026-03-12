@@ -1,0 +1,72 @@
+site_name: Notes
+site_url: https://spatialthoughts.github.io/notes/
+docs_dir: content
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: teal
+      accent: cyan
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: teal
+      accent: cyan
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.code.copy
+
+plugins:
+  - search
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - admonition
+  - toc:
+      permalink: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
+
+nav:
+  - Home: index.md
+  - Geospatial Tools:
+    - QGIS: QGIS.md
+    - PyQGIS: PyQGIS.md
+    - GEE: GEE.md
+    - STAC: STAC.md
+    - Web Mapping: Web_Mapping.md
+    - Cartography: Cartography.md
+  - Data Science:
+    - Python: Python.md
+    - SQL: SQL.md
+    - XArray: XArray.md
+    - Data: Data.md
+    - Git: Git.md
+  - AI & Machine Learning:
+    - AI: AI.md
+    - Machine Learning: Machine_Learning.md
+    - Deep Learning: Deep_Learning.md
+    - Embeddings: Embeddings.md
+    - Claude Code: Claude_Code.md
+  - Domain Applications:
+    - Remote Sensing: Remote_Sensing.md
+    - Climate: Climate.md
+    - Agriculture: Agriculture.md
+    - Water Resources: Water_Resources.md
+    - Urban Planning: Urban_Planning.md
+  - Other:
+    - Papers: Papers.md
+    - Miscellaneous: Misc.md
