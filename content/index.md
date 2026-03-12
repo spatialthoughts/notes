@@ -1,4 +1,8 @@
-# Notes
+# Ujaval's Notes and Bookmarks
+
+This site is a collection of my personal notes and bookmarks collected over the years. It is organized to help search and recall specific items or find notes related to a certain topic. 
+
+These notes were scattered across many places and hard to manage. Finally, Claude Code helped organize this and build this site. These will now be auto-updated weekly from my notes.
 
 ## Latest Finds
 
@@ -18,13 +22,7 @@
 
 -   :material-earth: **[GEE](GEE.md)**
 
--   :material-database-search: **[STAC](STAC.md)**
-
 -   :material-web: **[Web Mapping](Web_Mapping.md)**
-
--   :material-palette: **[Cartography](Cartography.md)**
-
--   :material-satellite-variant: **[Remote Sensing](Remote_Sensing.md)**
 
 </div>
 
@@ -36,9 +34,9 @@
 
 -   :material-database: **[SQL](SQL.md)**
 
--   :material-cube-outline: **[XArray](XArray.md)**
+-   :material-database-search: **[STAC](STAC.md)**
 
--   :material-table: **[Data](Data.md)**
+-   :material-cube-outline: **[XArray](XArray.md)**
 
 -   :fontawesome-brands-git-alt: **[Git](Git.md)**
 
@@ -64,6 +62,10 @@
 
 <div class="grid cards group-domain" markdown>
 
+-   :material-palette: **[Cartography](Cartography.md)**
+
+-   :material-satellite-variant: **[Remote Sensing](Remote_Sensing.md)**
+
 -   :material-weather-cloudy: **[Climate](Climate.md)**
 
 -   :material-sprout: **[Agriculture](Agriculture.md)**
@@ -77,6 +79,8 @@
 ### Other
 
 <div class="grid cards group-other" markdown>
+
+-   :material-table: **[Data](Data.md)**
 
 -   :material-file-document: **[Papers](Papers.md)**
 
