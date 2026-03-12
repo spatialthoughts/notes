@@ -27,6 +27,9 @@ theme:
     - search.share
     - content.code.copy
 
+extra_css:
+  - stylesheets/extra.css
+
 plugins:
   - search
 
@@ -45,31 +48,27 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - Geospatial Tools:
+  - Notes:
     - QGIS: QGIS.md
     - PyQGIS: PyQGIS.md
     - GEE: GEE.md
     - STAC: STAC.md
     - Web Mapping: Web_Mapping.md
     - Cartography: Cartography.md
-  - Data Science:
+    - Remote Sensing: Remote_Sensing.md
     - Python: Python.md
     - SQL: SQL.md
     - XArray: XArray.md
     - Data: Data.md
     - Git: Git.md
-  - AI & Machine Learning:
     - AI: AI.md
     - Machine Learning: Machine_Learning.md
     - Deep Learning: Deep_Learning.md
     - Embeddings: Embeddings.md
     - Claude Code: Claude_Code.md
-  - Domain Applications:
-    - Remote Sensing: Remote_Sensing.md
     - Climate: Climate.md
     - Agriculture: Agriculture.md
     - Water Resources: Water_Resources.md
     - Urban Planning: Urban_Planning.md
-  - Other:
     - Papers: Papers.md
     - Miscellaneous: Misc.md
