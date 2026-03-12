@@ -20,7 +20,7 @@ theme:
   features:
     - navigation.tabs
     - navigation.tabs.sticky
-    - navigation.sections
+    - navigation.expand
     - navigation.top
     - search.suggest
     - search.highlight
@@ -47,8 +47,8 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 nav:
-  - Home: index.md
   - Notes:
+    - Home: index.md
     - QGIS: QGIS.md
     - PyQGIS: PyQGIS.md
     - GEE: GEE.md
