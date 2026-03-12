@@ -1,0 +1,9 @@
+/* Pastel background colors cycling through grid cards */
+.grid.cards > ul > li:nth-child(8n+1) { background-color: #ffd6d6; }
+.grid.cards > ul > li:nth-child(8n+2) { background-color: #ffe8cc; }
+.grid.cards > ul > li:nth-child(8n+3) { background-color: #fffacc; }
+.grid.cards > ul > li:nth-child(8n+4) { background-color: #ccf5d6; }
+.grid.cards > ul > li:nth-child(8n+5) { background-color: #cce5ff; }
+.grid.cards > ul > li:nth-child(8n+6) { background-color: #e5ccff; }
+.grid.cards > ul > li:nth-child(8n+7) { background-color: #ffd6f0; }
+.grid.cards > ul > li:nth-child(8n+8) { background-color: #ccfff5; }
