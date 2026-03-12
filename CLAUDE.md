@@ -27,8 +27,8 @@ Prioritize the ability to search and recall specific items. These notes are prim
 - Next go to any new daily notes and process them.
 
 ### Update the website
-- Update Latest Finds section 
-- Push the notes to GitHub
+- Update the "Latest Finds" section with 3 latest notes. Ensure each note is from a different topic.
+- Push the notes to GitHub.
 
 ## Instructions
 
