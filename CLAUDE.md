@@ -26,6 +26,10 @@ Prioritize the ability to search and recall specific items. These notes are prim
 - Update topic notes first, if there are new notes which were not processed, processing them first.
 - Next go to any new daily notes and process them.
 
+### Update the website
+- Update Latest Finds section 
+- Push the notes to GitHub
+
 ## Instructions
 
 ### General Notes Organizing Instructions
