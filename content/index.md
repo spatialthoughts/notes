@@ -6,9 +6,9 @@ These notes were scattered across many places and hard to manage. Finally, Claud
 
 ## Latest Finds
 
+- [Copernicus Master in Digital Earth](https://www.master-cde.eu/): European master's degree program focused on advanced geospatial technology, Earth observation, and satellite data for understanding planetary systems. [Keywords: `Earth observation` `geospatial science` `satellite data` `Europe` `master's degree`] — [More in Miscellaneous](Misc.md)
 - [Claude Tips by Arvid Kahl](https://x.com/arvidkahl/status/2031457304328229184): Tips and best practices for working effectively with Claude AI. [Keywords: `Claude` `Claude Code` `tips` `productivity` `LLM` `AI`] — [More in Claude Code](Claude_Code.md)
 - [India Open Geo Data](https://yashveeeeeer.github.io/india-geodata/): A unified collection of India's openly-licensed geospatial data across 26 datasets and 11 categories, including administrative boundaries, electoral maps, census data, environmental information, and infrastructure networks. [Keywords: `data` `India` `geospatial` `open data` `administrative boundaries` `census`] — [More in Data](Data.md)
-- [Earth Copilot](https://github.com/microsoft/Earth-Copilot): An AI-powered geospatial application enabling exploration and visualization of Earth science satellite data through natural language queries, built on Azure AI services and Semantic Kernel agents. [Keywords: `AI` `Microsoft` `NASA` `satellite data` `natural language` `geospatial`] — [More in AI](AI.md)
 
 ## Topics
 
