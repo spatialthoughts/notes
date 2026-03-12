@@ -1,5 +1,23 @@
 # Notes
 
+## Latest Finds
+
+<div class="grid cards group-latest" markdown>
+
+-   :material-console: **[Claude Tips by Arvid Kahl](https://x.com/arvidkahl/status/2031457304328229184)**
+
+    Tips and best practices for working effectively with Claude AI.
+
+-   :material-table: **[India Open Geo Data](https://yashveeeeeer.github.io/india-geodata/)**
+
+    A unified collection of India's openly-licensed geospatial data across 26 datasets and 11 categories.
+
+-   :material-robot: **[Earth Copilot](https://github.com/microsoft/Earth-Copilot)**
+
+    An AI-powered geospatial app for exploring Earth science satellite data via natural language queries.
+
+</div>
+
 ## Topics
 
 ### Geospatial Tools

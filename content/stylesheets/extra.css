@@ -1,3 +1,6 @@
+/* Latest Finds */
+.grid.cards.group-latest      > ul > li { background-color: #ffd6d6; }
+
 /* One pastel color per group */
 .grid.cards.group-geospatial > ul > li { background-color: #cce5ff; }
 .grid.cards.group-data        > ul > li { background-color: #fffacc; }
