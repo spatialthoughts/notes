@@ -2,6 +2,8 @@
 
 ## 2026
 
+- [Streaming millions of TESSERA tiles over HTTP with Zarr v3](https://anil.recoil.org/notes/tessera-zarr-v3-layout): Describes how TESSERA's geospatial embedding system was restructured from millions of individual NumPy files into sharded Zarr v3 stores per year, enabling efficient HTTP range requests for single-pixel to regional data retrieval with xarray/dask compatibility. [Keywords: `TESSERA` `Zarr` `embeddings` `HTTP` `geospatial` `xarray` `dask` `cloud native`]
+
 - [The Technical Debt of Earth Embedding Products](https://cloudnativegeo.org/blog/2026/02/the-technical-debt-of-earth-embedding-products/): Examines fragmentation and interoperability challenges in Earth embedding products, arguing that standardizing how embeddings are distributed, stored, and accessed is the real bottleneck for geospatial foundation models. [Keywords: `embeddings` `geospatial` `foundation models` `interoperability` `technical debt` `cloud native`]
 
 ## 2025

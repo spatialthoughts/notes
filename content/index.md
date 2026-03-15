@@ -6,9 +6,9 @@ These notes were scattered across many places and hard to manage. Finally, Claud
 
 ## Latest Finds
 
+- [Streaming millions of TESSERA tiles over HTTP with Zarr v3](https://anil.recoil.org/notes/tessera-zarr-v3-layout): Describes how TESSERA's geospatial embedding system was restructured into sharded Zarr v3 stores, enabling efficient HTTP range requests for single-pixel to regional data retrieval with xarray/dask compatibility. [Keywords: `TESSERA` `Zarr` `embeddings` `HTTP` `geospatial`] — [More in Embeddings](Embeddings.md)
 - [Groundsource: Historic Urban Flash Floods Dataset](https://zenodo.org/records/18647054): An open global dataset of 2.6 million historical flood events derived from news articles spanning 150+ countries. [Keywords: `flood events` `urban floods` `historical data` `open data` `hydrology`] — [More in Data](Data.md)
 - [NISAR Soil Moisture Analytics](https://github.com/anil002/nisar-analysis): Python tools for analyzing NISAR satellite data for soil moisture retrieval and related surface parameter estimation. [Keywords: `NISAR` `SAR` `soil moisture` `remote sensing` `Python`] — [More in Remote Sensing](Remote_Sensing.md)
-- [Claude Tips by Arvid Kahl](https://x.com/arvidkahl/status/2031457304328229184): Tips and best practices for working effectively with Claude AI. [Keywords: `Claude` `Claude Code` `tips` `productivity` `LLM` `AI`] — [More in Claude Code](Claude_Code.md)
 
 ## Topics
 
