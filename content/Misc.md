@@ -2,6 +2,8 @@
 
 ## 2026
 
+- [OpenDataLoader PDF](https://github.com/opendataloader-project/opendataloader-pdf/tree/main): Open-source PDF parser that extracts data in AI-ready formats including structured Markdown, JSON with bounding boxes, and HTML while preserving layout. Features OCR capabilities and PDF accessibility automation. [Keywords: `PDF` `OCR` `data extraction` `Python` `open source`]
+
 - [Copernicus Master in Digital Earth](https://www.master-cde.eu/): European master's degree program focused on advanced geospatial technology, Earth observation, and satellite data for understanding planetary systems. [Keywords: `Earth observation` `geospatial science` `satellite data` `Europe` `master's degree`]
 
 - [Dark Store Map India](https://darkstoremap.in/): Tool for visualizing dark store (quick commerce) locations using isochrone delivery coverage analysis across Indian cities. [Keywords: `quick commerce` `logistics` `isochrone` `delivery` `India` `urban`]
