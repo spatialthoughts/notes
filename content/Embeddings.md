@@ -2,6 +2,10 @@
 
 ## 2026
 
+- [S2Vec: Mapping the Modern World](https://research.google/blog/mapping-the-modern-world-how-s2vec-learns-the-language-of-our-cities/): Google Research's S2Vec framework uses masked autoencoding on rasterized Google Maps tiles (S2 Geometry cells) to generate general-purpose embeddings of the built environment, enabling prediction of socioeconomic and environmental metrics like population density, income, and carbon emissions at global scale. [Keywords: `S2Vec` `embeddings` `masked autoencoding` `S2 Geometry` `Google Maps` `urban analytics` `geospatial ML` `self-supervised` `socioeconomic`]
+
+- [Geospatial Skills for Coding Agents](https://isaac.earth/geospatial-skills/): A catalog of installable geospatial skills for coding agents (including Claude), providing plug-in workflows for GDAL, GeoParquet validation, and TESSERA embeddings via the `geotessera` CLI. [Keywords: `Claude Code` `coding agents` `GDAL` `GeoParquet` `TESSERA` `geotessera` `geospatial` `remote sensing` `Python`]
+
 - [Streaming millions of TESSERA tiles over HTTP with Zarr v3](https://anil.recoil.org/notes/tessera-zarr-v3-layout): Describes how TESSERA's geospatial embedding system was restructured from millions of individual NumPy files into sharded Zarr v3 stores per year, enabling efficient HTTP range requests for single-pixel to regional data retrieval with xarray/dask compatibility. [Keywords: `TESSERA` `Zarr` `embeddings` `HTTP` `geospatial` `xarray` `dask` `cloud native`]
 
 - [The Technical Debt of Earth Embedding Products](https://cloudnativegeo.org/blog/2026/02/the-technical-debt-of-earth-embedding-products/): Examines fragmentation and interoperability challenges in Earth embedding products, arguing that standardizing how embeddings are distributed, stored, and accessed is the real bottleneck for geospatial foundation models. [Keywords: `embeddings` `geospatial` `foundation models` `interoperability` `technical debt` `cloud native`]

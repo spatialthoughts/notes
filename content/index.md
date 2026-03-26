@@ -8,7 +8,7 @@ These notes were scattered across many places and hard to manage. Finally, Claud
 
 - [Simple Georeferencer](https://evanapplegate.github.io/simple-georeferencer/): A browser-based tool for georeferencing raster images by adding ground control points to warp images onto an interactive map, with multiple basemap and projection options and GeoTIFF export. [Keywords: `georeferencing` `GIS` `raster` `browser` `geospatial` `GeoTIFF`] — [More in Tools](Tools.md)
 - [Stop Slop](https://github.com/hardikpandya/stop-slop): A Claude skill file designed to identify and remove telltale patterns of AI-generated writing from prose, helping improve authenticity and readability. [Keywords: `Claude` `Claude Code` `skills` `writing` `AI text` `prompting`] — [More in Claude Code](Claude_Code.md)
-- [Streaming millions of TESSERA tiles over HTTP with Zarr v3](https://anil.recoil.org/notes/tessera-zarr-v3-layout): Describes how TESSERA's geospatial embedding system was restructured into sharded Zarr v3 stores, enabling efficient HTTP range requests for single-pixel to regional data retrieval with xarray/dask compatibility. [Keywords: `TESSERA` `Zarr` `embeddings` `HTTP` `geospatial`] — [More in Embeddings](Embeddings.md)
+- [S2Vec: Mapping the Modern World](https://research.google/blog/mapping-the-modern-world-how-s2vec-learns-the-language-of-our-cities/): Google Research's S2Vec framework uses masked autoencoding on Google Maps tiles to generate embeddings of the built environment, enabling prediction of socioeconomic metrics like population density and carbon emissions at global scale. [Keywords: `S2Vec` `embeddings` `Google Maps` `urban analytics` `geospatial ML`] — [More in Embeddings](Embeddings.md)
 
 ## Topics
 
