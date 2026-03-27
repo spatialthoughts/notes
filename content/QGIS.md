@@ -1,5 +1,9 @@
 # QGIS
 
+## 2026
+
+- [QGIS India User Group](https://in.qgis.org/): Community of QGIS users passionate about open-source geospatial technology, dedicated to promoting QGIS adoption, facilitating knowledge exchange, and organizing local learning events across India. [Keywords: `QGIS` `India` `community` `open-source` `geospatial` `user group`]
+
 ## 2025
 
 - [Aurora Map QGIS](https://hkuril.com/html/en/articles/aurora_maps.html): Tutorial on creating stunning aurora borealis style maps using QGIS. [Keywords: `QGIS` `cartography` `maps` `visualization` `aurora`]

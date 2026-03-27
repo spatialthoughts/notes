@@ -6,9 +6,9 @@ These notes were scattered across many places and hard to manage. Finally, Claud
 
 ## Latest Finds
 
+- [QGIS India User Group](https://in.qgis.org/): Community of QGIS users passionate about open-source geospatial technology, dedicated to promoting QGIS adoption, facilitating knowledge exchange, and organizing local learning events across India. [Keywords: `QGIS` `India` `community` `open-source` `geospatial` `user group`] — [More in QGIS](QGIS.md)
 - [S2Vec: Mapping the Modern World](https://research.google/blog/mapping-the-modern-world-how-s2vec-learns-the-language-of-our-cities/): Google Research's S2Vec framework uses masked autoencoding on rasterized Google Maps tiles to generate general-purpose embeddings of the built environment, enabling prediction of socioeconomic metrics like population density, income, and carbon emissions at global scale. [Keywords: `S2Vec` `embeddings` `masked autoencoding` `Google Maps` `urban analytics` `geospatial ML`] — [More in Embeddings](Embeddings.md)
 - [Simple Georeferencer](https://evanapplegate.github.io/simple-georeferencer/): A browser-based tool for georeferencing raster images by adding ground control points to warp images onto an interactive map, with multiple basemap and projection options and GeoTIFF export. [Keywords: `georeferencing` `GIS` `raster` `browser` `geospatial` `GeoTIFF`] — [More in Tools](Tools.md)
-- [Humanizer SKILL](https://github.com/blader/humanizer/blob/main/SKILL.md): A Claude skill file that identifies and removes 25+ patterns of AI-generated text to make writing sound more natural and human, including inflated language, promotional tone, and stylistic tics. [Keywords: `Claude` `Claude Code` `skills` `writing` `AI text` `prompting`] — [More in Claude Code](Claude_Code.md)
 
 ## Topics
 
