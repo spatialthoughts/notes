@@ -37,6 +37,8 @@ Prioritize the ability to search and recall specific items. These notes are prim
 - Use a bullet point for each note
 - Follow the format [title](url]): 1-2 line description
 - Visit the URL and generate an accurate short description
+- Keep existing description. You may fix grammar and typos in existing description.
+- If there are more than 1 link, use the best link for url but include other links as [GitHub](github link), [Learn more](other_link) etc.
 - Add keywords - focused on tech stack, programming language, application area
 
 ### How to process the topic notes
