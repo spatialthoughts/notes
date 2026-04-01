@@ -2,6 +2,8 @@
 
 ## 2026
 
+- [Agribound](https://github.com/montimaj/agribound): A Python toolkit for agricultural field boundary delineation from satellite imagery, combining seven approaches including object detection, semantic segmentation, vision transformers, foundation models, and multi-engine ensembling, with support for Landsat, Sentinel-2, HLS, NAIP, SPOT, and pre-computed embeddings. [Keywords: `agriculture` `field boundaries` `satellite imagery` `Python` `deep learning` `remote sensing` `Sentinel-2` `Landsat`]
+
 - [NISAR Soil Moisture Analytics](https://github.com/anil002/nisar-analysis): Python tools for analyzing NISAR satellite data for soil moisture retrieval and related surface parameter estimation. [Keywords: `NISAR` `SAR` `soil moisture` `remote sensing` `Python`]
 
 ## 2025

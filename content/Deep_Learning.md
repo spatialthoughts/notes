@@ -2,6 +2,8 @@
 
 ## 2026
 
+- [Antelope Valley Wildflower Forecast](https://antelope.leaftime.net/): An AI-powered bloom prediction tool for California poppies and goldfields in Antelope Valley, using deep learning on satellite imagery and weather data (accumulated precipitation, growing degree days, wind speed) to forecast wildflower blooms 5 days in advance. [Keywords: `deep learning` `remote sensing` `wildflower` `bloom prediction` `satellite imagery` `weather` `California`]
+
 - [Urban Change Forecasting from Satellite Images](https://link.springer.com/article/10.1007/s41064-023-00258-8): Uses a UNet model to predict imminent urban change from satellite imagery, enabling proactive urban planning and monitoring. [Keywords: `deep learning` `urban change` `UNet` `satellite imagery` `urban planning` `forecasting`]
 
 ## 2025
