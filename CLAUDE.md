@@ -18,6 +18,8 @@ Prioritize the ability to search and recall specific items. These notes are prim
 
 ## Workflow
 
+Always to git pull to fetch the latest changes from Github.
+
 ### Processing for the first time
 - Identify all topic notes. Merge similar topics in a single file
 - Follow the topic notes processing instructions below
