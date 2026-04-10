@@ -1,5 +1,9 @@
 # Climate
 
+## 2026
+
+- [MausamNow](https://open.substack.com/pub/abhijitvaidya/p/your-weather-app-wasnt-built-for): A Progressive Web App that synthesizes forecasts from multiple weather models (GFS, ECMWF, IMD) alongside radar and satellite data to deliver hyperlocal rain predictions for Indian cities — showing which localities will be affected, intensity, and trend. [Keywords: `weather` `India` `hyperlocal` `monsoon` `forecasting` `GFS` `ECMWF` `IMD`]
+
 ## 2025
 
 - [Unprecedented Continental Drying](https://www.science.org/doi/10.1126/sciadv.adx0298): Science Advances paper documenting unprecedented continental drying, shrinking freshwater availability, and increasing land contributions to sea level rise globally. [Keywords: `climate` `freshwater` `drought` `sea level rise` `hydrology`]

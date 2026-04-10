@@ -2,6 +2,8 @@
 
 ## 2026
 
+- [Clicky](https://github.com/farzaa/clicky): An open-source macOS menu bar app that uses Claude as a screen-aware AI tutor, allowing users to point at UI elements and get contextual explanations. Designed to be set up via Claude Code. [Keywords: `Claude Code` `Claude` `macOS` `AI tutor` `screen awareness` `learning` `education`]
+
 - [Humanizer SKILL](https://github.com/blader/humanizer/blob/main/SKILL.md): A Claude skill file that identifies and removes 25+ patterns of AI-generated text to make writing sound more natural and human, including inflated language, promotional tone, and stylistic tics. [Keywords: `Claude` `Claude Code` `skills` `writing` `AI text` `prompting`]
 
 - [Stop Slop](https://github.com/hardikpandya/stop-slop): A Claude skill file designed to identify and remove telltale patterns of AI-generated writing from prose, helping improve authenticity and readability. [Keywords: `Claude` `Claude Code` `skills` `writing` `AI text` `prompting`]
