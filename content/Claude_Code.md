@@ -2,6 +2,8 @@
 
 ## 2026
 
+- [Geospatial Skills for Claude Code](https://isaac.earth/geospatial-skills/#catalog): A catalog of installable geospatial tools and capabilities designed for coding agents, covering raster/vector processing, satellite data, and interactive visualization. [Keywords: `Claude Code` `geospatial` `agents` `skills` `raster` `vector` `satellite`]
+
 - [Clicky](https://github.com/farzaa/clicky): An open-source macOS menu bar app that uses Claude as a screen-aware AI tutor, allowing users to point at UI elements and get contextual explanations. Designed to be set up via Claude Code. [Keywords: `Claude Code` `Claude` `macOS` `AI tutor` `screen awareness` `learning` `education`]
 
 - [Humanizer SKILL](https://github.com/blader/humanizer/blob/main/SKILL.md): A Claude skill file that identifies and removes 25+ patterns of AI-generated text to make writing sound more natural and human, including inflated language, promotional tone, and stylistic tics. [Keywords: `Claude` `Claude Code` `skills` `writing` `AI text` `prompting`]

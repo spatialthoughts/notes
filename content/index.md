@@ -6,8 +6,8 @@ These notes were scattered across many places and hard to manage. Finally, Claud
 
 ## Latest Finds
 
-- [Clicky](https://github.com/farzaa/clicky): An open-source macOS menu bar app that uses Claude as a screen-aware AI tutor, allowing users to point at UI elements and get contextual explanations. Designed to be set up via Claude Code. [Keywords: `Claude Code` `Claude` `macOS` `AI tutor` `screen awareness` `learning` `education`] — [More in Claude Code](Claude_Code.md)
-- [OAQ: Open Air Quality](https://oaq.notf.in/): An open platform for hyperlocal air quality data built by researchers, community organizations, and residents across India, providing real-time monitoring and trend analysis tools. [Keywords: `air quality` `India` `open data` `hyperlocal` `environment` `monitoring`] — [More in Data](Data.md)
+- [Geospatial Skills for Claude Code](https://isaac.earth/geospatial-skills/#catalog): A catalog of installable geospatial tools and capabilities designed for coding agents, covering raster/vector processing, satellite data, and interactive visualization. [Keywords: `Claude Code` `geospatial` `agents` `skills` `raster` `vector` `satellite`] — [More in Claude Code](Claude_Code.md)
+- [Wikipedia Geotagged Articles](https://github.com/Shane98c/wiki-geoparquet): Converts English Wikipedia articles with geographic coordinates into GeoParquet and PMTiles formats, enabling efficient spatial queries and interactive mapping of geotagged encyclopedic content. [Keywords: `data` `Wikipedia` `GeoParquet` `PMTiles` `geospatial` `vector tiles`] — [More in Data](Data.md)
 - [MausamNow](https://open.substack.com/pub/abhijitvaidya/p/your-weather-app-wasnt-built-for): A Progressive Web App that synthesizes forecasts from multiple weather models (GFS, ECMWF, IMD) alongside radar and satellite data to deliver hyperlocal rain predictions for Indian cities — showing which localities will be affected, intensity, and trend. [Keywords: `weather` `India` `hyperlocal` `monsoon` `forecasting` `GFS` `ECMWF` `IMD`] — [More in Climate](Climate.md)
 
 ## Topics

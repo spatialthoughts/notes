@@ -2,6 +2,8 @@
 
 ## 2026
 
+- [Wikipedia Geotagged Articles](https://github.com/Shane98c/wiki-geoparquet): Converts English Wikipedia articles with geographic coordinates into GeoParquet and PMTiles formats, enabling efficient spatial queries and interactive mapping of geotagged encyclopedic content. [Keywords: `data` `Wikipedia` `GeoParquet` `PMTiles` `geospatial` `vector tiles`]
+
 - [OAQ: Open Air Quality](https://oaq.notf.in/): An open platform for hyperlocal air quality data built by researchers, community organizations, and residents across India, providing real-time monitoring and trend analysis tools. [Keywords: `air quality` `India` `open data` `hyperlocal` `environment` `monitoring`]
 
 - [Historical Basemaps](https://github.com/aourednik/historical-basemaps): A collection of georeferenced historical boundaries of world countries and cultural regions in GeoJSON and SVG formats, designed for mapping historical data at global and continental scales. [Keywords: `data` `historical` `boundaries` `GeoJSON` `SVG` `cartography` `geospatial`]
