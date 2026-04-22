@@ -6,9 +6,9 @@ These notes were scattered across many places and hard to manage. Finally, Claud
 
 ## Latest Finds
 
-- [Geospatial Skills for Claude Code](https://isaac.earth/geospatial-skills/#catalog): A catalog of installable geospatial tools and capabilities designed for coding agents, covering raster/vector processing, satellite data, and interactive visualization. [Keywords: `Claude Code` `geospatial` `agents` `skills` `raster` `vector` `satellite`] — [More in Claude Code](Claude_Code.md)
+- [Karpathy-Inspired Claude Code Guidelines](https://github.com/forrestchang/andrej-karpathy-skills): A single CLAUDE.md file derived from Andrej Karpathy's observations on LLM coding pitfalls, enforcing four principles: Think Before Coding, Simplicity First, Surgical Changes, and Goal-Driven Execution. [Keywords: `Claude Code` `CLAUDE.md` `guidelines` `prompting` `best practices` `Karpathy`] — [More in Claude Code](Claude_Code.md)
+- [Leaflet.Canvas-Flowmap-Layer](https://github.com/jwasilgeo/Leaflet.Canvas-Flowmap-Layer): A Leaflet plugin for mapping the flow of objects, ideas, or people using animated Bezier curves rendered on HTML canvas — great for origin-destination flow map visualizations. [Keywords: `web mapping` `Leaflet` `flowmap` `origin-destination` `animation` `canvas` `JavaScript`] — [More in Web Mapping](Web_Mapping.md)
 - [Wikipedia Geotagged Articles](https://github.com/Shane98c/wiki-geoparquet): Converts English Wikipedia articles with geographic coordinates into GeoParquet and PMTiles formats, enabling efficient spatial queries and interactive mapping of geotagged encyclopedic content. [Keywords: `data` `Wikipedia` `GeoParquet` `PMTiles` `geospatial` `vector tiles`] — [More in Data](Data.md)
-- [MausamNow](https://open.substack.com/pub/abhijitvaidya/p/your-weather-app-wasnt-built-for): A Progressive Web App that synthesizes forecasts from multiple weather models (GFS, ECMWF, IMD) alongside radar and satellite data to deliver hyperlocal rain predictions for Indian cities — showing which localities will be affected, intensity, and trend. [Keywords: `weather` `India` `hyperlocal` `monsoon` `forecasting` `GFS` `ECMWF` `IMD`] — [More in Climate](Climate.md)
 
 ## Topics
 

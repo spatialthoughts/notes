@@ -2,6 +2,8 @@
 
 ## 2026
 
+- [Leaflet.Canvas-Flowmap-Layer](https://github.com/jwasilgeo/Leaflet.Canvas-Flowmap-Layer): A Leaflet plugin for mapping the flow of objects, ideas, or people using animated Bezier curves rendered on HTML canvas — great for origin-destination flow map visualizations. [Keywords: `web mapping` `Leaflet` `flowmap` `origin-destination` `animation` `canvas` `JavaScript`]
+
 - [Standalone Web Maps Workshop - FOSS4G 2025](https://mizmay.github.io/standalone_web_maps_foss4g2025/workshop/welcome/): Workshop teaching creation of standalone web maps using Overpass and MapLibre, then deploying to GitHub Pages without a server. [Keywords: `web mapping` `MapLibre` `GitHub Pages` `OSM` `FOSS4G` `JavaScript`]
 
 ## 2025
