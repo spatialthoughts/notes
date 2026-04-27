@@ -2,6 +2,8 @@
 
 ## 2026
 
+- [Field Boundaries of the World](https://fieldsofthe.world/): An open ecosystem using satellite imagery and machine learning to detect and map 3.17 billion agricultural field boundaries across 241 countries, offering a benchmark dataset and interactive explorer for global agriculture mapping. [Keywords: `agricultural fields` `field boundaries` `satellite imagery` `machine learning` `global dataset` `open data` `geospatial`]
+
 - [Wikipedia Geotagged Articles](https://github.com/Shane98c/wiki-geoparquet): Converts English Wikipedia articles with geographic coordinates into GeoParquet and PMTiles formats, enabling efficient spatial queries and interactive mapping of geotagged encyclopedic content. [Keywords: `data` `Wikipedia` `GeoParquet` `PMTiles` `geospatial` `vector tiles`]
 
 - [OAQ: Open Air Quality](https://oaq.notf.in/): An open platform for hyperlocal air quality data built by researchers, community organizations, and residents across India, providing real-time monitoring and trend analysis tools. [Keywords: `air quality` `India` `open data` `hyperlocal` `environment` `monitoring`]

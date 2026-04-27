@@ -6,9 +6,9 @@ These notes were scattered across many places and hard to manage. Finally, Claud
 
 ## Latest Finds
 
-- [Karpathy-Inspired Claude Code Guidelines](https://github.com/forrestchang/andrej-karpathy-skills): A single CLAUDE.md file derived from Andrej Karpathy's observations on LLM coding pitfalls, enforcing four principles: Think Before Coding, Simplicity First, Surgical Changes, and Goal-Driven Execution. [Keywords: `Claude Code` `CLAUDE.md` `guidelines` `prompting` `best practices` `Karpathy`] — [More in Claude Code](Claude_Code.md)
-- [Leaflet.Canvas-Flowmap-Layer](https://github.com/jwasilgeo/Leaflet.Canvas-Flowmap-Layer): A Leaflet plugin for mapping the flow of objects, ideas, or people using animated Bezier curves rendered on HTML canvas — great for origin-destination flow map visualizations. [Keywords: `web mapping` `Leaflet` `flowmap` `origin-destination` `animation` `canvas` `JavaScript`] — [More in Web Mapping](Web_Mapping.md)
-- [Wikipedia Geotagged Articles](https://github.com/Shane98c/wiki-geoparquet): Converts English Wikipedia articles with geographic coordinates into GeoParquet and PMTiles formats, enabling efficient spatial queries and interactive mapping of geotagged encyclopedic content. [Keywords: `data` `Wikipedia` `GeoParquet` `PMTiles` `geospatial` `vector tiles`] — [More in Data](Data.md)
+- [Matt Pocock's Claude Code Skills](https://github.com/mattpocock/skills): A collection of reusable AI-powered agent skills for engineers covering tasks like test-driven development, code refactoring, architectural improvements, and project planning. [Keywords: `Claude Code` `skills` `agents` `TDD` `refactoring` `TypeScript` `productivity`] — [More in Claude Code](Claude_Code.md)
+- [Field Boundaries of the World](https://fieldsofthe.world/): An open ecosystem using satellite imagery and machine learning to detect and map 3.17 billion agricultural field boundaries across 241 countries, offering a benchmark dataset and interactive explorer for global agriculture mapping. [Keywords: `agricultural fields` `field boundaries` `satellite imagery` `machine learning` `global dataset` `open data` `geospatial`] — [More in Data](Data.md)
+- [GeoParquet Writing Cookbook](https://www.geomermaids.com/cookbook/geoparquet/): A practical guide with best practices and recipes for creating GeoParquet files using tools like GDAL, DuckDB, and geopandas, covering encoding strategies and optimization techniques for cloud-native geospatial workflows. [Keywords: `GeoParquet` `DuckDB` `GDAL` `cloud-native` `geospatial` `spatial queries`] — [More in DuckDB](DuckDB.md)
 
 ## Topics
 
@@ -39,6 +39,8 @@ These notes were scattered across many places and hard to manage. Finally, Claud
 -   :material-cube-outline: **[XArray](XArray.md)**
 
 -   :fontawesome-brands-git-alt: **[Git](Git.md)**
+
+-   :material-duck: **[DuckDB](DuckDB.md)**
 
 </div>
 

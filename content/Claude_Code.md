@@ -2,6 +2,8 @@
 
 ## 2026
 
+- [Matt Pocock's Claude Code Skills](https://github.com/mattpocock/skills): A collection of reusable AI-powered agent skills for engineers covering tasks like test-driven development, code refactoring, architectural improvements, and project planning — from the creator's personal development toolkit. [Keywords: `Claude Code` `skills` `agents` `TDD` `refactoring` `TypeScript` `productivity`]
+
 - [Karpathy-Inspired Claude Code Guidelines](https://github.com/forrestchang/andrej-karpathy-skills): A single CLAUDE.md file derived from Andrej Karpathy's observations on LLM coding pitfalls, enforcing four principles: Think Before Coding, Simplicity First, Surgical Changes, and Goal-Driven Execution. [Keywords: `Claude Code` `CLAUDE.md` `guidelines` `prompting` `best practices` `Karpathy`]
 
 - [Geospatial Skills for Claude Code](https://isaac.earth/geospatial-skills/#catalog): A catalog of installable geospatial tools and capabilities designed for coding agents, covering raster/vector processing, satellite data, and interactive visualization. [Keywords: `Claude Code` `geospatial` `agents` `skills` `raster` `vector` `satellite`]
