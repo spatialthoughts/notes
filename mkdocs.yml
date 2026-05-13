@@ -54,11 +54,13 @@ nav:
     - PyQGIS: PyQGIS.md
     - GEE: GEE.md
     - STAC: STAC.md
+    - CNG: CNG.md
     - Web Mapping: Web_Mapping.md
     - Cartography: Cartography.md
     - Remote Sensing: Remote_Sensing.md
     - Python: Python.md
     - SQL: SQL.md
+    - DuckDB: DuckDB.md
     - XArray: XArray.md
     - Data: Data.md
     - Git: Git.md

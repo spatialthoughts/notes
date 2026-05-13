@@ -6,9 +6,9 @@ These notes were scattered across many places and hard to manage. Finally, Claud
 
 ## Latest Finds
 
-- [Matt Pocock's Claude Code Skills](https://github.com/mattpocock/skills): A collection of reusable AI-powered agent skills for engineers covering tasks like test-driven development, code refactoring, architectural improvements, and project planning. [Keywords: `Claude Code` `skills` `agents` `TDD` `refactoring` `TypeScript` `productivity`] — [More in Claude Code](Claude_Code.md)
-- [Field Boundaries of the World](https://fieldsofthe.world/): An open ecosystem using satellite imagery and machine learning to detect and map 3.17 billion agricultural field boundaries across 241 countries, offering a benchmark dataset and interactive explorer for global agriculture mapping. [Keywords: `agricultural fields` `field boundaries` `satellite imagery` `machine learning` `global dataset` `open data` `geospatial`] — [More in Data](Data.md)
-- [GeoParquet Writing Cookbook](https://www.geomermaids.com/cookbook/geoparquet/): A practical guide with best practices and recipes for creating GeoParquet files using tools like GDAL, DuckDB, and geopandas, covering encoding strategies and optimization techniques for cloud-native geospatial workflows. [Keywords: `GeoParquet` `DuckDB` `GDAL` `cloud-native` `geospatial` `spatial queries`] — [More in DuckDB](DuckDB.md)
+- [forge3d](https://github.com/milos-agathon/forge3d): Python-first 3D rendering engine for interactive terrain visualization, scene composition, and point-cloud rendering using satellite imagery and DEMs. Combines a Rust backend with WebGPU/wgpu graphics exposed through Python wheels, supporting raster/vector overlays and cartographic composition. [Keywords: `Python` `3D` `terrain` `visualization` `WebGPU` `DEM` `satellite imagery`] — [More in Python](Python.md)
+- [Yosegi](https://github.com/Kanahiro/yosegi): Python tool that generates pyramid GeoParquet files optimized for efficiently streaming large geospatial datasets. Uses density-based thinning, Sort-Tile-Recursive spatial packing, and GeoParquet 1.1 bbox covering metadata for fast overview queries and row-group pruning. [Keywords: `GeoParquet` `Python` `pyramid` `cloud-native` `optimization`] — [More in CNG](CNG.md)
+- [Freestiler](https://walker-data.com/freestiler/): R and Python tool for creating PMTiles vector tilesets from spatial data, including from DuckDB SQL queries. Uses a Rust tiling engine for in-process performance, producing single `.pmtiles` files compatible with Mapbox and MapLibre formats. [Keywords: `PMTiles` `DuckDB` `R` `Python` `vector tiles` `cloud-native`] — [More in DuckDB](DuckDB.md)
 
 ## Topics
 
@@ -23,6 +23,8 @@ These notes were scattered across many places and hard to manage. Finally, Claud
 -   :material-earth: **[GEE](GEE.md)**
 
 -   :material-web: **[Web Mapping](Web_Mapping.md)**
+
+-   :material-cloud: **[CNG](CNG.md)**
 
 </div>
 

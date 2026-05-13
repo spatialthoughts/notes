@@ -2,6 +2,8 @@
 
 ## 2026
 
+- [forge3d](https://github.com/milos-agathon/forge3d): Python-first 3D rendering engine for interactive terrain visualization, scene composition, and point-cloud rendering using satellite imagery and DEMs. Combines a Rust backend with WebGPU/wgpu graphics exposed through Python wheels, supporting raster/vector overlays and cartographic composition. [Keywords: `Python` `3D` `terrain` `visualization` `WebGPU` `Rust` `DEM` `satellite imagery` `geospatial`]
+
 - [Spatial data science languages: R vs. Python](https://josis.org/index.php/josis/article/view/462): Review article examining spatial data science approaches across R, Python, and Julia, with developer workshop recommendations on standardizing spatial data handling, geodetic coordinates, and data cubes. [Keywords: `Python` `R` `Julia` `spatial data science` `geospatial` `comparison`]
 
 - [geoplanar: Topology Cleaning Package](https://geoplanar.readthedocs.io/en/latest/index.html): A Python library for detecting and correcting violations of planar enforcement in polygon geoseries, including gaps, overlaps, holes, and non-planar edges. [Keywords: `Python` `topology` `geospatial` `polygon` `geometry` `GIS`]
