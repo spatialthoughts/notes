@@ -1,5 +1,9 @@
 # PyQGIS
 
+## 2026
+
+- [QGIS Plugin Dev Tools](https://github.com/nlsfi/qgis-plugin-dev-tools): Development and packaging utilities for QGIS plugins, streamlining the management of runtime dependencies and enabling developers to build, publish, and test their plugins more efficiently. [Keywords: `PyQGIS` `QGIS` `plugin` `packaging` `development` `tools`]
+
 ## 2025
 
 - [Create a QGIS Project via PyQGIS](https://gist.github.com/xen0f0n/3d872d38f033d9231d302315b5ab80d3): GitHub gist showing how to programmatically create a QGIS project using PyQGIS scripting. [Keywords: `PyQGIS` `Python` `QGIS` `project creation` `scripting`]

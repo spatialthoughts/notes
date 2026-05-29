@@ -1,5 +1,9 @@
 # Urban Planning
 
+## 2026
+
+- [Master Plan Viewer](https://datsvarun.github.io/master-plan-viewer/): A lightweight web application that displays georeferenced master plans of Indian cities on an interactive map, utilizing Cloud Optimized GeoTIFFs for efficient streaming and OpenLayers for mapping functionality. [Keywords: `urban planning` `India` `master plan` `web app` `Cloud Optimized GeoTIFF` `OpenLayers`]
+
 ## 2025
 
 - [How Bangalore Uses the Metro](https://diagramchasing.fun/2025/how-bangalore-uses-the-metro): Data analysis of Bangalore metro ridership patterns using RTI data showing the Yellow Line's 16% ridership increase and Lalbagh station's 40% surge after August 2025 opening. [Keywords: `urban planning` `Bangalore` `metro` `transit` `ridership` `data analysis`]

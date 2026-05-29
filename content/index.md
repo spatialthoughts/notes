@@ -6,9 +6,9 @@ These notes were scattered across many places and hard to manage. Finally, Claud
 
 ## Latest Finds
 
-- [forge3d](https://github.com/milos-agathon/forge3d): Python-first 3D rendering engine for interactive terrain visualization, scene composition, and point-cloud rendering using satellite imagery and DEMs. Combines a Rust backend with WebGPU/wgpu graphics exposed through Python wheels, supporting raster/vector overlays and cartographic composition. [Keywords: `Python` `3D` `terrain` `visualization` `WebGPU` `DEM` `satellite imagery`] — [More in Python](Python.md)
-- [Yosegi](https://github.com/Kanahiro/yosegi): Python tool that generates pyramid GeoParquet files optimized for efficiently streaming large geospatial datasets. Uses density-based thinning, Sort-Tile-Recursive spatial packing, and GeoParquet 1.1 bbox covering metadata for fast overview queries and row-group pruning. [Keywords: `GeoParquet` `Python` `pyramid` `cloud-native` `optimization`] — [More in CNG](CNG.md)
-- [Freestiler](https://walker-data.com/freestiler/): R and Python tool for creating PMTiles vector tilesets from spatial data, including from DuckDB SQL queries. Uses a Rust tiling engine for in-process performance, producing single `.pmtiles` files compatible with Mapbox and MapLibre formats. [Keywords: `PMTiles` `DuckDB` `R` `Python` `vector tiles` `cloud-native`] — [More in DuckDB](DuckDB.md)
+- [MarkItDown](https://github.com/microsoft/markitdown): A lightweight Python utility by Microsoft that converts various files (PDFs, Word, Excel, PowerPoint, images, audio) to Markdown format for use with LLMs and text analysis pipelines. [Keywords: `Python` `Markdown` `PDF` `Office` `conversion` `LLM` `tools` `Microsoft`] — [More in Tools](Tools.md)
+- [QGIS Plugin Dev Tools](https://github.com/nlsfi/qgis-plugin-dev-tools): Development and packaging utilities for QGIS plugins, streamlining the management of runtime dependencies and enabling developers to build, publish, and test their plugins more efficiently. [Keywords: `PyQGIS` `QGIS` `plugin` `packaging` `development` `tools`] — [More in PyQGIS](PyQGIS.md)
+- [Master Plan Viewer](https://datsvarun.github.io/master-plan-viewer/): A lightweight web application that displays georeferenced master plans of Indian cities on an interactive map, utilizing Cloud Optimized GeoTIFFs for efficient streaming and OpenLayers for mapping functionality. [Keywords: `urban planning` `India` `master plan` `web app` `Cloud Optimized GeoTIFF` `OpenLayers`] — [More in Urban Planning](Urban_Planning.md)
 
 ## Topics
 
