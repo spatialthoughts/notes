@@ -6,9 +6,9 @@ These notes were scattered across many places and hard to manage. Finally, Claud
 
 ## Latest Finds
 
-- [MarkItDown](https://github.com/microsoft/markitdown): A lightweight Python utility by Microsoft that converts various files (PDFs, Word, Excel, PowerPoint, images, audio) to Markdown format for use with LLMs and text analysis pipelines. [Keywords: `Python` `Markdown` `PDF` `Office` `conversion` `LLM` `tools` `Microsoft`] — [More in Tools](Tools.md)
-- [QGIS Plugin Dev Tools](https://github.com/nlsfi/qgis-plugin-dev-tools): Development and packaging utilities for QGIS plugins, streamlining the management of runtime dependencies and enabling developers to build, publish, and test their plugins more efficiently. [Keywords: `PyQGIS` `QGIS` `plugin` `packaging` `development` `tools`] — [More in PyQGIS](PyQGIS.md)
-- [Master Plan Viewer](https://datsvarun.github.io/master-plan-viewer/): A lightweight web application that displays georeferenced master plans of Indian cities on an interactive map, utilizing Cloud Optimized GeoTIFFs for efficient streaming and OpenLayers for mapping functionality. [Keywords: `urban planning` `India` `master plan` `web app` `Cloud Optimized GeoTIFF` `OpenLayers`] — [More in Urban Planning](Urban_Planning.md)
+- [Marimo](https://marimo.io/): Reactive, open-source Python notebook that stores notebooks as pure Python `.py` files (Git-friendly), automatically updates dependent cells when code changes, and can be deployed as standalone web apps or scripts with no hidden state. [Keywords: `Python` `notebook` `reactive` `Jupyter alternative` `web app` `reproducible` `Git`] — [More in Python](Python.md)
+- [Isometric NYC Map](https://cannoneyed.com/projects/isometric-nyc): Blog post documenting the process of creating the [isometric.nyc](https://isometric.nyc/) map, showcasing a modern AI-assisted software engineering workflow including fine-tuning an image edit model and building micro tools using AI agents. [Keywords: `AI` `isometric` `mapping` `NYC` `image editing` `fine-tuning` `agents`] — [More in AI](AI.md)
+- [spatial-access-measures](https://github.com/developmentseed/spatial-access-measures): Web map using DuckDB-WASM and GeoParquet for in-browser SQL queries and filtering of Statistics Canada spatial access measures (transit, cycling, and walking accessibility to services). No server backend required. [Demo](https://developmentseed.org/spatial-access-measures/) [Keywords: `DuckDB-WASM` `GeoParquet` `in-browser SQL` `cloud-native`] — [More in CNG](CNG.md)
 
 ## Topics
 

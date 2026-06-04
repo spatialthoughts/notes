@@ -2,7 +2,9 @@
 
 ## 2026
 
-- [Searchable City](https://searchable.city/): A semantic map of NYC built by applying Vision Language Models to millions of Google Street View images, enabling search by descriptive terms like "Gothic" or "Chinese" to reveal urban patterns invisible to traditional mapping. Learn more at [GitHub](https://github.com/seanhlewis/searchablecity) [Keywords: `AI` `VLM` `semantic search` `street view` `urban` `NYC` `geospatial`]
+- [Isometric NYC Map](https://cannoneyed.com/projects/isometric-nyc): Blog post documenting the process of creating the [isometric.nyc](https://isometric.nyc/) map, showcasing a modern AI-assisted software engineering workflow including fine-tuning an image edit model and building micro tools using AI agents. [Keywords: `AI` `isometric` `mapping` `NYC` `image editing` `fine-tuning` `agents` `software engineering`]
+
+- [Searchable City](https://searchable.city/): A semantic map of NYC built by applying Vision Language Models to millions of Google Street View images, enabling search by descriptive terms like "Gothic" or "Chinese" to reveal urban patterns invisible to traditional mapping. More on [GitHub](https://github.com/seanhlewis/searchablecity) [Keywords: `AI` `VLM` `semantic search` `street view` `urban` `NYC` `geospatial`]
 
 - [Earth Copilot](https://github.com/microsoft/Earth-Copilot): An AI-powered geospatial application enabling exploration and visualization of Earth science satellite data through natural language queries, built on Azure AI services and Semantic Kernel agents. [Keywords: `AI` `Microsoft` `NASA` `satellite data` `natural language` `geospatial`]
 
