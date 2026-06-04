@@ -38,6 +38,8 @@ These notes were scattered across many places and hard to manage. Finally, Claud
 
 -   :material-cube-outline: **[XArray](XArray.md)**
 
+-   :fontawesome-brands-git-alt: **[Git](Git.md)**
+
 -   :material-duck: **[DuckDB](DuckDB.md)**
 
 </div>

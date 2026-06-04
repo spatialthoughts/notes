@@ -65,6 +65,7 @@ nav:
     - DuckDB: DuckDB.md
     - XArray: XArray.md
     - Data: Data.md
+    - Git: Git.md
     - AI: AI.md
     - Machine Learning: Machine_Learning.md
     - Deep Learning: Deep_Learning.md
