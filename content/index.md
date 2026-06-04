@@ -34,13 +34,9 @@ These notes were scattered across many places and hard to manage. Finally, Claud
 
 -   :material-language-python: **[Python](Python.md)**
 
--   :material-database: **[SQL](SQL.md)**
-
 -   :material-database-search: **[STAC](STAC.md)**
 
 -   :material-cube-outline: **[XArray](XArray.md)**
-
--   :fontawesome-brands-git-alt: **[Git](Git.md)**
 
 -   :material-duck: **[DuckDB](DuckDB.md)**
 
