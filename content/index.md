@@ -6,9 +6,9 @@ These notes were scattered across many places and hard to manage. Finally, Claud
 
 ## Latest Finds
 
+- [GeoSQL](https://github.com/dekart-xyz/geosql): A Claude/Codex skill for data scientists and analysts working with geospatial data on PostGIS, BigQuery, Snowflake, and Wherobots — enables spatial SQL analysis through an AI agent with real-time map visualization for previewing and validating geographic query results locally. [Keywords: `Claude Code` `SQL` `geospatial` `spatial SQL` `PostGIS` `BigQuery` `Snowflake` `agents` `skills`] — [More in Claude Code](Claude_Code.md)
+- [NextGIS Web Community Edition](https://nextgis.com/blog/nextgis-web-community-edition/): Free, open-source Docker image for deploying a full Web GIS platform on your own infrastructure — acts as a spatial data hub for managing and publishing geodata, and as a QGIS teamspace for multi-user collaborative editing with version control and sync. [Keywords: `QGIS` `Docker` `open-source` `Web GIS` `self-hosted` `spatial data` `collaboration`] — [More in QGIS](QGIS.md)
 - [Marimo](https://marimo.io/): Reactive, open-source Python notebook that stores notebooks as pure Python `.py` files (Git-friendly), automatically updates dependent cells when code changes, and can be deployed as standalone web apps or scripts with no hidden state. [Keywords: `Python` `notebook` `reactive` `Jupyter alternative` `web app` `reproducible` `Git`] — [More in Python](Python.md)
-- [Isometric NYC Map](https://cannoneyed.com/projects/isometric-nyc): Blog post documenting the process of creating the [isometric.nyc](https://isometric.nyc/) map, showcasing a modern AI-assisted software engineering workflow including fine-tuning an image edit model and building micro tools using AI agents. [Keywords: `AI` `isometric` `mapping` `NYC` `image editing` `fine-tuning` `agents`] — [More in AI](AI.md)
-- [spatial-access-measures](https://github.com/developmentseed/spatial-access-measures): Web map using DuckDB-WASM and GeoParquet for in-browser SQL queries and filtering of Statistics Canada spatial access measures (transit, cycling, and walking accessibility to services). No server backend required. [Demo](https://developmentseed.org/spatial-access-measures/) [Keywords: `DuckDB-WASM` `GeoParquet` `in-browser SQL` `cloud-native`] — [More in CNG](CNG.md)
 
 ## Topics
 
@@ -41,6 +41,8 @@ These notes were scattered across many places and hard to manage. Finally, Claud
 -   :fontawesome-brands-git-alt: **[Git](Git.md)**
 
 -   :material-duck: **[DuckDB](DuckDB.md)**
+
+-   :material-database: **[SQL](SQL.md)**
 
 </div>
 

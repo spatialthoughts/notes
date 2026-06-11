@@ -63,6 +63,7 @@ nav:
     - Remote Sensing: Remote_Sensing.md
     - Python: Python.md
     - DuckDB: DuckDB.md
+    - SQL: SQL.md
     - XArray: XArray.md
     - Data: Data.md
     - Git: Git.md

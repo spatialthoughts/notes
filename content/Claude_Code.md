@@ -2,6 +2,8 @@
 
 ## 2026
 
+- [GeoSQL](https://github.com/dekart-xyz/geosql): A Claude/Codex skill for data scientists and analysts working with geospatial data on PostGIS, BigQuery, Snowflake, and Wherobots — enables spatial SQL analysis through an AI agent with real-time map visualization for previewing and validating geographic query results locally. [Keywords: `Claude Code` `SQL` `geospatial` `spatial SQL` `PostGIS` `BigQuery` `Snowflake` `agents` `skills`]
+
 - [Matt Pocock's Claude Code Skills](https://github.com/mattpocock/skills): A collection of reusable AI-powered agent skills for engineers covering tasks like test-driven development, code refactoring, architectural improvements, and project planning — from the creator's personal development toolkit. [Keywords: `Claude Code` `skills` `agents` `TDD` `refactoring` `TypeScript` `productivity`]
 
 - [Karpathy-Inspired Claude Code Guidelines](https://github.com/forrestchang/andrej-karpathy-skills): A single CLAUDE.md file derived from Andrej Karpathy's observations on LLM coding pitfalls, enforcing four principles: Think Before Coding, Simplicity First, Surgical Changes, and Goal-Driven Execution. [Keywords: `Claude Code` `CLAUDE.md` `guidelines` `prompting` `best practices` `Karpathy`]
