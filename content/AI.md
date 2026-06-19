@@ -2,6 +2,8 @@
 
 ## 2026
 
+- [Pi](https://pi.dev/): A minimal, extensible open-source agent harness for coding workflows supporting 15+ LLM providers, with real-time customization via TypeScript extensions, skills, and packages — designed to adapt to user needs rather than enforce predetermined workflows. [Keywords: `AI` `agents` `LLM` `open-source` `TypeScript` `coding` `extensible`]
+
 - [Isometric NYC Map](https://cannoneyed.com/projects/isometric-nyc): Blog post documenting the process of creating the [isometric.nyc](https://isometric.nyc/) map, showcasing a modern AI-assisted software engineering workflow including fine-tuning an image edit model and building micro tools using AI agents. [Keywords: `AI` `isometric` `mapping` `NYC` `image editing` `fine-tuning` `agents` `software engineering`]
 
 - [Searchable City](https://searchable.city/): A semantic map of NYC built by applying Vision Language Models to millions of Google Street View images, enabling search by descriptive terms like "Gothic" or "Chinese" to reveal urban patterns invisible to traditional mapping. More on [GitHub](https://github.com/seanhlewis/searchablecity) [Keywords: `AI` `VLM` `semantic search` `street view` `urban` `NYC` `geospatial`]
