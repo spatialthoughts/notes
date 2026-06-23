@@ -2,6 +2,8 @@
 
 ## 2026
 
+- [AdminLineageAI](https://github.com/TahaIbrahimSiddiqui/AdminLineageAI): AI-assisted fuzzy matching for administrative boundary names, creating crosswalks between datasets from different sources and time periods with reproducible review trails. [Keywords: `Python` `AI` `fuzzy matching` `admin boundaries` `geospatial` `data matching` `crosswalk`]
+
 - [Marimo](https://marimo.io/): Reactive, open-source Python notebook that stores notebooks as pure Python `.py` files (Git-friendly), automatically updates dependent cells when code changes, and can be deployed as standalone web apps or scripts with no hidden state. [Keywords: `Python` `notebook` `reactive` `Jupyter alternative` `web app` `reproducible` `Git`]
 
 - [forge3d](https://github.com/milos-agathon/forge3d): Python-first 3D rendering engine for interactive terrain visualization, scene composition, and point-cloud rendering using satellite imagery and DEMs. Combines a Rust backend with WebGPU/wgpu graphics exposed through Python wheels, supporting raster/vector overlays and cartographic composition. [Keywords: `Python` `3D` `terrain` `visualization` `WebGPU` `Rust` `DEM` `satellite imagery` `geospatial`]

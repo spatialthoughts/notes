@@ -6,9 +6,9 @@ These notes were scattered across many places and hard to manage. Finally, Claud
 
 ## Latest Finds
 
+- [AdminLineageAI](https://github.com/TahaIbrahimSiddiqui/AdminLineageAI): AI-assisted fuzzy matching for administrative boundary names, creating crosswalks between datasets from different sources and time periods with reproducible review trails. [Keywords: `Python` `AI` `fuzzy matching` `admin boundaries` `geospatial` `data matching` `crosswalk`] — [More in Python](Python.md)
 - [Ponytail](https://github.com/DietrichGebert/ponytail): A Claude Code skill that enforces a "lazy senior developer" philosophy — a decision ladder that prioritizes using existing solutions (stdlib, native features, installed dependencies) before writing new code, demonstrating ~54% reduction in lines of code and ~20% cost savings. [Keywords: `Claude Code` `skills` `agents` `productivity` `best practices` `code generation`] — [More in Claude Code](Claude_Code.md)
 - [Pi](https://pi.dev/): A minimal, extensible open-source agent harness for coding workflows supporting 15+ LLM providers, with real-time customization via TypeScript extensions, skills, and packages — designed to adapt to user needs rather than enforce predetermined workflows. [Keywords: `AI` `agents` `LLM` `open-source` `TypeScript` `coding` `extensible`] — [More in AI](AI.md)
-- [Optimizing DuckDB Spatial Queries](https://www.geomermaids.com/cookbook/duckdb-spatial/): A technical deep-dive comparing spatial join performance between PostGIS and DuckDB, explaining how DuckDB's R-tree index fires only for single constant geometry comparisons while PostGIS auto-uses its GiST index — and showing that DuckDB's streaming `SPATIAL_JOIN` operator wins at scale when both datasets are large. [Keywords: `DuckDB` `PostGIS` `spatial queries` `R-tree` `GiST` `spatial join` `performance` `geospatial`] — [More in DuckDB](DuckDB.md)
 
 ## Topics
 
