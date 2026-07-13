@@ -2,6 +2,8 @@
 
 ## 2026
 
+- [Farmland Atlas](https://farmlandatlas.com/): Interactive mapping tool projecting agricultural viability to 2070 under the SSP2-4.5 warming scenario, modeling climate, water availability, soil quality, and natural hazards to visualize where farming remains viable globally. [Keywords: `agriculture` `climate` `farmland` `SSP2-4.5` `climate projection` `soil` `water` `suitability mapping`]
+
 - [MausamNow](https://open.substack.com/pub/abhijitvaidya/p/your-weather-app-wasnt-built-for): A Progressive Web App that synthesizes forecasts from multiple weather models (GFS, ECMWF, IMD) alongside radar and satellite data to deliver hyperlocal rain predictions for Indian cities — showing which localities will be affected, intensity, and trend. [Keywords: `weather` `India` `hyperlocal` `monsoon` `forecasting` `GFS` `ECMWF` `IMD`]
 
 ## 2025

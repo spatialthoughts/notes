@@ -2,6 +2,8 @@
 
 ## 2026
 
+- [Morphocode Explorer](https://explorer.morphocode.com/map): Interactive browser-based tool for urban data analysis, letting users measure urban indicators and explore site conditions in real-time by dragging a circular pedshed overlay across data layers. Built with Mapbox GL JS for 60fps rendering, with datasets prepared via Python/Jupyter. [Making of](https://morphocode.com/the-making-of-morphocode-explorer/) [Keywords: `web mapping` `urban planning` `Mapbox GL JS` `Python` `Jupyter` `interactive` `urban data`]
+
 - [Master Plan Viewer](https://datsvarun.github.io/master-plan-viewer/): A lightweight web application that displays georeferenced master plans of Indian cities on an interactive map, utilizing Cloud Optimized GeoTIFFs for efficient streaming and OpenLayers for mapping functionality. [Keywords: `urban planning` `India` `master plan` `web app` `Cloud Optimized GeoTIFF` `OpenLayers`]
 
 ## 2025

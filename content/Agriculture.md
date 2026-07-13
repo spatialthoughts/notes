@@ -1,5 +1,9 @@
 # Agriculture
 
+## 2026
+
+- [Farmland Atlas](https://farmlandatlas.com/): Interactive mapping tool projecting agricultural viability to 2070 under the SSP2-4.5 warming scenario, modeling climate, water availability, soil quality, and natural hazards to visualize where farming remains viable globally. [Keywords: `agriculture` `climate` `farmland` `SSP2-4.5` `climate projection` `soil` `water` `suitability mapping`]
+
 ## 2025
 
 - [Crop Yield YESTECH Manual](https://pmfby.amnex.co.in/pmfby/public/guidelines/pdf/YESTECH_Manual_2023_(v.2).pdf): PMFBY YESTECH manual for crop yield estimation using satellite imagery, describing methodologies for India's crop insurance scheme. [Keywords: `agriculture` `crop yield` `YESTECH` `PMFBY` `India` `satellite` `estimation`]
