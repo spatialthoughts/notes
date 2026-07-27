@@ -2,6 +2,8 @@
 
 ## 2026
 
+- [Eclipse Explorer](https://eclipse.alokm.com/solar/2026-08-12): Interactive web tool for exploring solar and lunar eclipse events, showing path and timing details for a given eclipse date — this link points to the August 12, 2026 total solar eclipse. [Keywords: `web mapping` `astronomy` `eclipse` `interactive` `visualization`]
+
 - [Morphocode Explorer](https://explorer.morphocode.com/map): Interactive browser-based tool for urban data analysis, letting users measure urban indicators and explore site conditions in real-time by dragging a circular pedshed overlay across data layers. Built with Mapbox GL JS for 60fps rendering, with datasets prepared via Python/Jupyter. [Making of](https://morphocode.com/the-making-of-morphocode-explorer/) [Keywords: `web mapping` `urban planning` `Mapbox GL JS` `Python` `Jupyter` `interactive` `urban data`]
 
 - [spatial-access-measures](https://github.com/developmentseed/spatial-access-measures): Web map using DuckDB-WASM and GeoParquet for in-browser SQL queries and filtering of Statistics Canada spatial access measures (transit, cycling, and walking accessibility to jobs, schools, and services). No server backend required — everything runs in the browser. [Demo](https://developmentseed.org/spatial-access-measures/) [Keywords: `DuckDB-WASM` `GeoParquet` `deck.gl` `in-browser SQL` `accessibility` `Canada` `cloud-native`]

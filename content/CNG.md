@@ -2,6 +2,8 @@
 
 ## 2026
 
+- [dynamical.org](https://dynamical.org/): A research lab providing a public catalog of cloud-optimized weather and climate datasets, helping researchers, forecasters, and developers access, understand, and act on environmental data. [Keywords: `weather` `climate` `data` `cloud-optimized` `open data` `forecast`]
+
 - [EO Platforms, Science Platforms, and the Apartment Between Binder and Earth Engine](https://whatnicklife.blogspot.com/2026/06/eo-platforms-science-platforms-and.html): Blog post on the current state of Earth Observation platforms, arguing they exist on a spectrum from managed services (Google Earth Engine) to bare infrastructure (Kubernetes), with "apartment model" namespaces offering identity, storage, and compute as an optimal middle ground. [Keywords: `Earth Observation` `platforms` `Google Earth Engine` `Kubernetes` `cloud-native` `infrastructure`]
 
 - [spatial-access-measures](https://github.com/developmentseed/spatial-access-measures): Web map using DuckDB-WASM and GeoParquet for in-browser SQL queries and filtering of Statistics Canada spatial access measures (transit, cycling, and walking accessibility to jobs, schools, and services). No server backend required — everything runs in the browser. [Demo](https://developmentseed.org/spatial-access-measures/) [Keywords: `DuckDB-WASM` `GeoParquet` `deck.gl` `web mapping` `in-browser SQL` `accessibility` `Canada` `cloud-native`]

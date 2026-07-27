@@ -2,6 +2,8 @@
 
 ## 2026
 
+- [dynamical.org](https://dynamical.org/): A research lab providing a public catalog of cloud-optimized weather and climate datasets, helping researchers, forecasters, and developers access, understand, and act on environmental data. [Keywords: `weather` `climate` `data` `cloud-optimized` `open data` `forecast`]
+
 - [Master Plan Viewer](https://datsvarun.github.io/master-plan-viewer/): A lightweight web application that displays georeferenced master plans of Indian cities on an interactive map, utilizing Cloud Optimized GeoTIFFs for efficient streaming and OpenLayers for mapping functionality. [Keywords: `urban planning` `India` `master plan` `web app` `Cloud Optimized GeoTIFF` `OpenLayers`]
 
 - [Field Boundaries of the World](https://fieldsofthe.world/): An open ecosystem using satellite imagery and machine learning to detect and map 3.17 billion agricultural field boundaries across 241 countries, offering a benchmark dataset and interactive explorer for global agriculture mapping. [Keywords: `agricultural fields` `field boundaries` `satellite imagery` `machine learning` `global dataset` `open data` `geospatial`]

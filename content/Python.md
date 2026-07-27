@@ -2,6 +2,8 @@
 
 ## 2026
 
+- [geoterp](https://github.com/pratik-gis/geoterp): A Python CLI tool providing spatial interpolation for both vector and raster data through one consistent API, consolidating techniques like IDW, kriging, splines, and raster resampling built on SciPy, PyKrige, GDAL, and GeoPandas. [Keywords: `Python` `spatial interpolation` `kriging` `IDW` `raster` `GeoPandas` `CLI`]
+
 - [AdminLineageAI](https://github.com/TahaIbrahimSiddiqui/AdminLineageAI): AI-assisted fuzzy matching for administrative boundary names, creating crosswalks between datasets from different sources and time periods with reproducible review trails. [Keywords: `Python` `AI` `fuzzy matching` `admin boundaries` `geospatial` `data matching` `crosswalk`]
 
 - [Marimo](https://marimo.io/): Reactive, open-source Python notebook that stores notebooks as pure Python `.py` files (Git-friendly), automatically updates dependent cells when code changes, and can be deployed as standalone web apps or scripts with no hidden state. [Keywords: `Python` `notebook` `reactive` `Jupyter alternative` `web app` `reproducible` `Git`]
