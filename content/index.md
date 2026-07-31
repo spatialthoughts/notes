@@ -6,9 +6,9 @@ These notes were scattered across many places and hard to manage. Finally, Claud
 
 ## Latest Finds
 
+- [Building Classification with GeoAI - Google AlphaEarth in Python](https://www.youtube.com/watch?v=Vqoq1N0jLok): Day 5 of the #30DayMapChallenge demonstrating building type classification on OSM building footprints using Google AlphaEarth embeddings with the GeoAI Python package. [Keywords: `GeoAI` `AlphaEarth` `embeddings` `OSM` `building classification` `Python` `30DayMapChallenge`] — [More in Embeddings](Embeddings.md)
 - [geoterp](https://github.com/pratik-gis/geoterp): A Python CLI tool providing spatial interpolation for both vector and raster data through one consistent API, consolidating techniques like IDW, kriging, splines, and raster resampling built on SciPy, PyKrige, GDAL, and GeoPandas. [Keywords: `Python` `spatial interpolation` `kriging` `IDW` `raster` `GeoPandas` `CLI`] — [More in Python](Python.md)
 - [dynamical.org](https://dynamical.org/): A research lab providing a public catalog of cloud-optimized weather and climate datasets, helping researchers, forecasters, and developers access, understand, and act on environmental data. [Keywords: `weather` `climate` `data` `cloud-optimized` `open data` `forecast`] — [More in Data](Data.md)
-- [Eclipse Explorer](https://eclipse.alokm.com/solar/2026-08-12): Interactive web tool for exploring solar and lunar eclipse events, showing path and timing details for a given eclipse date — this link points to the August 12, 2026 total solar eclipse. [Keywords: `web mapping` `astronomy` `eclipse` `interactive` `visualization`] — [More in Web Mapping](Web_Mapping.md)
 
 ## Topics
 

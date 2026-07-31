@@ -2,6 +2,8 @@
 
 ## 2026
 
+- [Building Classification with GeoAI - Google AlphaEarth in Python](https://www.youtube.com/watch?v=Vqoq1N0jLok): Day 5 of the #30DayMapChallenge demonstrating building type classification on OSM building footprints using Google AlphaEarth embeddings with the GeoAI Python package. [Keywords: `GeoAI` `AlphaEarth` `embeddings` `OSM` `building classification` `Python` `30DayMapChallenge`]
+
 - [S2Vec: Mapping the Modern World](https://research.google/blog/mapping-the-modern-world-how-s2vec-learns-the-language-of-our-cities/): Google Research's S2Vec framework uses masked autoencoding on rasterized Google Maps tiles (S2 Geometry cells) to generate general-purpose embeddings of the built environment, enabling prediction of socioeconomic and environmental metrics like population density, income, and carbon emissions at global scale. [Keywords: `S2Vec` `embeddings` `masked autoencoding` `S2 Geometry` `Google Maps` `urban analytics` `geospatial ML` `self-supervised` `socioeconomic`]
 
 - [Geospatial Skills for Coding Agents](https://isaac.earth/geospatial-skills/): A catalog of installable geospatial skills for coding agents (including Claude), providing plug-in workflows for GDAL, GeoParquet validation, and TESSERA embeddings via the `geotessera` CLI. [Keywords: `Claude Code` `coding agents` `GDAL` `GeoParquet` `TESSERA` `geotessera` `geospatial` `remote sensing` `Python`]
