@@ -2,7 +2,7 @@
 
 ## 2026
 
-- [Montado Tree Mapping](https://github.com/veronikastengel/montado-tree-mapping): Automated pipeline for detecting and classifying about 19,000 individual tree crowns across a 4 km² Portuguese landscape using airborne LiDAR and satellite imagery, comparing K-Means, Gaussian Mixture Models, and UMAP+HDBSCAN for unsupervised vegetation classification. [Keywords: `LiDAR` `tree detection` `UMAP` `HDBSCAN` `unsupervised classification` `Python` `remote sensing`]
+- [Montado Tree Mapping](https://github.com/veronikastengel/montado-tree-mapping): Automated individual tree detection and vegetation classification from LiDAR, with examples of UMAP unsupervised classification. [Keywords: `LiDAR` `tree detection` `vegetation classification` `UMAP` `unsupervised classification` `remote sensing`]
 
 - [APEx Algorithm Catalogue](https://algorithm-catalogue.apex.esa.int/): ESA's platform for discovering and accessing Earth observation algorithms and services, letting EO projects showcase their algorithms and results to a broader community. [Keywords: `ESA` `algorithm catalogue` `Earth observation` `remote sensing` `platform`]
 

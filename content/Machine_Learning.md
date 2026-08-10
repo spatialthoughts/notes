@@ -2,7 +2,7 @@
 
 ## 2026
 
-- [An Enhanced National-Scale Urban Tree Canopy Cover Dataset for the United States](https://www.sciencebase.gov/catalog/item/662aeb7dd34ea70bd5f0c1dd): USGS 2025 data release using random forest models trained on high-resolution land cover data for 71 US urban areas plus NLCD Tree Canopy Cover to produce an enhanced 30m urban tree canopy cover dataset for the conterminous United States. [Keywords: `machine learning` `random forest` `tree canopy` `urban` `USGS` `NLCD` `land cover`]
+- [An Enhanced National-Scale Urban Tree Canopy Cover Dataset for the United States](https://www.sciencebase.gov/catalog/item/662aeb7dd34ea70bd5f0c1dd): Code for paper showing how to upscale Landsat data to predict high-resolution tree canopy cover. [Keywords: `machine learning` `Landsat` `tree canopy` `USGS` `land cover`]
 
 ## 2024
 
