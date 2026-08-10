@@ -1,5 +1,9 @@
 # Machine Learning
 
+## 2026
+
+- [An Enhanced National-Scale Urban Tree Canopy Cover Dataset for the United States](https://www.sciencebase.gov/catalog/item/662aeb7dd34ea70bd5f0c1dd): USGS 2025 data release using random forest models trained on high-resolution land cover data for 71 US urban areas plus NLCD Tree Canopy Cover to produce an enhanced 30m urban tree canopy cover dataset for the conterminous United States. [Keywords: `machine learning` `random forest` `tree canopy` `urban` `USGS` `NLCD` `land cover`]
+
 ## 2024
 
 - [Groundnut Yield Modeling - Crop Yield Python](https://colab.research.google.com/drive/1MjiNYudYiY89dp1dbHHkl5oVlElT7S3z#scrollTo=vEyKhUfqSjId): Colab notebook for groundnut crop yield prediction using machine learning in Python. [Keywords: `machine learning` `crop yield` `agriculture` `Python` `Colab`]

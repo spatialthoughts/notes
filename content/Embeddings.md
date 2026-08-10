@@ -2,6 +2,8 @@
 
 ## 2026
 
+- [Butterfly Habitat Mapping with TESSERA Embeddings](https://github.com/s19835/tessera-embeddings-habitat): Tests whether TESSERA satellite embeddings can distinguish quality butterfly habitat from random locations, using UK Butterfly Monitoring Scheme data across 2,921 sites to train a logistic regression classifier validated with permutation testing. [Keywords: `TESSERA` `embeddings` `butterfly` `habitat mapping` `logistic regression` `Python` `scikit-learn`]
+
 - [Building Classification with GeoAI - Google AlphaEarth in Python](https://www.youtube.com/watch?v=Vqoq1N0jLok): Day 5 of the #30DayMapChallenge demonstrating building type classification on OSM building footprints using Google AlphaEarth embeddings with the GeoAI Python package. [Keywords: `GeoAI` `AlphaEarth` `embeddings` `OSM` `building classification` `Python` `30DayMapChallenge`]
 
 - [S2Vec: Mapping the Modern World](https://research.google/blog/mapping-the-modern-world-how-s2vec-learns-the-language-of-our-cities/): Google Research's S2Vec framework uses masked autoencoding on rasterized Google Maps tiles (S2 Geometry cells) to generate general-purpose embeddings of the built environment, enabling prediction of socioeconomic and environmental metrics like population density, income, and carbon emissions at global scale. [Keywords: `S2Vec` `embeddings` `masked autoencoding` `S2 Geometry` `Google Maps` `urban analytics` `geospatial ML` `self-supervised` `socioeconomic`]

@@ -2,6 +2,8 @@
 
 ## 2026
 
+- [Montado Tree Mapping](https://github.com/veronikastengel/montado-tree-mapping): Automated pipeline for detecting and classifying about 19,000 individual tree crowns across a 4 km² Portuguese landscape using airborne LiDAR and satellite imagery, comparing K-Means, Gaussian Mixture Models, and UMAP+HDBSCAN for unsupervised vegetation classification. [Keywords: `LiDAR` `tree detection` `UMAP` `HDBSCAN` `unsupervised classification` `Python` `remote sensing`]
+
 - [APEx Algorithm Catalogue](https://algorithm-catalogue.apex.esa.int/): ESA's platform for discovering and accessing Earth observation algorithms and services, letting EO projects showcase their algorithms and results to a broader community. [Keywords: `ESA` `algorithm catalogue` `Earth observation` `remote sensing` `platform`]
 
 - [Agribound](https://github.com/montimaj/agribound): A Python toolkit for agricultural field boundary delineation from satellite imagery, combining seven approaches including object detection, semantic segmentation, vision transformers, foundation models, and multi-engine ensembling, with support for Landsat, Sentinel-2, HLS, NAIP, SPOT, and pre-computed embeddings. [Keywords: `agriculture` `field boundaries` `satellite imagery` `Python` `deep learning` `remote sensing` `Sentinel-2` `Landsat`]
