@@ -2,6 +2,8 @@
 
 ## 2026
 
+- [Downscaling Weather Prediction using TESSERA Embeddings](https://anil.recoil.org/notes/weather-downscaling-tessera): Downscaling weather prediction using Tessera embeddings — replaces hand-crafted terrain descriptors with TESSERA satellite foundation model embeddings to downscale coarse 25km weather grids into finer-resolution predictions, validated against Microsoft's Aurora AI model and ERA5 reanalysis. [Keywords: `TESSERA` `embeddings` `weather` `downscaling` `foundation model` `Aurora` `ERA5`]
+
 - [Butterfly Habitat Mapping with TESSERA Embeddings](https://github.com/s19835/tessera-embeddings-habitat): Tests whether TESSERA satellite embeddings can distinguish quality butterfly habitat from random locations, using UK Butterfly Monitoring Scheme data across 2,921 sites to train a logistic regression classifier validated with permutation testing. [Keywords: `TESSERA` `embeddings` `butterfly` `habitat mapping` `logistic regression` `Python` `scikit-learn`]
 
 - [Building Classification with GeoAI - Google AlphaEarth in Python](https://www.youtube.com/watch?v=Vqoq1N0jLok): Day 5 of the #30DayMapChallenge demonstrating building type classification on OSM building footprints using Google AlphaEarth embeddings with the GeoAI Python package. [Keywords: `GeoAI` `AlphaEarth` `embeddings` `OSM` `building classification` `Python` `30DayMapChallenge`]

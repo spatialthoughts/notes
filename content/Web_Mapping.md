@@ -2,6 +2,8 @@
 
 ## 2026
 
+- [Where the Shadow Fell](http://eclipses.bogachev.fr/): Interactive visualization mapping all 11,898 solar eclipses between 2000 BCE and 3000 CE, showing each eclipse's path of totality and enabling exploration by type, time period, and the saros and inex predictive cycles. [Keywords: `web mapping` `astronomy` `eclipse` `visualization` `saros` `interactive`]
+
 - [Eclipse Explorer](https://eclipse.alokm.com/solar/2026-08-12): Interactive web tool for exploring solar and lunar eclipse events, showing path and timing details for a given eclipse date — this link points to the August 12, 2026 total solar eclipse. [Keywords: `web mapping` `astronomy` `eclipse` `interactive` `visualization`]
 
 - [Morphocode Explorer](https://explorer.morphocode.com/map): Interactive browser-based tool for urban data analysis, letting users measure urban indicators and explore site conditions in real-time by dragging a circular pedshed overlay across data layers. Built with Mapbox GL JS for 60fps rendering, with datasets prepared via Python/Jupyter. [Making of](https://morphocode.com/the-making-of-morphocode-explorer/) [Keywords: `web mapping` `urban planning` `Mapbox GL JS` `Python` `Jupyter` `interactive` `urban data`]
