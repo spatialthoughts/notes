@@ -39,7 +39,6 @@ Always to git pull to fetch the latest changes from Github.
 - Use a bullet point for each note
 - Follow the format [title](url]): 1-2 line description
 - Visit the URL and generate an accurate short description
-- Keep existing description. You may fix grammar and typos in existing description.
 - If there are more than 1 link, use the best link for url but include other links as [GitHub](github link), [Learn more](other_link) etc.
 - Add keywords - focused on tech stack, programming language, application area
 
@@ -56,4 +55,4 @@ Always to git pull to fetch the latest changes from Github.
 - Read each item in the note. If there is already a liniked topic in the [[Topic]] format, add the note to that topic file. Replace spaces in topic files with an underscore _.
 - If there is no topic linked, visit the URL, read the text and decide on the best topic. 
 - Ideally, it should fit within an existing topic but if there is no topic file for the best fit topic, create a new one.
-
+- If there is any description and/or text along with the URL/Title, keep it verbatim in the output descriptions. You may fix grammar and typos in existing description. You may add extra text to the description if the supplied discription is too short.
