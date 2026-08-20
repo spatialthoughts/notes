@@ -23,7 +23,7 @@
 
 ## Earlier
 
-- [Zone Builder FOSS4G 2021](https://github.com/zonebuilders/zonebuilder): Tool for building urban zones for transport and planning analysis. Related: [[Python]]. Keywords: urban planning, zoning, transport, GIS, R, Python
+- [Zone Builder - FOSS4G 2021](https://github.com/zonebuilders/zonebuilder): Tool for building urban zones for transport and planning analysis. Related: [[Tools]]. Keywords: urban planning, zoning, transport, GIS, R, Python
 
 - [Pedestrian Environment Index (PEI)](https://www.sciencedirect.com/science/article/abs/pii/S0966692314001343): Paper on developing and applying the Pedestrian Environment Index for walkability assessment. Related: [[QGIS]]. Keywords: urban planning, walkability, pedestrian, index, GIS
 

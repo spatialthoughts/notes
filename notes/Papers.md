@@ -17,8 +17,6 @@
 
 - [Change Detection Techniques](https://www.researchgate.net/publication/235245895_Change_Detection_Techniques): Review paper on remote sensing change detection techniques and methodologies. Related: [[Remote_Sensing]]. Keywords: change detection, remote sensing, satellite imagery
 
-- [Zone Builder - FOSS4G 2021](https://github.com/zonebuilders/zonebuilder): Tool for building urban zones for transport and planning analysis. Related: [[Urban_Planning]]. Keywords: urban planning, zoning, transport, GIS
-
 - [Users of Open Big Earth Data Analysis](https://www.sciencedirect.com/science/article/pii/S0098300421002077): Analysis of current state and users of open Big Earth Observation data. Related: [[GEE]], [[Remote_Sensing]], [[Data]]. Keywords: GEE, big data, Earth observation, open data
 
 - [Overview of Platforms for Big Earth Observation Data](https://www.mdpi.com/2072-4292/12/8/1253/htm): MDPI review of major platforms for big Earth observation data management and analysis. Related: [[GEE]], [[Remote_Sensing]], [[Data]]. Keywords: GEE, big data, cloud computing, Earth observation
