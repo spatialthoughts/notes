@@ -4,18 +4,16 @@
 
 A personal notes organizer maintained by Claude Code. This repo *is* the Obsidian vault for topic notes — open it in Obsidian directly, and it also builds and publishes as a MkDocs site on GitHub Pages.
 
-Daily-note capture (including from mobile) still happens in the separate Obsidian vault that's synced via iCloud, at `~/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes`. This repo has a local symlink, `icloud-vault/` (gitignored — it's a machine-specific absolute path, never pushed), pointing at that vault so its daily notes can be read and processed directly from here without copying anything by hand.
+Quick-capture, including from mobile, happens by appending to `raw/New_Notes.md` — a single running inbox. That file physically lives in the Obsidian vault synced via iCloud at `~/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes/raw/`, which is the only thing left in that iCloud vault besides its `.obsidian/` config. This repo's `raw/` (gitignored — it's really a machine-specific absolute-path symlink, never pushed) points straight at it, so the exact same file can be read and processed directly from here. There's also a broader `icloud-vault/` symlink (also gitignored) to the iCloud vault root, in case anything besides `raw/` ever lives there again.
 
 Prioritize the ability to search and recall specific items. These notes are primarily used by me to find references and resources for my students and for my own work.
 
 ## Folder structure
 
 ```
-- icloud-vault/    -- local symlink (gitignored) to the iCloud-synced Obsidian vault where
-                       daily notes (YYYY-MM-DD.md) are actually captured, incl. from mobile
-- icloud-vault/processed/ -- daily notes already ingested from icloud-vault/ (stays in iCloud, not part of git)
-- raw/             -- notes dropped directly in this repo instead (a pasted URL, clipped
-                       article, or plain text); raw/New_Notes.md is the inbox file
+- raw/             -- symlink (gitignored) to the iCloud-synced inbox where new notes are
+                       captured, incl. from mobile; raw/New_Notes.md is the running inbox file
+- icloud-vault/     -- symlink (gitignored) to the root of that iCloud-synced vault
 - processed/       -- documents processed from raw/ (gitignored, stays local, never pushed)
 - notes/           -- markdown pages for the organized topic notes; also the MkDocs docs_dir
 - notes/index.md   -- table of contents of all the notes pages + "Latest Finds"
@@ -26,14 +24,13 @@ Prioritize the ability to search and recall specific items. These notes are prim
 
 Always `git pull` to fetch the latest changes from GitHub first.
 
-- Read the unprocessed daily notes in `icloud-vault/` (`YYYY-MM-DD.md` files at its root) and any notes dropped in `raw/`.
-- Process each document and every note inside it using the Processing Instructions below.
-- Once a daily note from `icloud-vault/` is processed, move it to `icloud-vault/processed/` (stays in iCloud, outside git).
-- Once a document from `raw/` is processed, move it to `processed/` (gitignored, stays local). Re-add an empty `raw/New_Notes.md` so there's always an inbox file.
+- Read the unprocessed notes appended to `raw/New_Notes.md` (and any other documents dropped in `raw/`).
+- Process each note using the Processing Instructions below.
+- Once everything in a document is processed, move it to `processed/` (gitignored, stays local). Re-add an empty `raw/New_Notes.md` so there's always an inbox file to append to.
 
 ## Processing Instructions
 
-When a new note is added to `icloud-vault/` or `raw/` and I ask you to ingest it:
+When new notes are appended to `raw/New_Notes.md` (or another document is dropped in `raw/`) and I ask you to ingest them:
 
 - If the note has one or more URLs, visit them and generate an accurate short description.
 - If there is already a linked topic in `[[Topic]]` format, add the note to that topic page directly (replace spaces in the topic name with an underscore for the filename, e.g. `[[Machine Learning]]` -> `Machine_Learning.md`).

@@ -1,9 +1,10 @@
 # Ingestion-pipeline source clippings — never tracked
 processed/
 
-# Local symlink to the iCloud-synced Obsidian vault (machine-specific
-# absolute path — mobile capture still happens there)
+# Local symlinks to the iCloud-synced Obsidian vault (machine-specific
+# absolute paths — mobile capture happens there, incl. raw/New_Notes.md)
 /icloud-vault
+/raw
 
 # Obsidian local UI/session state — not meant to be shared
 .obsidian/workspace.json
