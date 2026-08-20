@@ -6,9 +6,9 @@ These notes were scattered across many places and hard to manage. Finally, Claud
 
 ## Latest Finds
 
+- [Bhoonidhi MCP Server](https://geovicco-dev.github.io/bhoonidhi-mcp/): MCP server that lets AI agents search and download ISRO's Bhoonidhi satellite imagery archive using natural language. [Keywords: `MCP` `Claude Code` `ISRO` `India` `satellite imagery` `remote sensing`] — [More in Claude Code](Claude_Code.md)
+- [isobands: Xarray to GeoPandas Contours](https://palewi.re/docs/isobands/): Python library converting 2D xarray DataArrays into filled contour polygons in GeoPandas, spun off from the Reuters Climate Monitor. [Keywords: `XArray` `isobands` `contours` `GeoPandas` `GDAL` `Reuters`] — [More in XArray](XArray.md)
 - [India Data Atlas](https://indiadataatlas.deccanspatial.com/): Collection of data sources for India with learning resources. [Keywords: `data` `India` `geospatial` `socio-economic` `open data` `learning resources`] — [More in Data](Data.md)
-- [9 Verified Tools to Stop Burning Claude Tokens Unnecessarily](https://dev.to/kmusicman/9-verified-tools-to-stop-burning-claude-tokens-unnecessarily-f9e): Skills, hooks and services to help reduce token use. [Keywords: `Claude Code` `skills` `hooks` `productivity` `tokens` `cost optimization`] — [More in Claude Code](Claude_Code.md)
-- [Where the Shadow Fell](http://eclipses.bogachev.fr/): Interactive visualization mapping all 11,898 solar eclipses between 2000 BCE and 3000 CE, showing each eclipse's path of totality and enabling exploration by type, time period, and the saros and inex predictive cycles. [Keywords: `web mapping` `astronomy` `eclipse` `visualization` `saros` `interactive`] — [More in Web Mapping](Web_Mapping.md)
 
 ## Topics
 

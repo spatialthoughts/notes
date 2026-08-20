@@ -7,6 +7,8 @@
 
 ## 2026
 
+- [Bhoonidhi MCP Server](https://geovicco-dev.github.io/bhoonidhi-mcp/): An MCP (Model Context Protocol) server that lets AI agents search and download ISRO's Bhoonidhi satellite imagery archive using natural language queries — resolving locations and satellite names automatically and reporting scene availability (Ready, Archived, On Order, Priced) before download. Related: [[Remote_Sensing]], [[Data]]. Keywords: MCP, Claude Code, ISRO, India, satellite imagery, remote sensing, AI agent
+
 - [9 Verified Tools to Stop Burning Claude Tokens Unnecessarily](https://dev.to/kmusicman/9-verified-tools-to-stop-burning-claude-tokens-unnecessarily-f9e): Skills, hooks and services to help reduce token use. Related: [[Tools]]. Keywords: Claude Code, skills, hooks, productivity, tokens, cost optimization
 
 - [Ponytail](https://github.com/DietrichGebert/ponytail): A Claude Code skill that enforces a "lazy senior developer" philosophy — a decision ladder that prioritizes using existing solutions (stdlib, native features, installed dependencies) before writing new code, demonstrating ~54% reduction in lines of code and ~20% cost savings. Related: [[AI]]. Keywords: Claude Code, skills, agents, productivity, best practices, code generation

@@ -5,6 +5,10 @@
 
 ---
 
+## 2026
+
+- [isobands: Xarray to GeoPandas Contours](https://palewi.re/docs/isobands/): Python library that converts a 2D xarray DataArray into filled contour polygons in a GeoPandas GeoDataFrame, using GDAL for contour generation and supporting explicit levels, equal intervals, or data-driven breaks (e.g. quintiles). Released by Ben Welsh as a spinoff of the Reuters Climate Monitor, with examples rendering the output via MapLibre and OpenStreetMap for web maps. Related: [[Cartography]], [[Web_Mapping]]. Keywords: XArray, isobands, contours, GeoPandas, GDAL, Reuters, MapLibre
+
 ## 2025
 
 - [EOPF XArray Notebooks - Flood Mapping Valencia](https://eopf-toolkit.github.io/eopf-101/06_eopf_zarr_in_action/64_flood_mapping_valencia.html): EOPF toolkit notebooks demonstrating Otsu thresholding, connected components, and apply_ufunc for flood mapping using ZARR data. Related: [[CNG]], [[Data]]. Keywords: XArray, ZARR, flood mapping, EOPF, Sentinel, apply_ufunc
