@@ -1,6 +1,10 @@
 site_name: Notes
 site_url: https://spatialthoughts.github.io/notes/
-docs_dir: content
+repo_url: https://github.com/spatialthoughts/notes
+repo_name: spatialthoughts/notes
+edit_uri: edit/main/notes/
+
+docs_dir: notes
 
 theme:
   name: material
@@ -23,10 +27,14 @@ theme:
     - navigation.expand
     - navigation.indexes
     - navigation.top
+    - navigation.instant
+    - navigation.tracking
     - search.suggest
     - search.highlight
     - search.share
     - content.code.copy
+    - content.action.edit
+    - toc.follow
 
 extra_css:
   - stylesheets/extra.css
@@ -36,8 +44,10 @@ hooks:
 
 plugins:
   - search
+  - roamlinks
 
 markdown_extensions:
+  - tables
   - attr_list
   - md_in_html
   - admonition
@@ -79,3 +89,4 @@ nav:
     - Urban Planning: Urban_Planning.md
     - Papers: Papers.md
     - Miscellaneous: Misc.md
+    - Changelog: log.md

@@ -20,7 +20,7 @@ def on_config(config):
             elif isinstance(item, dict):
                 new_dict = {}
                 for title, value in item.items():
-                    if isinstance(value, str) and value.endswith('.md') and value != 'index.md':
+                    if isinstance(value, str) and value.endswith('.md') and value not in ('index.md', 'log.md'):
                         n = count_items(value)
                         new_dict[f"{title} ({n})"] = value
                     elif isinstance(value, list):
