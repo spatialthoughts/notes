@@ -2,36 +2,43 @@
 
 ## Overview
 
-A personal notes organizer maintained by Claude Code. This repo *is* the Obsidian vault — open it in Obsidian directly, and it also builds and publishes as a MkDocs site on GitHub Pages.
+A personal notes organizer maintained by Claude Code. This repo *is* the Obsidian vault for topic notes — open it in Obsidian directly, and it also builds and publishes as a MkDocs site on GitHub Pages.
+
+Daily-note capture (including from mobile) still happens in the separate Obsidian vault that's synced via iCloud, at `~/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes`. This repo has a local symlink, `icloud-vault/` (gitignored — it's a machine-specific absolute path, never pushed), pointing at that vault so its daily notes can be read and processed directly from here without copying anything by hand.
 
 Prioritize the ability to search and recall specific items. These notes are primarily used by me to find references and resources for my students and for my own work.
 
 ## Folder structure
 
 ```
-- raw/       -- documents containing unprocessed notes (drop new notes into raw/New_Notes.md)
-- processed/ -- documents containing processed notes (gitignored, stays local, never pushed)
-- notes/     -- markdown pages for the organized topic notes; also the MkDocs docs_dir
-- notes/index.md -- table of contents of all the notes pages + "Latest Finds"
-- notes/log.md   -- append-only record of all operations
+- icloud-vault/    -- local symlink (gitignored) to the iCloud-synced Obsidian vault where
+                       daily notes (YYYY-MM-DD.md) are actually captured, incl. from mobile
+- icloud-vault/processed/ -- daily notes already ingested from icloud-vault/ (stays in iCloud, not part of git)
+- raw/             -- notes dropped directly in this repo instead (a pasted URL, clipped
+                       article, or plain text); raw/New_Notes.md is the inbox file
+- processed/       -- documents processed from raw/ (gitignored, stays local, never pushed)
+- notes/           -- markdown pages for the organized topic notes; also the MkDocs docs_dir
+- notes/index.md   -- table of contents of all the notes pages + "Latest Finds"
+- notes/log.md     -- append-only record of all operations
 ```
 
 ## Workflow
 
 Always `git pull` to fetch the latest changes from GitHub first.
 
-- Read the unprocessed notes in `raw/` (daily-note-style dumps, a pasted URL, a clipped article, or plain text).
+- Read the unprocessed daily notes in `icloud-vault/` (`YYYY-MM-DD.md` files at its root) and any notes dropped in `raw/`.
 - Process each document and every note inside it using the Processing Instructions below.
-- Once processed, move the source document to `processed/`.
-- Re-add an empty `raw/New_Notes.md` so there's always an inbox file to collect new notes.
+- Once a daily note from `icloud-vault/` is processed, move it to `icloud-vault/processed/` (stays in iCloud, outside git).
+- Once a document from `raw/` is processed, move it to `processed/` (gitignored, stays local). Re-add an empty `raw/New_Notes.md` so there's always an inbox file.
 
 ## Processing Instructions
 
-When a new note is added to `raw/` and I ask you to ingest it:
+When a new note is added to `icloud-vault/` or `raw/` and I ask you to ingest it:
 
 - If the note has one or more URLs, visit them and generate an accurate short description.
+- If there is already a linked topic in `[[Topic]]` format, add the note to that topic page directly (replace spaces in the topic name with an underscore for the filename, e.g. `[[Machine Learning]]` -> `Machine_Learning.md`).
 - If there is any description and/or text already accompanying the URL/title, keep it verbatim in the output description — fix grammar/typos if needed, and add extra text if the supplied description is too short, but never lose the original wording.
-- Identify the core concept/topic of the resource, and any related topics.
+- If there's no linked topic, identify the core concept/topic of the resource, and any related topics.
 - Read `notes/index.md` first to find relevant existing topic pages.
 - If there's no good match, a new topic page can be created — see the List of Topics below for topics of interest, but don't be limited to it.
 - Add a new item to the main topic page, keeping newer notes at the top of their year's section.

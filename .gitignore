@@ -1,6 +1,14 @@
 # Ingestion-pipeline source clippings — never tracked
 processed/
 
+# Local symlink to the iCloud-synced Obsidian vault (machine-specific
+# absolute path — mobile capture still happens there)
+/icloud-vault
+
+# Obsidian local UI/session state — not meant to be shared
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
 # MkDocs build output
 site/
 
