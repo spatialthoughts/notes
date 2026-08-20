@@ -24,27 +24,24 @@ Prioritize the ability to search and recall specific items. These notes are prim
 
 Always `git pull` to fetch the latest changes from GitHub first.
 
-- Read the unprocessed notes appended to `raw/New_Notes.md` (and any other documents dropped in `raw/`).
-- Process each note using the Processing Instructions below.
-- Once everything in a document is processed, move it to `processed/` (gitignored, stays local). Re-add an empty `raw/New_Notes.md` so there's always an inbox file to append to.
+- Read the unprocessed notes in the `raw/` folder.
+- Process each document and all notes inside using the processing instructions below.
+- Once processed, move it to the `processed/` folder.
+- Add an empty file `New_Notes.md` in the `raw/` file to collect new notes.
 
 ## Processing Instructions
 
-When new notes are appended to `raw/New_Notes.md` (or another document is dropped in `raw/`) and I ask you to ingest them:
+When the user adds a new note to `raw/` and asks you to ingest it
 
-- If the note has one or more URLs, visit them and generate an accurate short description.
-- If there is already a linked topic in `[[Topic]]` format, add the note to that topic page directly (replace spaces in the topic name with an underscore for the filename, e.g. `[[Machine Learning]]` -> `Machine_Learning.md`).
-- If there is any description and/or text already accompanying the URL/title, keep it verbatim in the output description — fix grammar/typos if needed, and add extra text if the supplied description is too short, but never lose the original wording.
-- If there's no linked topic, identify the core concept/topic of the resource, and any related topics.
-- Read `notes/index.md` first to find relevant existing topic pages.
-- If there's no good match, a new topic page can be created — see the List of Topics below for topics of interest, but don't be limited to it.
-- Add a new item to the main topic page, keeping newer notes at the top of their year's section.
-- **Every note must have a `Related:` link to at least one other topic page** — infer it from the note's keywords/description first; only look up the web for the note's subject if it's genuinely unclear which other topic it relates to. If the related topic page doesn't exist yet, create it.
-- Update `notes/index.md` with any new topic pages and a one-line description, and add the page to `mkdocs.yml`'s `nav:` list.
-- Append an entry to `notes/log.md` with the date, source name, and what changed.
-- Following notes should not be processed or moved to GitHub:
-    - Names containing the words TODO, Template, or Thoughts
-    - Newsletter.md
+* If the note has one or more URLs,  visit them and generate an accurate short description.
+* Identify the core concepts/topic of the resource. 
+* Identify the main topic and related topics.
+* Read `notes/index.md` first to find relevant topic pages.
+* If there is no match, a new topic page can be added. See the list of topics below for additional topics of interest.
+* Add a new item to the main topic page. Keeping the newer notes at the top.
+* Add back-links ([[page-name]]) to connect related topics. If the related topic page does not exist, create the page.
+* Update `notes/index.md` with new pages and one-line descriptions.
+* Append an entry to `notes/log.md` with the date, source name, and what changed
 
 ## Update the Website
 
@@ -95,16 +92,21 @@ Every note topic page should follow this structure:
 - [title](url): description. Related: [[Other_Topic]], [[Another_Topic]]. Keywords: keyword one, keyword two
 ```
 
-- Organize each page in reverse chronological order, newest note first, in sections by year (`## 2026` at the top).
-- For notes with URLs, follow the format `[title](url): description`. If there's more than one link, use the best one as the main URL but include the others inline as `[GitHub](github link)`, `[Learn more](other link)`, etc.
-- For notes with just text (no URL), follow the format `*Title*: note text` and don't summarize — add it verbatim.
-- Add `Related: [[Page_Name]]` wiki-links to connect to other relevant topic pages — required on every note (see Processing Instructions above).
-- Add 3-6 keywords that best describe the note and will aid recall later, as a plain comma-separated list: `Keywords: keyword one, keyword two, keyword three` (no brackets, no backticks).
-- Update `**Last updated**` whenever a page gets a new entry.
+- Use Markdown format for each note.
+- Use a bullet point for each note
+- For notes with URLs, 
+	  - Follow the format [title](url]): <description> <keywords>
+	  - If there is text accompanying the URL, add it verbatim. 
+	  - Add a 1-2 line description from the URLs
+- For notes with just text, 
+	  - Follow the format *Title*: note text <keywords>
+	  - do not summarize notes with just text. add it verbatim.
+- Add 3-6 keywords that best describe the note and will aid in recalling them later.
+
+Link to related topics using [[wiki-links]] throughout the text.
 
 ## Rules
 
 - Keep page filenames Title Case with underscores (e.g. `Machine_Learning.md`), matching the `[[Page_Name]]` used in Related links.
 - Write in clear, plain language.
-- Do not delete any topic notes.
 - Always update `notes/log.md` after changes.
