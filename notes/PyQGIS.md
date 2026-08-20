@@ -7,7 +7,7 @@
 
 ## 2026
 
-- [QGIS Plugin Dev Tools](https://github.com/nlsfi/qgis-plugin-dev-tools): Development and packaging utilities for QGIS plugins, streamlining the management of runtime dependencies and enabling developers to build, publish, and test their plugins more efficiently. Related: [[QGIS]], [[Tools]]. Keywords: PyQGIS, QGIS, plugin, packaging, development, tools
+- [QGIS Plugin Dev Tools](https://github.com/nlsfi/qgis-plugin-dev-tools): Development and packaging utilities for QGIS plugins, streamlining the management of runtime dependencies and enabling developers to build, publish, and test their plugins more efficiently. Related: [[QGIS]], [[Python]], [[Tools]]. Keywords: PyQGIS, QGIS, plugin, packaging, development, tools
 
 ## 2025
 
@@ -15,7 +15,7 @@
 
 ## 2024
 
-- [Creating Python Executables with cx-freeze for QGIS Roam](https://cx-freeze.readthedocs.io/en/latest/builtdist.html): QGIS Roam project uses cx-freeze to package Python applications as standalone executables. Related: [[Python]]. Keywords: PyQGIS, Python, cx-freeze, executable, packaging, QGIS Roam
+- [Creating Python Executables with cx-freeze for QGIS Roam](https://cx-freeze.readthedocs.io/en/latest/builtdist.html): QGIS Roam project uses cx-freeze to package Python applications as standalone executables. Related: [[Python]], [[QGIS]]. Keywords: PyQGIS, Python, cx-freeze, executable, packaging, QGIS Roam
 
 - [Packaging 3rd Party Plugins in QGIS](https://github.com/qgis/QGIS-Enhancement-Proposals/issues/202): QGIS Enhancement Proposal for packaging third-party Python plugins inside QGIS projects. Related: [[QGIS]], [[Python]]. Keywords: PyQGIS, QGIS, plugins, packaging, Python
 
