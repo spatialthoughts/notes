@@ -2,6 +2,8 @@
 
 ## 2026
 
+- [9 Verified Tools to Stop Burning Claude Tokens Unnecessarily](https://dev.to/kmusicman/9-verified-tools-to-stop-burning-claude-tokens-unnecessarily-f9e): Skills, hooks and services to help reduce token use. [Keywords: `Claude Code` `skills` `hooks` `productivity` `tokens` `cost optimization`]
+
 - [Ponytail](https://github.com/DietrichGebert/ponytail): A Claude Code skill that enforces a "lazy senior developer" philosophy — a decision ladder that prioritizes using existing solutions (stdlib, native features, installed dependencies) before writing new code, demonstrating ~54% reduction in lines of code and ~20% cost savings. [Keywords: `Claude Code` `skills` `agents` `productivity` `best practices` `code generation`]
 
 - [GeoSQL](https://github.com/dekart-xyz/geosql): A Claude/Codex skill for data scientists and analysts working with geospatial data on PostGIS, BigQuery, Snowflake, and Wherobots — enables spatial SQL analysis through an AI agent with real-time map visualization for previewing and validating geographic query results locally. [Keywords: `Claude Code` `SQL` `geospatial` `spatial SQL` `PostGIS` `BigQuery` `Snowflake` `agents` `skills`]

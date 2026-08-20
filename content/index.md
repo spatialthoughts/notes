@@ -6,9 +6,9 @@ These notes were scattered across many places and hard to manage. Finally, Claud
 
 ## Latest Finds
 
+- [India Data Atlas](https://indiadataatlas.deccanspatial.com/): Collection of data sources for India with learning resources. [Keywords: `data` `India` `geospatial` `socio-economic` `open data` `learning resources`] — [More in Data](Data.md)
+- [9 Verified Tools to Stop Burning Claude Tokens Unnecessarily](https://dev.to/kmusicman/9-verified-tools-to-stop-burning-claude-tokens-unnecessarily-f9e): Skills, hooks and services to help reduce token use. [Keywords: `Claude Code` `skills` `hooks` `productivity` `tokens` `cost optimization`] — [More in Claude Code](Claude_Code.md)
 - [Where the Shadow Fell](http://eclipses.bogachev.fr/): Interactive visualization mapping all 11,898 solar eclipses between 2000 BCE and 3000 CE, showing each eclipse's path of totality and enabling exploration by type, time period, and the saros and inex predictive cycles. [Keywords: `web mapping` `astronomy` `eclipse` `visualization` `saros` `interactive`] — [More in Web Mapping](Web_Mapping.md)
-- [Downscaling Weather Prediction using TESSERA Embeddings](https://anil.recoil.org/notes/weather-downscaling-tessera): Replaces hand-crafted terrain descriptors with TESSERA satellite foundation model embeddings to downscale coarse 25km weather grids into finer-resolution predictions, validated against Microsoft's Aurora AI model and ERA5 reanalysis. [Keywords: `TESSERA` `embeddings` `weather` `downscaling` `foundation model` `Aurora` `ERA5`] — [More in Embeddings](Embeddings.md)
-- [Cloud Native SDI - Portolan](https://cholmes.github.io/open-geodag-presentation/): Presentation exploring how cloud-native geospatial formats (GeoParquet, COG, PMTiles, STAC) can transform Spatial Data Infrastructures, introducing Portolan, an open-source framework for building serverless, AI-first SDIs, demonstrated via a live Dutch government data portal requiring zero servers. [Keywords: `cloud-native` `GeoParquet` `COG` `PMTiles` `STAC` `SDI` `Portolan` `serverless`] — [More in CNG](CNG.md)
 
 ## Topics
 

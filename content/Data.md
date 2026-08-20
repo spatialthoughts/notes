@@ -2,6 +2,8 @@
 
 ## 2026
 
+- [India Data Atlas](https://indiadataatlas.deccanspatial.com/): Collection of data sources for India with learning resources. [Keywords: `data` `India` `geospatial` `socio-economic` `open data` `learning resources`]
+
 - [dynamical.org](https://dynamical.org/): A research lab providing a public catalog of cloud-optimized weather and climate datasets, helping researchers, forecasters, and developers access, understand, and act on environmental data. [Keywords: `weather` `climate` `data` `cloud-optimized` `open data` `forecast`]
 
 - [Master Plan Viewer](https://datsvarun.github.io/master-plan-viewer/): A lightweight web application that displays georeferenced master plans of Indian cities on an interactive map, utilizing Cloud Optimized GeoTIFFs for efficient streaming and OpenLayers for mapping functionality. [Keywords: `urban planning` `India` `master plan` `web app` `Cloud Optimized GeoTIFF` `OpenLayers`]
