@@ -65,6 +65,6 @@
 
 - [Five Guiding Principles for Jupyter Notebooks in Earth Observation Education](https://www.mdpi.com/2072-4292/14/14/3359/htm): MDPI paper on best practices for Jupyter notebooks in Earth observation data education. Related: [[Remote_Sensing]], [[Data]]. Keywords: Python, Jupyter, education, Earth observation, remote sensing
 
-- [Python Packaging Guide](https://www.pyopensci.org/package-review-guide/index.html): pyOpenSci guide for Python package development and review best practices. Related: [[Tools]]. Keywords: Python, packaging, open source, best practices
+- [Python Packaging Guide](https://www.pyopensci.org/python-package-guide/index.html): pyOpenSci guide for Python package development and review best practices. Related: [[Tools]]. Keywords: Python, packaging, open source, best practices
 
 - [K-Means Constrained](https://github.com/joshlk/k-means-constrained): QGIS-compatible implementation of K-Means clustering with minimum and maximum cluster size constraints. Related: [[QGIS]], [[Machine_Learning]]. Keywords: Python, K-Means, clustering, QGIS, machine learning

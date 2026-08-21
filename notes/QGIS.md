@@ -25,7 +25,7 @@
 
 - [Mapschool Choropleth / Thematic Maps](https://mapschool.io/#choropleth): Mapschool guide on choropleth and thematic map theory and design. Related: [[Cartography]]. Keywords: QGIS, choropleth, thematic maps, cartography, education
 
-- [QGIS for Crime Analysis](https://sites.google.com/view/routineactivity/page/qgis-for-crime-analysis): Resource site for using QGIS in crime analysis and routine activity theory. Related: [[Urban_Planning]]. Keywords: QGIS, crime analysis, GIS, spatial analysis
+- [QGIS for Crime Analysis](https://web.archive.org/web/20231012221213/https://sites.google.com/view/routineactivity/page/qgis-for-crime-analysis): Resource site for using QGIS in crime analysis and routine activity theory. Related: [[Urban_Planning]]. Keywords: QGIS, crime analysis, GIS, spatial analysis
 
 - [QGIS Splash Screens](https://github.com/webgeodatavore/qgis-splash-screens-birthday): Collection of QGIS birthday splash screens. Related: [[Tools]]. Keywords: QGIS, splash screen
 

@@ -25,13 +25,9 @@
 
 ## 2024
 
-- [Geospatial Index - Publicly Traded Geospatial Companies](https://www.tradingview.com/watchlists/123254792/): TradingView watchlist of publicly traded geospatial companies for market tracking. Related: [[Data]]. Keywords: geospatial, stocks, market, business
-
 - [Podcasting and Video Recording Software - Riverside.fm](https://riverside.fm/): Professional online podcast and video recording platform with high-quality audio and video. Related: [[Tools]]. Keywords: podcast, video, recording, software
 
 - [Draw.io](https://www.drawio.com/): Free open-source diagramming software for creating flowcharts, neural network diagrams, UML, and more. Related: [[Tools]]. Keywords: diagrams, flowcharts, UML, visualization, tool
-
-- [Image Generator - Visual Electric](https://visualelectric.com/): AI-powered image generation tool with a design-focused interface. Related: [[AI]], [[Cartography]]. Keywords: AI, image generation, creative, design
 
 - [GeoBoundaries API](https://www.geoboundaries.org/api/current/gbOpen/IND/ADM1/): Open administrative boundary API providing GeoJSON data for any country/region. Related: [[Data]], [[Tools]]. Keywords: data, administrative boundaries, API, GIS
 
@@ -55,6 +51,6 @@
 
 - [Felt Maps - Collaborative Map Making](https://felt.com/): Collaborative online map making platform for teams. Related: [[Web_Mapping]], [[Cartography]]. Keywords: web mapping, collaboration, maps, GIS, SaaS
 
-- [Denmark AIS Data](http://web.ais.dk/aisdata/): Free Automatic Identification System (AIS) ship tracking data for Denmark. Related: [[Data]]. Keywords: AIS, ships, maritime, Denmark, open data
+- [Denmark AIS Data](https://www.dma.dk/safety-at-sea/navigational-information/ais-data): Free Automatic Identification System (AIS) ship tracking data for Denmark. Related: [[Data]]. Keywords: AIS, ships, maritime, Denmark, open data
 
 - [GeoDataFlow Pipeline Tool](https://github.com/ahuarte47/geodataflow): Pipeline tool for geospatial data processing similar to GDAL/OGR workflows. Related: [[Remote_Sensing]], [[Python]], [[Data]]. Keywords: GIS, data pipeline, GDAL, geospatial, Python

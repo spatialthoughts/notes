@@ -13,7 +13,7 @@
 
 - [Groundnut Yield Modeling - Crop Yield Python](https://colab.research.google.com/drive/1MjiNYudYiY89dp1dbHHkl5oVlElT7S3z#scrollTo=vEyKhUfqSjId): Colab notebook for groundnut crop yield prediction using machine learning in Python. Related: [[Agriculture]], [[Python]]. Keywords: machine learning, crop yield, agriculture, Python, Colab
 
-- [What's wrong with R-squared](https://towardsdatascience.com/whats-wrong-with-r-squared-and-how-to-fix-it-7362c5f26c53): Explanation of R2 limitations in regression evaluation and recommended alternatives. Related: [[Deep_Learning]], [[Data]]. Keywords: machine learning, regression, R-squared, model evaluation, statistics
+- [What's wrong with R-squared](https://medium.com/data-science/whats-wrong-with-r-squared-and-how-to-fix-it-7362c5f26c53): Explanation of R2 limitations in regression evaluation and recommended alternatives. Related: [[Deep_Learning]], [[Data]]. Keywords: machine learning, regression, R-squared, model evaluation, statistics
 
 ## Earlier
 
@@ -35,15 +35,13 @@
 
 - [RF vs GTB Variable Importance](https://www.researchgate.net/figure/ariable-importance-of-a-Random-Forest-and-b-Gradient-Boosting-models-Meteorological_fig3_324025758): Comparison of variable importance between Random Forest and Gradient Tree Boosting models. Related: [[Data]]. Keywords: machine learning, Random Forest, Gradient Boosting, feature importance
 
-- [Vector Geo Embedding Similarity Search](https://www.louisquissetlabs.com/index.html): Tools for geospatial vector embedding similarity search using ML approaches. Related: [[Embeddings]], [[Tools]]. Keywords: machine learning, embeddings, geospatial, similarity search
-
 - [Farm Boundary Detection - Approaches](https://medium.com/geekculture/%D1%81r%D0%BE%D1%80-field-boundary-detection-approaches-and-main-challenges-46e37dd276bc): Review of crop field boundary detection approaches and main challenges in satellite imagery. Related: [[Deep_Learning]], [[Remote_Sensing]]. Keywords: machine learning, deep learning, farm boundary, field detection, satellite
 
 - [Sampling Equal Area Grid Projection for Land Cover](https://www.sciencedirect.com/science/article/pii/S003442572500118X?via%3Dihub): Paper on equal-area grid projection sampling strategies for land cover classification. Related: [[Remote_Sensing]]. Keywords: machine learning, sampling, land cover, equal area, projection
 
 - [Parametric vs Non-Parametric Time Series Forecasting - Review](https://www.researchgate.net/publication/342714071_Parametric_Versus_Non-Parametric_Time_Series_Forecasting_Methods_A_Review): Comprehensive review comparing parametric and non-parametric time series forecasting methods. Related: [[XArray]], [[Climate]]. Keywords: time series, forecasting, parametric, non-parametric, machine learning
 
-- [Time Series Analysis Slides](https://imedea.uib-csic.es/master/cambioglobal/Modulo_V_cod101615/Theory/TSA_theory_part1.pdf): Course slides on time series analysis theory for climate and environmental data. Related: [[XArray]], [[Climate]], [[Data]]. Keywords: time series, analysis, climate, education, statistics
+- [Time Series Analysis Slides](https://web.archive.org/web/20240618213708/https://imedea.uib-csic.es/master/cambioglobal/Modulo_V_cod101615/Theory/TSA_theory_part1.pdf): Course slides on time series analysis theory for climate and environmental data. Related: [[XArray]], [[Climate]], [[Data]]. Keywords: time series, analysis, climate, education, statistics
 
 - [EPA Guide for River Trend Analysis](https://www.epa.gov/sites/default/files/2016-05/documents/tech_notes_6_dec2013_trend.pdf): EPA technical notes on trend analysis methods for river flow and water quality data. Related: [[XArray]], [[Water_Resources]], [[Data]]. Keywords: time series, trend analysis, rivers, water, EPA, statistics
 

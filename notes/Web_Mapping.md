@@ -35,4 +35,4 @@
 
 - [Web GIS Development Roadmap](https://www.gislounge.com/open-source-web-gis-development-roadmap/): GIS Lounge guide to open source web GIS development roadmap and technology stack. Related: [[Tools]]. Keywords: web mapping, GIS, roadmap, open source, JavaScript
 
-- [Cloud Native Geospatial Map](https://www.postholer.com/articles/Next-Generation-Interactive-Maps): Article on next-generation interactive maps using cloud-native geospatial technologies. Related: [[CNG]], [[STAC]]. Keywords: web mapping, cloud-native, interactive, COG, STAC
+- [Cloud Native Geospatial Map](https://web.archive.org/web/20260420185727/https://www.postholer.com/articles/Next-Generation-Interactive-Maps): Article on next-generation interactive maps using cloud-native geospatial technologies. Related: [[CNG]], [[STAC]]. Keywords: web mapping, cloud-native, interactive, COG, STAC

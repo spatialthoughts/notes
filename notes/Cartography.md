@@ -7,7 +7,7 @@
 
 ## 2025
 
-- [Weaving Space: Multivariate Maps](https://dosull.github.io/weaving-space/presentations/FOSS4G-Nov-2025/#/title-slide): FOSS4G 2025 presentation introducing `weavingspace`, a Python module using tiling and weaving techniques to combine multiple choropleth maps into single multivariate visualizations. Related: [[Python]], [[CNG]]. Keywords: cartography, multivariate, choropleth, Python, visualization, FOSS4G
+- [Weaving Space: Multivariate Maps](https://dosull.github.io/weavingspace/presentations/FOSS4G-Nov-2025/#/title-slide): FOSS4G 2025 presentation introducing `weavingspace`, a Python module using tiling and weaving techniques to combine multiple choropleth maps into single multivariate visualizations. Related: [[Python]], [[CNG]]. Keywords: cartography, multivariate, choropleth, Python, visualization, FOSS4G
 
 - [Lonboard Visualization - Climate Projection](https://github.com/samarchie/foss4g-auckland-2025-lonboard/): FOSS4G Auckland 2025 notebooks demonstrating high-performance geospatial visualization with Lonboard using GPU-accelerated WebGL rendering. Related: [[Web_Mapping]], [[CNG]], [[Python]]. Keywords: cartography, visualization, Lonboard, WebGL, GPU, FOSS4G, Python
 

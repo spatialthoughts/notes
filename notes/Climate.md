@@ -21,7 +21,7 @@
 
 ## Earlier
 
-- [Global Sea Level Change Indicators 1950-2050](https://cds.climate.copernicus.eu/cdsapp#!/dataset/sis-water-level-change-indicators-cmip6?tab=overview): Copernicus Climate Data Store dataset of sea level change indicators derived from reanalysis and high-resolution CMIP6 projections. Related: [[Data]]. Keywords: climate, sea level, CMIP6, Copernicus, reanalysis
+- [Global Sea Level Change Indicators 1950-2050](https://cds.climate.copernicus.eu/datasets/sis-water-level-change-indicators-cmip6?tab=overview): Copernicus Climate Data Store dataset of sea level change indicators derived from reanalysis and high-resolution CMIP6 projections. Related: [[Data]]. Keywords: climate, sea level, CMIP6, Copernicus, reanalysis
 
 - [Germany 100 Years of Temperature Change](https://nellomaps.com/2022/08/06/small-multiple-map/): Small multiple map visualization showing 100 years of temperature change in Germany. Related: [[Cartography]]. Keywords: climate, temperature, visualization, small multiples, cartography, Germany
 

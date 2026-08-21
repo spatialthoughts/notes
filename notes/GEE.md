@@ -27,8 +27,6 @@
 
 - [Topographic Correction in GEE](https://mygeoblog.com/2018/10/17/terrain-correction-in-gee/): Tutorial on applying terrain/topographic correction to satellite imagery in Google Earth Engine. Related: [[Remote_Sensing]]. Keywords: GEE, topographic correction, terrain, DEM, satellite
 
-- [USDA GEE Random Forest Regression Training](https://fsapps.nwcg.gov/gtac/CourseDownloads/Training/Remote_Sensing/DigitalSoilMapping_EarthEngine_NRCS/01_Exercises/04.2_DigitalSoilMappinginEarthEngine_RandomForestRegression.docx): USDA digital soil mapping exercise using Random Forest regression in GEE. Related: [[Deep_Learning]]. Keywords: GEE, Random Forest, regression, soil mapping, USDA
-
 - [GEE Python App with Greppo](https://towardsdatascience.com/geospatial-app-with-google-earth-engine-and-greppo-2c166b373382): Tutorial on building geospatial web applications combining GEE and Greppo framework. Related: [[Python]], [[Web_Mapping]]. Keywords: GEE, Python, Greppo, web app, geospatial
 
 - [OBIA Object-Based Classification in GEE](https://www.mdpi.com/2072-4292/12/22/3776/htm): Paper on object-oriented LULC classification in GEE combining SNIC, GLCM, and machine learning. [Code](https://code.earthengine.google.com/6c4e2951ba6bb2da1bfe1449fa2c3144) Related: [[Remote_Sensing]], [[Machine_Learning]]. Keywords: GEE, OBIA, LULC, classification, SNIC, GLCM, machine learning

@@ -39,7 +39,7 @@
 
 - [InVEST Modeling](https://naturalcapitalproject.stanford.edu/software/invest): Stanford Natural Capital Project's InVEST tool for ecosystem services modeling including water yield and quality. Related: [[Agriculture]]. Keywords: water, ecosystem services, modeling, InVEST, Stanford
 
-- [Groundwater Recharge Modeling with GEE](https://guillaumeattard.com/groundwater-recharge-estimation-using-earth-engine/): Tutorial on estimating groundwater recharge using Google Earth Engine. Related: [[GEE]]. Keywords: water, groundwater, recharge, GEE, modeling
+- [Groundwater Recharge Modeling with GEE](https://web.archive.org/web/20230602212756/https://guillaumeattard.com/groundwater-recharge-estimation-using-earth-engine/): Tutorial on estimating groundwater recharge using Google Earth Engine. Related: [[GEE]]. Keywords: water, groundwater, recharge, GEE, modeling
 
 - [Rainfall-Runoff Model in GEE](https://www.currentscience.ac.in/Volumes/121/11/1433.pdf): Paper on cloud-based SCS Curve Number rainfall-runoff model using GEE. [Code](https://github.com/sukantjain/Google-Earth-Engine/blob/main/JavaScript/CurveNumberModel.js) Related: [[GEE]]. Keywords: water, rainfall-runoff, GEE, SCS, curve number, hydrology
 

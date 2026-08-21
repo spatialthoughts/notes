@@ -13,7 +13,7 @@
 
 ## 2024
 
-- [STOP and STAC series](https://www.geocorner.net/post/are-you-still-downloading-satellite-images-stop-and-stac-part-2): Series of blog posts explaining why to use STAC instead of downloading satellite images, with practical examples. Related: [[CNG]], [[Remote_Sensing]]. Keywords: STAC, cloud-native, satellite data, remote sensing
+- [STOP and STAC series](https://web.archive.org/web/20251106213456/https://www.geocorner.net/post/are-you-still-downloading-satellite-images-stop-and-stac-part-2): Series of blog posts explaining why to use STAC instead of downloading satellite images, with practical examples. Related: [[CNG]], [[Remote_Sensing]]. Keywords: STAC, cloud-native, satellite data, remote sensing
 
 - [Microsoft Planetary Computer STAC API Example](https://medium.com/@geonextgis/getting-started-with-microsoft-planetary-computer-stac-api-67cbebe96e5e): Tutorial on using the Microsoft Planetary Computer STAC API with platform filters for Landsat 8/9 data access. Related: [[Remote_Sensing]], [[Python]], [[Data]]. Keywords: STAC, Planetary Computer, Landsat, Microsoft, Python
 
@@ -25,8 +25,8 @@
 
 - [element84 Earth Search STAC](https://www.element84.com/earth-search/): Element84's open STAC search API for searching and accessing satellite imagery. Related: [[Remote_Sensing]], [[Tools]]. Keywords: STAC, element84, Earth Search, satellite data, API
 
-- [Access Satellite Data using Python (Carpentries)](https://carpentries-incubator.github.io/geospatial-python/19-access-data/index.html): Carpentries lesson on accessing satellite data via STAC using Python. Related: [[Python]], [[Remote_Sensing]], [[Data]]. Keywords: STAC, Python, satellite data, education, Carpentries
+- [Access Satellite Data using Python (Carpentries)](https://carpentries-incubator.github.io/geospatial-python/05-access-data.html): Carpentries lesson on accessing satellite data via STAC using Python. Related: [[Python]], [[Remote_Sensing]], [[Data]]. Keywords: STAC, Python, satellite data, education, Carpentries
 
-- [Sentinel-1 ARD STAC](https://sentinel.esa.int/web/sentinel/sentinel-1-ard-normalised-radar-backscatter-nrb-product): ESA documentation on Sentinel-1 Analysis Ready Data (ARD) NRB product available via STAC. Related: [[Remote_Sensing]], [[Data]]. Keywords: STAC, Sentinel-1, ARD, SAR, ESA
+- [Sentinel-1 ARD STAC](https://sentiwiki.copernicus.eu/web/s1-products): ESA documentation on Sentinel-1 Analysis Ready Data (ARD) NRB product available via STAC. Related: [[Remote_Sensing]], [[Data]]. Keywords: STAC, Sentinel-1, ARD, SAR, ESA
 
 - [CBERS AWS STAC](https://twitter.com/liporace/status/1570029005692190720): CBERS (China-Brazil Earth Resources Satellite) data available via AWS STAC catalog. Related: [[Remote_Sensing]], [[Data]]. Keywords: STAC, CBERS, AWS, Brazil, satellite data
