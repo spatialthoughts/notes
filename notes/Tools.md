@@ -1,11 +1,13 @@
 # Tools
 
 **Summary**: Notes on general-purpose software tools and utilities.
-**Last updated**: 2026-08-20
+**Last updated**: 2026-08-22
 
 ---
 
 ## 2026
+
+- [ihatepdf.cv](https://www.ihatepdf.cv/): A free, browser-based PDF editor offering 46 tools — merging, splitting, compressing, converting (Word, Excel, PowerPoint, images, HTML), editing, redacting, and AI-powered summarization/chat — with all processing done locally in the browser (no watermarks, size limits, or accounts). Related: [[AI]]. Keywords: PDF, editor, browser-based, conversion, redaction, free tools
 
 - [MarkItDown](https://github.com/microsoft/markitdown): A lightweight Python utility by Microsoft that converts various files (PDFs, Word, Excel, PowerPoint, images, audio) to Markdown format for use with LLMs and text analysis pipelines. Related: [[Python]], [[AI]]. Keywords: Python, Markdown, PDF, Office, conversion, LLM, tools, Microsoft
 

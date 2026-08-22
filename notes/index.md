@@ -6,9 +6,9 @@ These notes were scattered across many places and hard to manage. Finally, Claud
 
 ## Latest Finds
 
+- [ihatepdf.cv](https://www.ihatepdf.cv/): Free, browser-based PDF editor with 46 tools for merging, converting, editing, and redacting PDFs, all processed locally with no watermarks or accounts. [Keywords: `PDF` `editor` `browser-based` `conversion` `redaction` `free tools`] — [More in Tools](Tools.md)
 - [Bhoonidhi MCP Server](https://geovicco-dev.github.io/bhoonidhi-mcp/): MCP server that lets AI agents search and download ISRO's Bhoonidhi satellite imagery archive using natural language. [Keywords: `MCP` `Claude Code` `ISRO` `India` `satellite imagery` `remote sensing`] — [More in Claude Code](Claude_Code.md)
 - [isobands: Xarray to GeoPandas Contours](https://palewi.re/docs/isobands/): Python library converting 2D xarray DataArrays into filled contour polygons in GeoPandas, spun off from the Reuters Climate Monitor. [Keywords: `XArray` `isobands` `contours` `GeoPandas` `GDAL` `Reuters`] — [More in XArray](XArray.md)
-- [India Data Atlas](https://indiadataatlas.deccanspatial.com/): Collection of data sources for India with learning resources. [Keywords: `data` `India` `geospatial` `socio-economic` `open data` `learning resources`] — [More in Data](Data.md)
 
 ## Topics
 
