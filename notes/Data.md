@@ -1,7 +1,7 @@
 # Data
 
 **Summary**: Notes on datasets, data engineering, and data discovery tools.
-**Last updated**: 2026-08-20
+**Last updated**: 2026-08-24
 
 ---
 
@@ -26,6 +26,8 @@
 - [India Open Geo Data](https://yashveeeeeer.github.io/india-geodata/): A unified collection of India's openly-licensed geospatial data across 26 datasets and 11 categories, including administrative boundaries, electoral maps, census data, environmental information, and infrastructure networks. Related: [[STAC]]. Keywords: data, India, geospatial, open data, administrative boundaries, census
 
 ## 2025
+
+- [Indian Open Maps](https://indianopenmaps.com/): A geospatial data platform offering open vector datasets (boundaries, roads, buildings) and raster datasets (topographic maps, satellite imagery) for India. Related: [[STAC]]. Keywords: data, India, geospatial, open data, vector, raster, boundaries
 
 - [Boundless Maps](https://boundlessmaps.com/): Pre-styled, ready-to-use maps for cartography and GIS projects with curated basemap styles. Related: [[Cartography]]. Keywords: data, cartography, basemaps, maps, visualization
 
