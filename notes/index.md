@@ -7,7 +7,7 @@ These notes were scattered across many places and hard to manage. Finally, Claud
 ## Latest Finds
 
 - [Researchers test the GlobalBuildingAtlas](https://researchmatters.in/news/researchers-test-globalbuildingatlas-worlds-newest-global-map-buildings-our-cities): ISRO's NRSC validated the GlobalBuildingAtlas's 3D building heights against NASA's ICESat-2 altimeter across Indian cities, finding near-perfect footprint mapping but systematic underestimation of building heights. [Keywords: `GlobalBuildingAtlas` `ICESat-2` `building height` `3D buildings` `ISRO` `remote sensing validation`] — [More in Remote Sensing](Remote_Sensing.md)
-- [APEx Algorithm Catalogue](https://algorithm-catalogue.apex.esa.int/): ESA's platform for discovering and accessing Earth observation algorithms and services, letting EO projects showcase their algorithms and results to a broader community. Related: [STAC](https://spatialthoughts.github.io/notes/STAC/). Keywords: ESA, algorithm catalogue, Earth observation, remote sensing, platform
+- [APEx Algorithm Catalogue](https://algorithm-catalogue.apex.esa.int/): ESA's platform for discovering and accessing Earth observation algorithms and services, letting EO projects showcase their algorithms and results to a broader community. [Keywords: `ESA` `algorithm catalogue` `Earth observation` `remote sensing` `platform`] — [More in Remote Sensing](Remote_Sensing.md)
 - [Bhoonidhi MCP Server](https://geovicco-dev.github.io/bhoonidhi-mcp/): MCP server that lets AI agents search and download ISRO's Bhoonidhi satellite imagery archive using natural language. [Keywords: `MCP` `Claude Code` `ISRO` `India` `satellite imagery` `remote sensing`] — [More in Claude Code](Claude_Code.md)
 
 ## Topics
