@@ -27,7 +27,7 @@
 
 ## 2025
 
-- [Indian Open Maps](https://indianopenmaps.com/): A geospatial data platform offering open vector datasets (boundaries, roads, buildings) and raster datasets (topographic maps, satellite imagery) for India. Related: [[STAC]]. Keywords: data, India, geospatial, open data, vector, raster, boundaries
+- [Indian Open Maps](https://indianopenmaps.com/): A geospatial data platform offering open vector datasets (boundaries, roads, buildings) and raster datasets (topographic maps, satellite imagery) for India by Ram Seraph. Data extracted from portals like SISDP, Gatishakti, Bharatmaps, AMRUT, and more. Related: [[STAC]]. Keywords: data, India, geospatial, open data, vector, raster, boundaries
 
 - [Boundless Maps](https://boundlessmaps.com/): Pre-styled, ready-to-use maps for cartography and GIS projects with curated basemap styles. Related: [[Cartography]]. Keywords: data, cartography, basemaps, maps, visualization
 
