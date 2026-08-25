@@ -7,7 +7,7 @@
 
 ## 2026
 
-- [India Data Atlas](https://indiadataatlas.deccanspatial.com/): Collection of data sources for India with learning resources. Related: [[STAC]]. Keywords: data, India, geospatial, socio-economic, open data, learning resources
+- [India Data Atlas](https://indiadataatlas.deccanspatial.com/): Collection of data sources for India with learning resources. Keywords: data, India, geospatial, socio-economic, open data, learning resources
 
 - [dynamical.org](https://dynamical.org/): A research lab providing a public catalog of cloud-optimized weather and climate datasets, helping researchers, forecasters, and developers access, understand, and act on environmental data. Related: [[Climate]], [[CNG]]. Keywords: weather, climate, data, cloud-optimized, open data, forecast
 
@@ -23,18 +23,18 @@
 
 - [Groundsource: Historic Urban Flash Floods Dataset](https://zenodo.org/records/18647054): An open global dataset of 2.6 million historical flood events derived from news articles spanning 150+ countries. See also the [methodology paper](https://eartharxiv.org/repository/view/12083/). Related: [[Water_Resources]]. Keywords: flood events, urban floods, historical data, news articles, open data, hydrology, water resources
 
-- [India Open Geo Data](https://yashveeeeeer.github.io/india-geodata/): A unified collection of India's openly-licensed geospatial data across 26 datasets and 11 categories, including administrative boundaries, electoral maps, census data, environmental information, and infrastructure networks. Related: [[STAC]]. Keywords: data, India, geospatial, open data, administrative boundaries, census
+- [India Open Geo Data](https://yashveeeeeer.github.io/india-geodata/): A unified collection of India's openly-licensed geospatial data across 26 datasets and 11 categories, including administrative boundaries, electoral maps, census data, environmental information, and infrastructure networks. Keywords: data, India, geospatial, open data, administrative boundaries, census
 
 ## 2025
 
-- [Indian Open Maps](https://indianopenmaps.com/): A geospatial data platform offering open vector datasets (boundaries, roads, buildings) and raster datasets (topographic maps, satellite imagery) for India by Ram Seraph. Data extracted from portals like SISDP, Gatishakti, Bharatmaps, AMRUT, and more. Related: [[STAC]]. Keywords: data, India, geospatial, open data, vector, raster, boundaries
+- [Indian Open Maps](https://indianopenmaps.com/): A geospatial data platform offering open vector datasets (boundaries, roads, buildings) and raster datasets (topographic maps, satellite imagery) for India by Ram Seraph. Data extracted from portals like SISDP, Gatishakti, Bharatmaps, AMRUT, and more.  Keywords: data, India, geospatial, open data, vector, raster, boundaries
 
 - [Boundless Maps](https://boundlessmaps.com/): Pre-styled, ready-to-use maps for cartography and GIS projects with curated basemap styles. Related: [[Cartography]]. Keywords: data, cartography, basemaps, maps, visualization
 
 ## Earlier
 
-- [Justin Myers repository of India datasets](https://github.com/justinelliotmeyers?tab=repositories&q=india&type=&language=&sort=): Collection of GitHub repositories with India geospatial and administrative data, including district and village boundaries, Gram Panchayat boundaries, PIN code datasets, and Survey of India named places. Related: [[Data]]. Keywords: data, India, boundaries, administrative, PIN code, villages
+- [Justin Myers repository of India datasets](https://github.com/justinelliotmeyers?tab=repositories&q=india&type=&language=&sort=): Collection of GitHub repositories with India geospatial and administrative data, including district and village boundaries, Gram Panchayat boundaries, PIN code datasets, and Survey of India named places. Keywords: data, India, boundaries, administrative, PIN code, villages
 
-- [India Microdata by Shiv Hastawala](https://www.shivhastawala.com/data): Collection of India microdata for research and analysis. Related: [[STAC]]. Keywords: data, India, microdata, socioeconomic
+- [India Microdata by Shiv Hastawala](https://www.shivhastawala.com/data): Collection of India microdata for research and analysis.  Keywords: data, India, microdata, socioeconomic
 
-- [Indian Administration Boundaries with PIN Code](https://github.com/ramSeraph/indian_admin_boundaries): Indian administrative boundaries dataset including postal PIN code boundaries. Related: [[STAC]]. Keywords: data, India, administrative boundaries, PIN code, GIS
+- [Indian Administration Boundaries with PIN Code](https://github.com/ramSeraph/indian_admin_boundaries): Indian administrative boundaries dataset including postal PIN code boundaries. Keywords: data, India, administrative boundaries, PIN code, GIS

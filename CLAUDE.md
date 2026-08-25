@@ -33,9 +33,13 @@ Always `git pull` to fetch the latest changes from GitHub first.
 
 When the user adds a new note to `raw/` and asks you to ingest it
 
+* Read the New_Notes.md and process all notes from it.
+	* If the note has one or more URLs,  visit them and generate an accurate short description.
+	* For notes with text upto 100 characters, add it verbatim. For longer notes, summarize it up to 100 characters.
+* Read any other files added to the `raw/` folder and process each file as a separate note.
 * If the note has one or more URLs,  visit them and generate an accurate short description.
 * Identify the core concepts/topic of the resource. 
-* Identify the main topic and related topics.
+* Identify the main topic and related topics. If the resource neatly fits into a single main topic - you do not have to have a related topic.
 * Read `notes/index.md` first to find relevant topic pages.
 * If there is no match, a new topic page can be added. See the list of topics below for additional topics of interest.
 * Add a new item to the main topic page. Keeping the newer notes at the top.
