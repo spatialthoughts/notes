@@ -33,6 +33,8 @@
 
 ## Earlier
 
+- [Justin Myers repository of India datasets](https://github.com/justinelliotmeyers?tab=repositories&q=india&type=&language=&sort=): Collection of GitHub repositories with India geospatial and administrative data, including district and village boundaries, Gram Panchayat boundaries, PIN code datasets, and Survey of India named places. Related: [[Data]]. Keywords: data, India, boundaries, administrative, PIN code, villages
+
 - [India Microdata by Shiv Hastawala](https://www.shivhastawala.com/data): Collection of India microdata for research and analysis. Related: [[STAC]]. Keywords: data, India, microdata, socioeconomic
 
 - [Indian Administration Boundaries with PIN Code](https://github.com/ramSeraph/indian_admin_boundaries): Indian administrative boundaries dataset including postal PIN code boundaries. Related: [[STAC]]. Keywords: data, India, administrative boundaries, PIN code, GIS
