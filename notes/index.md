@@ -2,11 +2,11 @@
 
 This site is a collection of my personal notes and bookmarks collected over the years. It is organized to help search and recall specific items or find notes related to a certain topic. 
 
-These notes were scattered across many places and hard to manage. Finally, Claude Code helped organize this and build this site. These are now auto-updated weekly from my notes. See the [CLAUDE.md](https://github.com/spatialthoughts/notes/blob/main/CLAUDE.md) file with processing instructions.
+If you'd like to setup a similar website for your own notes, see the detailed guide at [Building a Personal Knowledge Website](https://courses.spatialthoughts.com/agentic-coding-geospatial.html#building-a-personal-knowledge-website) section of our Agentic Coding for Geospatial course.
 
 ## Latest Finds
 
-- [OpenKnowledge Launch Week](https://openknowledge.ai/launch-week): A five-day "Markdown in Motion" launch week from the open-source knowledge management tool OpenKnowledge, announcing a visual Mermaid diagram editor, desktop apps, ACP agent integration, and an Open Knowledge Format plugin for LLM wikis. [Keywords: `knowledge management` `markdown` `Mermaid` `wiki` `agents` `open-source`] — [More in Tools](Tools.md)
+- [Unlimited-OCR](https://github.com/baidu/Unlimited-OCR): Baidu's OCR model extending DeepSeek-OCR for "one-shot long-horizon" document parsing, handling single images and multi-page PDFs in a single pass across Transformers, vLLM, and SGLang inference frameworks; live demo on [Hugging Face Spaces](https://huggingface.co/spaces/baidu/Unlimited-OCR). Related: [[AI]], [[Deep_Learning]]. Keywords: OCR, document parsing, Baidu, DeepSeek, Hugging Face, LLM — [More in Tools](Tools.md)
 - [Justin Myers repository of India datasets](https://github.com/justinelliotmeyers?tab=repositories&q=india&type=&language=&sort=): A collection of GitHub repositories with India geospatial and administrative data — district/village boundaries, Gram Panchayat boundaries, PIN codes, and Survey of India named places. [Keywords: `India` `boundaries` `administrative data` `GitHub` `geospatial data`] — [More in Data](Data.md)
 - [Researchers test the GlobalBuildingAtlas](https://researchmatters.in/news/researchers-test-globalbuildingatlas-worlds-newest-global-map-buildings-our-cities): ISRO's NRSC validated the GlobalBuildingAtlas's 3D building heights against NASA's ICESat-2 altimeter across Indian cities, finding near-perfect footprint mapping but systematic underestimation of building heights. [Keywords: `GlobalBuildingAtlas` `ICESat-2` `building height` `3D buildings` `ISRO` `remote sensing validation`] — [More in Remote Sensing](Remote_Sensing.md)
 

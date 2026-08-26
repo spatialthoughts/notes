@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "path:notes  ",
+  "search": "path:notes  -index.md",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.7157474955562004,
+  "scale": 1.6836470097932477,
   "close": true
 }
