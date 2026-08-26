@@ -1,11 +1,15 @@
 # AI
 
 **Summary**: Notes on artificial intelligence tools, models, and applications, including generative AI and LLMs.
-**Last updated**: 2026-08-20
+**Last updated**: 2026-08-26
 
 ---
 
 ## 2026
+
+- [Unlimited-OCR](https://github.com/baidu/Unlimited-OCR): Baidu's OCR model extending DeepSeek-OCR for "one-shot long-horizon" document parsing, handling single images and multi-page PDFs in a single pass across Transformers, vLLM, and SGLang inference frameworks; live demo on [Hugging Face Spaces](https://huggingface.co/spaces/baidu/Unlimited-OCR). Related: [[Tools]], [[Deep_Learning]]. Keywords: OCR, document parsing, Baidu, DeepSeek, Hugging Face, LLM
+
+- [OpenKnowledge Launch Week](https://openknowledge.ai/launch-week): A five-day "Markdown in Motion" launch week from the open-source knowledge management tool OpenKnowledge (3.7K GitHub stars, by Inkeep), announcing a visual Mermaid diagram editor, Linux/Windows desktop apps with remote control, ACP agent integration, opening any markdown file anywhere, and an Open Knowledge Format plugin for LLM wikis. Related: [[Tools]]. Keywords: knowledge management, markdown, Mermaid, wiki, agents, open-source
 
 - [Pi](https://pi.dev/): A minimal, extensible open-source agent harness for coding workflows supporting 15+ LLM providers, with real-time customization via TypeScript extensions, skills, and packages — designed to adapt to user needs rather than enforce predetermined workflows. Related: [[Tools]], [[Claude_Code]]. Keywords: AI, agents, LLM, open-source, TypeScript, coding, extensible
 

@@ -6,9 +6,9 @@ These notes were scattered across many places and hard to manage. Finally, Claud
 
 ## Latest Finds
 
+- [OpenKnowledge Launch Week](https://openknowledge.ai/launch-week): A five-day "Markdown in Motion" launch week from the open-source knowledge management tool OpenKnowledge, announcing a visual Mermaid diagram editor, desktop apps, ACP agent integration, and an Open Knowledge Format plugin for LLM wikis. [Keywords: `knowledge management` `markdown` `Mermaid` `wiki` `agents` `open-source`] — [More in Tools](Tools.md)
+- [Justin Myers repository of India datasets](https://github.com/justinelliotmeyers?tab=repositories&q=india&type=&language=&sort=): A collection of GitHub repositories with India geospatial and administrative data — district/village boundaries, Gram Panchayat boundaries, PIN codes, and Survey of India named places. [Keywords: `India` `boundaries` `administrative data` `GitHub` `geospatial data`] — [More in Data](Data.md)
 - [Researchers test the GlobalBuildingAtlas](https://researchmatters.in/news/researchers-test-globalbuildingatlas-worlds-newest-global-map-buildings-our-cities): ISRO's NRSC validated the GlobalBuildingAtlas's 3D building heights against NASA's ICESat-2 altimeter across Indian cities, finding near-perfect footprint mapping but systematic underestimation of building heights. [Keywords: `GlobalBuildingAtlas` `ICESat-2` `building height` `3D buildings` `ISRO` `remote sensing validation`] — [More in Remote Sensing](Remote_Sensing.md)
-- [APEx Algorithm Catalogue](https://algorithm-catalogue.apex.esa.int/): ESA's platform for discovering and accessing Earth observation algorithms and services, letting EO projects showcase their algorithms and results to a broader community. [Keywords: `ESA` `algorithm catalogue` `Earth observation` `remote sensing` `platform`] — [More in Remote Sensing](Remote_Sensing.md)
-- [Bhoonidhi MCP Server](https://geovicco-dev.github.io/bhoonidhi-mcp/): MCP server that lets AI agents search and download ISRO's Bhoonidhi satellite imagery archive using natural language. [Keywords: `MCP` `Claude Code` `ISRO` `India` `satellite imagery` `remote sensing`] — [More in Claude Code](Claude_Code.md)
 
 ## Topics
 

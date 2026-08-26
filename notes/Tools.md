@@ -1,11 +1,15 @@
 # Tools
 
 **Summary**: Notes on general-purpose software tools and utilities.
-**Last updated**: 2026-08-22
+**Last updated**: 2026-08-26
 
 ---
 
 ## 2026
+
+- [OpenKnowledge Launch Week](https://openknowledge.ai/launch-week): A five-day "Markdown in Motion" launch week from the open-source knowledge management tool OpenKnowledge (3.7K GitHub stars, by Inkeep), announcing a visual Mermaid diagram editor, Linux/Windows desktop apps with remote control, ACP agent integration, opening any markdown file anywhere, and an Open Knowledge Format plugin for LLM wikis. Related: [[AI]]. Keywords: knowledge management, markdown, Mermaid, wiki, agents, open-source
+
+- [Unlimited-OCR](https://github.com/baidu/Unlimited-OCR): Baidu's OCR model extending DeepSeek-OCR for "one-shot long-horizon" document parsing, handling single images and multi-page PDFs in a single pass across Transformers, vLLM, and SGLang inference frameworks; live demo on [Hugging Face Spaces](https://huggingface.co/spaces/baidu/Unlimited-OCR). Related: [[AI]], [[Deep_Learning]]. Keywords: OCR, document parsing, Baidu, DeepSeek, Hugging Face, LLM
 
 - [ihatepdf.cv](https://www.ihatepdf.cv/): A free, browser-based PDF editor offering 46 tools — merging, splitting, compressing, converting (Word, Excel, PowerPoint, images, HTML), editing, redacting, and AI-powered summarization/chat — with all processing done locally in the browser (no watermarks, size limits, or accounts). Related: [[AI]]. Keywords: PDF, editor, browser-based, conversion, redaction, free tools
 

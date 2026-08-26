@@ -1,11 +1,13 @@
 # Deep Learning
 
 **Summary**: Notes on deep learning architectures, models, and applications in geospatial and other domains.
-**Last updated**: 2026-08-20
+**Last updated**: 2026-08-26
 
 ---
 
 ## 2026
+
+- [Unlimited-OCR](https://github.com/baidu/Unlimited-OCR): Baidu's OCR model extending DeepSeek-OCR for "one-shot long-horizon" document parsing, handling single images and multi-page PDFs in a single pass across Transformers, vLLM, and SGLang inference frameworks; live demo on [Hugging Face Spaces](https://huggingface.co/spaces/baidu/Unlimited-OCR). Related: [[Tools]], [[AI]]. Keywords: OCR, document parsing, Baidu, DeepSeek, Hugging Face, LLM
 
 - [Antelope Valley Wildflower Forecast](https://antelope.leaftime.net/): An AI-powered bloom prediction tool for California poppies and goldfields in Antelope Valley, using deep learning on satellite imagery and weather data (accumulated precipitation, growing degree days, wind speed) to forecast wildflower blooms 5 days in advance. Related: [[Remote_Sensing]], [[Climate]], [[AI]]. Keywords: deep learning, remote sensing, wildflower, bloom prediction, satellite imagery, weather, California
 
