@@ -1,9 +1,13 @@
 # Cartography
 
 **Summary**: Notes on maps, mapmaking, and cartographic design tools.
-**Last updated**: 2026-08-20
+**Last updated**: 2026-09-03
 
 ---
+
+## 2026
+
+- [How We Built the World's Prettiest Auto-Generated Transit Maps](https://blog.transitapp.com/how-we-built-the-worlds-prettiest-auto-generated-transit-maps-12d0c6fa502f/): Transit's approach to auto-generating attractive transit maps by processing routes in pixel space — drawing lines thickly then skeletonizing them to find shared segments, using integer linear programming to minimize crossings, and rounding with circular arcs. Keywords: transit maps, auto-generation, skeletonization, pixel space, ILP, map design
 
 ## 2025
 

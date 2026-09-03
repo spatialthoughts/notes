@@ -1,11 +1,13 @@
 # AI
 
 **Summary**: Notes on artificial intelligence tools, models, and applications, including generative AI and LLMs.
-**Last updated**: 2026-08-26
+**Last updated**: 2026-09-03
 
 ---
 
 ## 2026
+
+- [Blender Kitchen Built by GLM-5.3-Flash](https://x.com/louszbd/status/2093047548550525165): A dream kitchen scene built entirely in Blender by letting GLM-5.3-Flash code autonomously in an empty folder for 12 hours, as a test of long-horizon agentic coding capability; [prompt details](https://x.com/louszbd/status/2094867896250048705) in a follow-up post. Related: [[Claude_Code]], [[Deep_Learning]]. Keywords: GLM, Blender, agentic coding, long-horizon tasks, 3D rendering, LLM
 
 - [Unlimited-OCR](https://github.com/baidu/Unlimited-OCR): Baidu's OCR model extending DeepSeek-OCR for "one-shot long-horizon" document parsing, handling single images and multi-page PDFs in a single pass across Transformers, vLLM, and SGLang inference frameworks; live demo on [Hugging Face Spaces](https://huggingface.co/spaces/baidu/Unlimited-OCR). Related: [[Tools]], [[Deep_Learning]]. Keywords: OCR, document parsing, Baidu, DeepSeek, Hugging Face, LLM
 
