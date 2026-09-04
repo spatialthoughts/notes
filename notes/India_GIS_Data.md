@@ -3,7 +3,9 @@
 **Summary**: Datasets and data sources for India — administrative boundaries, census, socio-economic microdata, and open geospatial collections. See [[Data]] for non-India and other useful datasets.
 **Last updated**: 2026-09-04
 
-> Many of government datasets in India come with unclear license and usage terms. While many data enthusiasts have made these datasets available and re-shared with the community under an open license (CC0) - it does not automatically mean the dataset is open. Visit the source to learn the terms of use and ensure your usage complies with them.
+!!! warning
+
+    Many of government datasets in India come with unclear license and usage terms. While many data enthusiasts have made these datasets available and re-shared with the community under an open license (CC0) - it does not automatically mean the dataset is open. Visit the source to learn the terms of use and ensure your usage complies with them.
 
 ---
 
