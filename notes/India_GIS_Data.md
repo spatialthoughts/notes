@@ -1,7 +1,9 @@
 # India GIS Data
 
-**Summary**: Datasets and data sources for India — administrative boundaries, census, socio-economic microdata, and open geospatial collections. See [[Data]] for non-India datasets.
+**Summary**: Datasets and data sources for India — administrative boundaries, census, socio-economic microdata, and open geospatial collections. See [[Data]] for non-India and other useful datasets.
 **Last updated**: 2026-09-04
+
+> Many of government datasets in India come with unclear license and usage terms. While many data enthusiasts have made these datasets available and re-shared with the community under an open license (CC0) - it does not automatically mean the dataset is open. Visit the source to learn the terms of use and ensure your usage complies with them.
 
 ---
 
@@ -22,3 +24,5 @@
 - [India Microdata by Shiv Hastawala](https://www.shivhastawala.com/data): Collection of India microdata for research and analysis.  Keywords: data, India, microdata, socioeconomic
 
 - [Indian Administration Boundaries with PIN Code](https://github.com/ramSeraph/indian_admin_boundaries): Indian administrative boundaries dataset including postal PIN code boundaries. Keywords: data, India, administrative boundaries, PIN code, GIS
+
+- [Community Created Maps of India](https://projects.datameet.org/maps/): Data{Meet}'s community project providing free digitized boundary data for India (states, districts, assembly and parliamentary constituencies, municipalities, villages) as GeoJSON and shapefiles in WGS84, sourced from government websites. Keywords: data, India, boundaries, administrative, constituencies, GeoJSON, shapefile, Data{Meet}
