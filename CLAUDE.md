@@ -66,6 +66,7 @@ Technology Topics
 - STAC, CNG (Cloud Native Geospatial)
 - GEE (Google Earth Engine)
 - Data
+- India GIS Data (India-specific datasets; non-India datasets stay in Data)
 - Tools
 
 Thematic Topics

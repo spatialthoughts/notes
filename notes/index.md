@@ -86,6 +86,8 @@ If you'd like to setup a similar website for your own notes, see the detailed gu
 
 -   :material-table: **[Data](Data.md)**
 
+-   :material-map-marker: **[India GIS Data](India_GIS_Data.md)**
+
 -   :material-file-document: **[Papers](Papers.md)**
 
 -   :material-dots-horizontal: **[Miscellaneous](Misc.md)**
