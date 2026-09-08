@@ -17,7 +17,8 @@ Prioritize the ability to search and recall specific items. These notes are prim
 - processed/       -- documents processed from raw/ (gitignored, stays local, never pushed)
 - notes/           -- markdown pages for the organized topic notes; also the MkDocs docs_dir
 - notes/index.md   -- table of contents of all the notes pages + "Latest Finds"
-- notes/log.md     -- append-only record of all operations
+- notes/log.md     -- append-only record of all operations (gitignored; stays in the
+                       Obsidian vault, never pushed or published to the website)
 ```
 
 ## Workflow

@@ -1,6 +1,9 @@
 # Ingestion-pipeline source clippings — never tracked
 processed/
 
+# Operations log — kept in the Obsidian vault, not published to the website
+notes/log.md
+
 # Local symlinks to the iCloud-synced Obsidian vault (machine-specific
 # absolute paths — mobile capture happens there, incl. raw/New_Notes.md)
 /icloud-vault
