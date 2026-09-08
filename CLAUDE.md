@@ -76,6 +76,7 @@ Thematic Topics
 - Agriculture
 - Water Resources
 - Urban Planning
+- Teaching (teaching, curriculum, and pedagogy for GIS / geospatial / data science)
 - Papers
 - Misc (catch-all; excluded from Latest Finds and from other pages' Related links)
 
