@@ -1,3 +1,8 @@
+---
+search:
+  exclude: true
+---
+
 # Log
 
 Append-only record of all operations.
