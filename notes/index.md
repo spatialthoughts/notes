@@ -6,7 +6,7 @@ If you'd like to setup a similar website for your own notes, see the detailed gu
 
 ## Latest Finds
 
-- [OpenKnowledge](https://openknowledge.ai/): AI-native markdown editor. Similar to Obsidian but fully open-source and comes with templates for building personal knowledgebase [Keywords: `knowledge management` `markdown` `llm-wiki` `agents` `open-source`]  — [More in Tools](Tools.md)
+- [Portal by Spotify Cut My Claude Code Token Usage by 90%](https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90): Spotify routes I/O-heavy grunt work to cheap models via a PreToolUse hook that blocks large file reads and redirects them to a "bulk-reader" mode, preserving Claude's tokens for reasoning. [Keywords: `Claude Code` `hooks` `model routing` `PreToolUse` `token cost` `Gemini`] — [More in Claude Code](Claude_Code.md)
 - [Blender Kitchen Built by GLM-5.3-Flash](https://x.com/louszbd/status/2093047548550525165): A dream kitchen scene built entirely in Blender by letting GLM-5.3-Flash code autonomously in an empty folder for 12 hours, as a test of long-horizon agentic coding capability. [Keywords: `GLM` `Blender` `agentic coding` `long-horizon tasks` `3D rendering` `LLM`] — [More in AI](AI.md)
 - [How We Built the World's Prettiest Auto-Generated Transit Maps](https://blog.transitapp.com/how-we-built-the-worlds-prettiest-auto-generated-transit-maps-12d0c6fa502f/): Transit's approach to auto-generating attractive transit maps by processing routes in pixel space, skeletonizing them, and minimizing crossings with integer linear programming. [Keywords: `transit maps` `auto-generation` `skeletonization` `pixel space` `ILP` `map design`] — [More in Cartography](Cartography.md)
 

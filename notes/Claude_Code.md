@@ -1,11 +1,13 @@
 # Claude Code
 
 **Summary**: Notes on Claude Code and AI coding agents for software development.
-**Last updated**: 2026-08-20
+**Last updated**: 2026-09-08
 
 ---
 
 ## 2026
+
+- [Portal by Spotify Cut My Claude Code Token Usage by 90%](https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90): Spotify routes I/O-heavy grunt work to cheap "modes" (Gemini 2.5 Flash) instead of Claude — a PreToolUse hook blocks reads of files over a line threshold and redirects them to a "bulk-reader" mode, plus a "code-writer" mode for boilerplate, preserving Claude's tokens for reasoning. Related: [[Tools]], [[AI]]. Keywords: Claude Code, hooks, model routing, PreToolUse, token cost, Gemini, skills
 
 - [Bhoonidhi MCP Server](https://geovicco-dev.github.io/bhoonidhi-mcp/): An MCP (Model Context Protocol) server that lets AI agents search and download ISRO's Bhoonidhi satellite imagery archive using natural language queries — resolving locations and satellite names automatically and reporting scene availability (Ready, Archived, On Order, Priced) before download. Related: [[Remote_Sensing]], [[Data]]. Keywords: MCP, Claude Code, ISRO, India, satellite imagery, remote sensing, AI agent
 
