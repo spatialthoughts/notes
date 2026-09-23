@@ -1,11 +1,13 @@
 # Python
 
 **Summary**: Notes on the Python language, ecosystem, and tools.
-**Last updated**: 2026-08-20
+**Last updated**: 2026-09-23
 
 ---
 
 ## 2026
+
+- [Introduction to Spatial Networks using Python](https://bgu-geography.com/net/): Michael Dorman's open online book on spatial network analysis in Python, covering graph construction, routing, and network analysis for geographic data. Related: [[Data]]. Keywords: Python, spatial networks, graphs, routing, book, geography
 
 - [geoterp](https://github.com/pratik-gis/geoterp): A Python CLI tool providing spatial interpolation for both vector and raster data through one consistent API, consolidating techniques like IDW, kriging, splines, and raster resampling built on SciPy, PyKrige, GDAL, and GeoPandas. Related: [[Remote_Sensing]], [[Tools]], [[Data]]. Keywords: Python, spatial interpolation, kriging, IDW, raster, GeoPandas, CLI
 

@@ -1,11 +1,15 @@
 # Web Mapping
 
 **Summary**: Notes on web mapping libraries, tools, and interactive visualizations.
-**Last updated**: 2026-08-20
+**Last updated**: 2026-09-23
 
 ---
 
 ## 2026
+
+- [TerraServe](https://terraserve.io/): Rust-based OGC map server that turns satellite imagery and map data into WMS, WMTS, and TMS tiles for any GIS client, with custom implementations of reprojection, tiling, and styling that skip GDAL, MapServer, and GeoServer entirely, in a 146MB footprint. Related: [[CNG]]. Keywords: web mapping, Rust, OGC, WMS, WMTS, map server, cloud-native
+
+- [Treinenradar](https://treinen.pointiful.com/): Real-time train tracking map for Dutch railways, showing live train positions, searchable train lists, and delay information on an interactive map. Related: [[Cartography]]. Keywords: web mapping, live tracking, trains, Netherlands, realtime, transit
 
 - [Where the Shadow Fell](http://eclipses.bogachev.fr/): Interactive visualization mapping all 11,898 solar eclipses between 2000 BCE and 3000 CE, showing each eclipse's path of totality and enabling exploration by type, time period, and the saros and inex predictive cycles. Related: [[Cartography]]. Keywords: web mapping, astronomy, eclipse, visualization, saros, interactive
 

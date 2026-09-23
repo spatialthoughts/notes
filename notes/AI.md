@@ -1,11 +1,13 @@
 # AI
 
 **Summary**: Notes on artificial intelligence tools, models, and applications, including generative AI and LLMs.
-**Last updated**: 2026-09-03
+**Last updated**: 2026-09-23
 
 ---
 
 ## 2026
+
+- [How To Fine-Tune a Small LLM on Your Own Data](https://x.com/sairahul1/status/2100882424343265527): Full guide walking through fine-tuning a small LLM on custom data. Related: [[Deep_Learning]]. Keywords: LLM, fine-tuning, tutorial, training, deep learning
 
 - [Blender Kitchen Built by GLM-5.3-Flash](https://x.com/louszbd/status/2093047548550525165): A dream kitchen scene built entirely in Blender by letting GLM-5.3-Flash code autonomously in an empty folder for 12 hours, as a test of long-horizon agentic coding capability; [prompt details](https://x.com/louszbd/status/2094867896250048705) in a follow-up post. Related: [[Claude_Code]], [[Deep_Learning]]. Keywords: GLM, Blender, agentic coding, long-horizon tasks, 3D rendering, LLM
 
