@@ -1,11 +1,13 @@
 # Urban Planning
 
 **Summary**: Notes on urban planning, city design, and related tools and data.
-**Last updated**: 2026-08-20
+**Last updated**: 2026-09-27
 
 ---
 
 ## 2026
+
+- [How to Use Overture Maps like OSMnx with city2graph](https://medium.com/@yuta.sato.now/how-to-use-overture-maps-like-osmnx-by-city2graph-7e01d38f9f61): Tutorial on [city2graph](https://city2graph.net/), a Python package that fetches Overture Maps buildings, streets, and POIs and turns them into graphs for NetworkX and PyTorch Geometric, giving an OSMnx-like workflow for urban analysis. Related: [[Python]], [[Data]]. Keywords: city2graph, Overture Maps, OSMnx, urban analysis, street networks, Python
 
 - [Morphocode Explorer](https://explorer.morphocode.com/map): Interactive browser-based tool for urban data analysis, letting users measure urban indicators and explore site conditions in real-time by dragging a circular pedshed overlay across data layers. Built with Mapbox GL JS for 60fps rendering, with datasets prepared via Python/Jupyter. [Making of](https://morphocode.com/the-making-of-morphocode-explorer/) Related: [[Web_Mapping]], [[Python]], [[Data]]. Keywords: web mapping, urban planning, Mapbox GL JS, Python, Jupyter, interactive, urban data
 

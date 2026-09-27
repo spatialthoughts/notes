@@ -6,9 +6,9 @@ If you'd like to setup a similar website for your own notes, see the detailed gu
 
 ## Latest Finds
 
+- [How to Use Overture Maps like OSMnx with city2graph](https://medium.com/@yuta.sato.now/how-to-use-overture-maps-like-osmnx-by-city2graph-7e01d38f9f61): Tutorial on city2graph, a Python package that turns Overture Maps buildings, streets, and POIs into graphs for NetworkX and PyTorch Geometric, OSMnx-style. [Keywords: `city2graph` `Overture Maps` `OSMnx` `urban analysis` `Python`] — [More in Urban Planning](Urban_Planning.md)
 - [TerraServe](https://terraserve.io/): Rust-based OGC map server that turns satellite imagery and map data into WMS, WMTS, and TMS tiles for any GIS client, with no GDAL, MapServer, or GeoServer underneath. [Keywords: `web mapping` `Rust` `OGC` `WMS` `map server` `cloud-native`] — [More in Web Mapping](Web_Mapping.md)
 - [TESSERA v2 Pixel Embeddings via openEO](https://github.com/Open-EO/openeo-community-examples/tree/main/python/TesseraEmbedding): Notebook computing TESSERA v2 pixel embeddings for arbitrary areas and years by running the TESSERA encoder as an openEO UDF over Sentinel-1 and Sentinel-2 data. [Keywords: `TESSERA` `embeddings` `openEO` `Sentinel-1` `Sentinel-2` `Python`] — [More in Embeddings](Embeddings.md)
-- [Introduction to Spatial Networks using Python](https://bgu-geography.com/net/): Michael Dorman's open online book on spatial network analysis in Python, covering graph construction, routing, and network analysis. [Keywords: `Python` `spatial networks` `graphs` `routing` `book`] — [More in Python](Python.md)
 
 ## Topics
 
