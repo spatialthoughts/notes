@@ -6,7 +6,7 @@ If you'd like to setup a similar website for your own notes, see the detailed gu
 
 ## Latest Finds
 
-- [Cogniscient](https://cogniscient.auspatious.com/): Simple browser-based app to search Sentinel-2 imagery, pick an area, and export pretty, visualization-ready images using cloud-native tech and open data. [Keywords: `Sentinel-2` `image export` `screenshots` `browser app` `cloud-native`] — [More in Remote Sensing](Remote_Sensing.md)
+- [Cogniscient](https://cogniscient.auspatious.com/): Simple browser-based app to search Sentinel-2 imagery, pick an area, and export pretty, visualization-ready images using cloud-native tech and open data. [Keywords: `Sentinel-2` `image export` `screenshots` `browser app` `cloud-native`] — [More in Tools](Tools.md)
 - [Phosphor - Color Ramp Generator](https://www.joshuastevens.net/phosphor/): Joshua Stevens' color palette tool that builds perceptually uniform gradients in OKLab, with colorblind simulation and export to Python, R, QGIS, ArcGIS Pro, and GDAL. A ColorBrewer alternative. [Keywords: `color ramp` `palette` `OKLab` `ColorBrewer alternative` `cartography`] — [More in Cartography](Cartography.md)
 - [How to Use Overture Maps like OSMnx with city2graph](https://medium.com/@yuta.sato.now/how-to-use-overture-maps-like-osmnx-by-city2graph-7e01d38f9f61): Tutorial on city2graph, a Python package that turns Overture Maps buildings, streets, and POIs into graphs for NetworkX and PyTorch Geometric, OSMnx-style. [Keywords: `city2graph` `Overture Maps` `OSMnx` `urban analysis` `Python`] — [More in Urban Planning](Urban_Planning.md)
 

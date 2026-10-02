@@ -1,12 +1,13 @@
 # Tools
 
 **Summary**: Notes on general-purpose software tools and utilities.
-**Last updated**: 2026-08-26
+**Last updated**: 2026-10-02
 
 ---
 
 ## 2026
 
+- [Cogniscient](https://cogniscient.auspatious.com/): Simple browser-based app by Auspatious to search Sentinel-2 imagery, pick an area, and export pretty, visualization-ready images using cloud-native tech and open data. Related: [[Remote_Sensing]], [[CNG]]. Keywords: Sentinel-2, image export, screenshots, browser app, cloud-native, Earth observation
 * [OpenKnowledge](https://openknowledge.ai/): AI-native markdown editor. Similar to Obsidian but fully open-source and comes with templates for building personal knowledgebase [Keywords: `knowledge management` `markdown` `llm-wiki` `agents` `open-source`] 
 
 - [Unlimited-OCR](https://github.com/baidu/Unlimited-OCR): Baidu's OCR model extending DeepSeek-OCR for "one-shot long-horizon" document parsing, handling single images and multi-page PDFs in a single pass across Transformers, vLLM, and SGLang inference frameworks; live demo on [Hugging Face Spaces](https://huggingface.co/spaces/baidu/Unlimited-OCR). Related: [[AI]], [[Deep_Learning]]. Keywords: OCR, document parsing, Baidu, DeepSeek, Hugging Face, LLM
