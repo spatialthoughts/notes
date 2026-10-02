@@ -1,11 +1,15 @@
 # Cartography
 
 **Summary**: Notes on maps, mapmaking, and cartographic design tools.
-**Last updated**: 2026-09-03
+**Last updated**: 2026-10-02
 
 ---
 
 ## 2026
+
+- [Phosphor - Color Ramp Generator](https://www.joshuastevens.net/phosphor/): Joshua Stevens' color palette tool that builds gradients with perceptually uniform lightness in OKLab, with colorblind simulation and export to Python, R, QGIS, ArcGIS Pro, and GDAL. A ColorBrewer alternative. Related: [[QGIS]], [[Python]]. Keywords: color ramp, palette, OKLab, ColorBrewer alternative, colorblind, cartography
+
+- [The Week Seattle Hit 108](https://brooksgroves.com/blog/wa-heat-dome-post.html): Animated 3D map of the June 2021 Pacific Northwest heat dome, draping hourly ERA5-Land temperatures over USGS terrain using Milos Popovic's Forge3D, with Python for labels and timeline. Related: [[Climate]], [[Python]]. Keywords: Forge3D, 3D terrain map, animation, heat dome, ERA5-Land, cartography
 
 - [How We Built the World's Prettiest Auto-Generated Transit Maps](https://blog.transitapp.com/how-we-built-the-worlds-prettiest-auto-generated-transit-maps-12d0c6fa502f/): Transit's approach to auto-generating attractive transit maps by processing routes in pixel space — drawing lines thickly then skeletonizing them to find shared segments, using integer linear programming to minimize crossings, and rounding with circular arcs. Keywords: transit maps, auto-generation, skeletonization, pixel space, ILP, map design
 
