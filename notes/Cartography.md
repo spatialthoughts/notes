@@ -1,11 +1,13 @@
 # Cartography
 
 **Summary**: Notes on maps, mapmaking, and cartographic design tools.
-**Last updated**: 2026-10-02
+**Last updated**: 2026-10-15
 
 ---
 
 ## 2026
+
+- [Language Dots](https://anita.garden/languagedots/): Interactive map of the languages people speak at home in each country, using dots sized by number of speakers, built mainly from national census data with estimates where none are published. Related: [[Web_Mapping]], [[Data]]. Keywords: language map, dot map, pie chart, dialects, census, interactive map
 
 - [Phosphor - Color Ramp Generator](https://www.joshuastevens.net/phosphor/): Joshua Stevens' color palette tool that builds gradients with perceptually uniform lightness in OKLab, with colorblind simulation and export to Python, R, QGIS, ArcGIS Pro, and GDAL. A ColorBrewer alternative. Related: [[QGIS]], [[Python]]. Keywords: color ramp, palette, OKLab, ColorBrewer alternative, colorblind, cartography
 
