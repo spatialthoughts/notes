@@ -1,11 +1,13 @@
 # Tools
 
 **Summary**: Notes on general-purpose software tools and utilities.
-**Last updated**: 2026-10-02
+**Last updated**: 2026-10-15
 
 ---
 
 ## 2026
+
+- [mkdir.directory](https://mkdir.directory/): Curated list of free web design inspiration directories (galleries, award sites, landing page collections, section libraries), ranked by visitor votes. Related: [[Web_Mapping]]. Keywords: web design, inspiration, landing pages, directory, website design
 
 - [Cogniscient](https://cogniscient.auspatious.com/): Simple browser-based app by Auspatious to search Sentinel-2 imagery, pick an area, and export pretty, visualization-ready images using cloud-native tech and open data. Related: [[Remote_Sensing]], [[CNG]]. Keywords: Sentinel-2, image export, screenshots, browser app, cloud-native, Earth observation
 * [OpenKnowledge](https://openknowledge.ai/): AI-native markdown editor. Similar to Obsidian but fully open-source and comes with templates for building personal knowledgebase [Keywords: `knowledge management` `markdown` `llm-wiki` `agents` `open-source`] 
