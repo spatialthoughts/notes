@@ -1,11 +1,13 @@
 # Claude Code
 
 **Summary**: Notes on Claude Code and AI coding agents for software development.
-**Last updated**: 2026-09-08
+**Last updated**: 2026-10-17
 
 ---
 
 ## 2026
+
+- [How to Be More Ambitious: A Tutorial for Humans with Models](https://felixrieseberg.com/how-to-be-more-ambitious-a-tutorial-for-humans-with-models/): Felix Rieseberg argues AI capabilities grow unevenly, so users should aim higher, framing ambition as speed, altitude, depth, and range. Advice: target the outcome beyond the task, use the raw data and methods top professionals use, and have the model do what other fields' experts do rather than role-play them. Related: [[AI]]. Keywords: ambition, AI workflows, prompting, agents, productivity
 
 - [Portal by Spotify Cut My Claude Code Token Usage by 90%](https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90): Spotify routes I/O-heavy grunt work to cheap "modes" (Gemini 2.5 Flash) instead of Claude — a PreToolUse hook blocks reads of files over a line threshold and redirects them to a "bulk-reader" mode, plus a "code-writer" mode for boilerplate, preserving Claude's tokens for reasoning. Related: [[Tools]], [[AI]]. Keywords: Claude Code, hooks, model routing, PreToolUse, token cost, Gemini, skills
 

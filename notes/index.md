@@ -6,9 +6,9 @@ If you'd like to setup a similar website for your own notes, see the detailed gu
 
 ## Latest Finds
 
+- [How to Be More Ambitious: A Tutorial for Humans with Models](https://felixrieseberg.com/how-to-be-more-ambitious-a-tutorial-for-humans-with-models/): Felix Rieseberg on aiming higher with AI models — ambition as speed, altitude, depth, and range, with practical advice for getting more out of agents. [Keywords: `ambition` `AI workflows` `prompting` `agents`] — [More in Claude Code](Claude_Code.md)
 - [mkdir.directory](https://mkdir.directory/): Curated list of free web design inspiration directories (galleries, award sites, landing page collections), ranked by visitor votes. [Keywords: `web design` `inspiration` `landing pages` `directory`] — [More in Tools](Tools.md)
 - [Language Dots](https://anita.garden/languagedots/): Interactive map of the languages people speak at home in each country, using dots sized by number of speakers, built mainly from national census data. [Keywords: `language map` `dot map` `pie chart` `dialects` `census`] — [More in Cartography](Cartography.md)
-- [How to Use Overture Maps like OSMnx with city2graph](https://medium.com/@yuta.sato.now/how-to-use-overture-maps-like-osmnx-by-city2graph-7e01d38f9f61): Tutorial on city2graph, a Python package that turns Overture Maps buildings, streets, and POIs into graphs for NetworkX and PyTorch Geometric, OSMnx-style. [Keywords: `city2graph` `Overture Maps` `OSMnx` `urban analysis` `Python`] — [More in Urban Planning](Urban_Planning.md)
 
 ## Topics
 
