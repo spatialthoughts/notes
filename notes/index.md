@@ -6,9 +6,9 @@ If you'd like to setup a similar website for your own notes, see the detailed gu
 
 ## Latest Finds
 
+- [Serverless Waterboard Legger: Portolan Catalog Tutorial](https://github.com/bertt/hhrlegger/blob/main/README.md): Tutorial building a serverless Portolan catalog with GeoParquet, PMTiles, and STAC, published as static files for a MapLibre demo. [Keywords: `Portolan` `GeoParquet` `PMTiles` `STAC` `serverless`] — [More in CNG](CNG.md)
+- [Earth Watcher](https://www.fused.io/share/fc_34KmH7Yrc3e7qOFlzPwXQ9/earth_watcher): Interactive satellite database app built in Fused, with fun facts about satellites suitable for kids. [Keywords: `satellites` `satellite database` `kids` `Fused`] — [More in Remote Sensing](Remote_Sensing.md)
 - [How to Be More Ambitious: A Tutorial for Humans with Models](https://felixrieseberg.com/how-to-be-more-ambitious-a-tutorial-for-humans-with-models/): Felix Rieseberg on aiming higher with AI models — ambition as speed, altitude, depth, and range, with practical advice for getting more out of agents. [Keywords: `ambition` `AI workflows` `prompting` `agents`] — [More in Claude Code](Claude_Code.md)
-- [mkdir.directory](https://mkdir.directory/): Curated list of free web design inspiration directories (galleries, award sites, landing page collections), ranked by visitor votes. [Keywords: `web design` `inspiration` `landing pages` `directory`] — [More in Tools](Tools.md)
-- [Language Dots](https://anita.garden/languagedots/): Interactive map of the languages people speak at home in each country, using dots sized by number of speakers, built mainly from national census data. [Keywords: `language map` `dot map` `pie chart` `dialects` `census`] — [More in Cartography](Cartography.md)
 
 ## Topics
 

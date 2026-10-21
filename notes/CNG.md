@@ -1,11 +1,13 @@
 # CNG (Cloud Native Geospatial)
 
 **Summary**: Notes on Cloud Native Geospatial formats, standards, and tools such as COG, GeoParquet, and Zarr.
-**Last updated**: 2026-08-20
+**Last updated**: 2026-10-21
 
 ---
 
 ## 2026
+
+- [Serverless Waterboard Legger: Portolan Catalog Tutorial](https://github.com/bertt/hhrlegger/blob/main/README.md): Tutorial building a serverless Portolan catalog of a Dutch waterboard's surface-water legger, extracting ArcGIS MapServer layers with Portolan CLI, converting to GeoParquet and PMTiles, and publishing as static STAC files for a MapLibre demo. Related: [[STAC]], [[Web_Mapping]], [[Water_Resources]]. Keywords: Portolan, GeoParquet, PMTiles, STAC, MapLibre, serverless
 
 - [Cloud Native SDI - Portolan](https://cholmes.github.io/open-geodag-presentation/): Cloud Native SDI — presentation exploring how cloud-native geospatial formats (GeoParquet, COG, PMTiles, STAC) can transform Spatial Data Infrastructures, introducing Portolan, an open-source framework for building serverless, AI-first SDIs, demonstrated via a live Dutch government data portal requiring zero servers. Related: [[Web_Mapping]], [[STAC]], [[AI]]. Keywords: cloud-native, GeoParquet, COG, PMTiles, STAC, SDI, Portolan, serverless
 

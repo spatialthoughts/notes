@@ -1,11 +1,13 @@
 # Remote Sensing
 
 **Summary**: Notes on satellite and aerial imagery for Earth observation.
-**Last updated**: 2026-10-02
+**Last updated**: 2026-10-21
 
 ---
 
 ## 2026
+
+- [Earth Watcher](https://www.fused.io/share/fc_34KmH7Yrc3e7qOFlzPwXQ9/earth_watcher): Interactive satellite database app built in Fused, with fun facts about satellites suitable for kids. Related: [[Teaching]], [[Data]]. Keywords: satellites, satellite database, kids, Fused, education
 
 - [Researchers test the GlobalBuildingAtlas](https://researchmatters.in/news/researchers-test-globalbuildingatlas-worlds-newest-global-map-buildings-our-cities): ISRO's NRSC validated the GlobalBuildingAtlas (GBA), a global 3D building dataset with 2.75 billion footprints, against NASA's ICESat-2 laser altimeter and Bhuvan imagery across Indian cities. Footprint mapping was near-perfect (>99% completeness), but building heights were systematically underestimated — a 266m Mumbai skyscraper was measured at just 113m — since the AI is trained mostly on Europe/North America data and struggles with dense Indian urban form. Comparing GlobalBuildingAtlas (GBA) building heights with ICESat-2 altimeter. Related: [[Urban_Planning]], [[Data]]. Keywords: GlobalBuildingAtlas, ICESat-2, building height, 3D buildings, ISRO, NRSC, India, urban planning, remote sensing validation
 
