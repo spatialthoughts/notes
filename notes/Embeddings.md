@@ -1,11 +1,13 @@
 # Embeddings
 
 **Summary**: Notes on vector embeddings and representation learning across domains.
-**Last updated**: 2026-09-23
+**Last updated**: 2026-10-26
 
 ---
 
 ## 2026
+
+- [Echo Embedding Explorer](https://echo-embedding-explorer.vercel.app/?tab=audio&layout=perch_v2_pooled&label=species): Interactive t-SNE explorer from echolabs.org comparing how different encoders cluster bird audio (Xeno-canto), LUCAS landscape photos, and TESSERA satellite embeddings; click a point to play the bird call. Related: [[Deep_Learning]], [[Remote_Sensing]]. Keywords: embeddings, audio embeddings, bird calls, t-SNE, Perch, TESSERA, visualization
 
 - [TESSERA v2 Pixel Embeddings via openEO](https://github.com/Open-EO/openeo-community-examples/tree/main/python/TesseraEmbedding): Notebook computing TESSERA v2 pixel embeddings for custom areas and years by running the TESSERA encoder as an openEO UDF over Sentinel-1 and Sentinel-2 collections, enabling embeddings for arbitrary regions instead of only pre-computed global tiles. Related: [[Remote_Sensing]], [[Python]]. Keywords: TESSERA, embeddings, openEO, Sentinel-1, Sentinel-2, UDF, Python
 

@@ -1,11 +1,13 @@
 # Remote Sensing
 
 **Summary**: Notes on satellite and aerial imagery for Earth observation.
-**Last updated**: 2026-10-21
+**Last updated**: 2026-10-26
 
 ---
 
 ## 2026
+
+- [EO Overpass Predictor](https://github.com/julianManning/eo-overpass-predictor): Python notebooks predicting when Sentinel-2 or Landsat 8/9 will image an AOI and how much of it each pass covers, using SGP4 orbit propagation and swath footprints; exports CSV reports, GeoPackage footprints, and a live satellite tracker. Related: [[Python]], [[QGIS]]. Keywords: Sentinel-2, Landsat, overpass prediction, acquisition planning, orbit propagation, Skyfield
 
 - [Earth Watcher](https://www.fused.io/share/fc_34KmH7Yrc3e7qOFlzPwXQ9/earth_watcher): Interactive satellite database app built in Fused, with fun facts about satellites suitable for kids. Related: [[Teaching]], [[Data]]. Keywords: satellites, satellite database, kids, Fused, education
 
