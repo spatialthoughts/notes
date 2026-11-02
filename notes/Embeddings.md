@@ -1,11 +1,13 @@
 # Embeddings
 
 **Summary**: Notes on vector embeddings and representation learning across domains.
-**Last updated**: 2026-10-26
+**Last updated**: 2026-11-02
 
 ---
 
 ## 2026
+
+- [AEF Wildfire Risk Map (aef-landcover-fosberg-cog)](https://github.com/kentstephen/aef-landcover-fosberg-cog): Browser-only hourly wildfire ignition risk map for the US combining 10 m AlphaEarth Foundations embeddings (COGs and Zarr on Source Cooperative) with NOAA HRRR weather and the Fosberg Fire Weather Index via a logistic model trained on WFIGS ignitions; rendered with deck.gl-raster. [Live demo](https://kentstephen.github.io/aef-landcover-fosberg-cog/). Related: [[CNG]], [[Climate]], [[Web_Mapping]]. Keywords: AlphaEarth Foundations, embeddings, wildfire risk, Fosberg index, HRRR, deck.gl-raster, COG
 
 - [Echo Embedding Explorer](https://echo-embedding-explorer.vercel.app/?tab=audio&layout=perch_v2_pooled&label=species): Interactive t-SNE explorer from echolabs.org comparing how different encoders cluster bird audio (Xeno-canto), LUCAS landscape photos, and TESSERA satellite embeddings; click a point to play the bird call. Related: [[Deep_Learning]], [[Remote_Sensing]]. Keywords: embeddings, audio embeddings, bird calls, t-SNE, Perch, TESSERA, visualization
 

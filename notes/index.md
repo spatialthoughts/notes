@@ -6,9 +6,9 @@ If you'd like to setup a similar website for your own notes, see the detailed gu
 
 ## Latest Finds
 
+- [AEF Wildfire Risk Map](https://github.com/kentstephen/aef-landcover-fosberg-cog): Browser-only hourly wildfire ignition risk map combining AlphaEarth Foundations embeddings with HRRR weather and the Fosberg index. [Keywords: `AlphaEarth Foundations` `embeddings` `wildfire risk` `deck.gl-raster`] — [More in Embeddings](Embeddings.md)
+- [Evan Applegate: Designing and Hosting a Site from Scratch with LLMs](https://x.com/youwillmakemaps/status/2115984033201148376): A 9-step recipe for building a fast, good-looking site with Claude Code, from copy and colors to fonts, hosting, and iteration. [Keywords: `web design` `Claude Code` `Cloudflare` `typography`] — [More in Claude Code](Claude_Code.md)
 - [EO Overpass Predictor](https://github.com/julianManning/eo-overpass-predictor): Python notebooks predicting when Sentinel-2 or Landsat 8/9 will image an AOI, with coverage, footprints, and a live satellite tracker. [Keywords: `Sentinel-2` `Landsat` `overpass prediction` `acquisition planning`] — [More in Remote Sensing](Remote_Sensing.md)
-- [Echo Embedding Explorer](https://echo-embedding-explorer.vercel.app/?tab=audio&layout=perch_v2_pooled&label=species): Interactive t-SNE explorer comparing how encoders cluster bird audio, landscape photos, and TESSERA satellite embeddings. [Keywords: `embeddings` `audio embeddings` `bird calls` `t-SNE`] — [More in Embeddings](Embeddings.md)
-- [Serverless Waterboard Legger: Portolan Catalog Tutorial](https://github.com/bertt/hhrlegger/blob/main/README.md): Tutorial building a serverless Portolan catalog with GeoParquet, PMTiles, and STAC, published as static files for a MapLibre demo. [Keywords: `Portolan` `GeoParquet` `PMTiles` `STAC` `serverless`] — [More in CNG](CNG.md)
 
 ## Topics
 

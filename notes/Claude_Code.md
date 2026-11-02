@@ -1,11 +1,13 @@
 # Claude Code
 
 **Summary**: Notes on Claude Code and AI coding agents for software development.
-**Last updated**: 2026-10-17
+**Last updated**: 2026-11-02
 
 ---
 
 ## 2026
+
+- [Evan Applegate: Designing and Hosting a Site from Scratch with LLMs](https://x.com/youwillmakemaps/status/2115984033201148376): Evan Applegate's 9-step recipe for building a fast, attractive site with Claude Code: write 100 words of copy, collect inspiration screenshots, pick two colors (rybitten.space) and two Google Fonts via a typeface control panel, host on GitHub + Cloudflare with Resend for forms, tune Lighthouse/SEO, and iterate with annotated screenshots using Scrawl. Related: [[Tools]]. Keywords: web design, website, Claude Code, Cloudflare, typography, color palette
 
 - [How to Be More Ambitious: A Tutorial for Humans with Models](https://felixrieseberg.com/how-to-be-more-ambitious-a-tutorial-for-humans-with-models/): Felix Rieseberg argues AI capabilities grow unevenly, so users should aim higher, framing ambition as speed, altitude, depth, and range. Advice: target the outcome beyond the task, use the raw data and methods top professionals use, and have the model do what other fields' experts do rather than role-play them. Related: [[AI]]. Keywords: ambition, AI workflows, prompting, agents, productivity
 
