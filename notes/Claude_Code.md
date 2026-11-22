@@ -1,11 +1,13 @@
 # Claude Code
 
 **Summary**: Notes on Claude Code and AI coding agents for software development.
-**Last updated**: 2026-11-02
+**Last updated**: 2026-11-22
 
 ---
 
 ## 2026
+
+- [Pocket City](https://april-zhu.com/pocketcity): April Zhu's open-source (MIT) Claude Code / Codex skill that turns any real place (a 150–250 m square) into an illustrated isometric miniature city. It uses OpenStreetMap data, keeps landmark buildings, and researches local streets, seasons, and festivals. It has multiple camera views, with examples for Amsterdam, Kyoto, Portofino, Shanghai, and Singapore. Related: [[Cartography]], [[Web_Mapping]]. Keywords: Claude skill, OpenStreetMap, isometric, 3D city, visualization
 
 - [Evan Applegate: Designing and Hosting a Site from Scratch with LLMs](https://x.com/youwillmakemaps/status/2115984033201148376): Evan Applegate's 9-step recipe for building a fast, attractive site with Claude Code: write 100 words of copy, collect inspiration screenshots, pick two colors (rybitten.space) and two Google Fonts via a typeface control panel, host on GitHub + Cloudflare with Resend for forms, tune Lighthouse/SEO, and iterate with annotated screenshots using Scrawl. Related: [[Tools]]. Keywords: web design, website, Claude Code, Cloudflare, typography, color palette
 

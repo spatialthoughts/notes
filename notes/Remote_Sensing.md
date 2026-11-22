@@ -1,11 +1,13 @@
 # Remote Sensing
 
 **Summary**: Notes on satellite and aerial imagery for Earth observation.
-**Last updated**: 2026-10-26
+**Last updated**: 2026-11-22
 
 ---
 
 ## 2026
+
+- [Timing the Flames: Geostationary Satellite Detection of Diurnally Shifting Stubble Burning in Northwestern India](https://www.mdpi.com/2072-4292/18/10/1506): Hiren Jethva (Remote Sensing, 2026) shows that since 2022, farmers in Punjab/Haryana have shifted stubble burning to around and after 4 p.m., outside the noon–2 p.m. MODIS/VIIRS overpasses. A 3.8/11.2 μm fire detection algorithm applied to GEO-KOMPSAT-2A AMI geostationary data (2019–2025) reveals these fires, which polar-orbiting sensors miss, and this leads to underestimated emissions in air quality forecasts. Related: [[Agriculture]], [[Climate]], [[Papers]]. Keywords: stubble burning, fire detection, geostationary satellite, MODIS, VIIRS, air quality
 
 - [EO Overpass Predictor](https://github.com/julianManning/eo-overpass-predictor): Python notebooks predicting when Sentinel-2 or Landsat 8/9 will image an AOI and how much of it each pass covers, using SGP4 orbit propagation and swath footprints; exports CSV reports, GeoPackage footprints, and a live satellite tracker. Related: [[Python]], [[QGIS]]. Keywords: Sentinel-2, Landsat, overpass prediction, acquisition planning, orbit propagation, Skyfield
 

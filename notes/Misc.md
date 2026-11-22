@@ -1,11 +1,13 @@
 # Miscellaneous Notes
 
 **Summary**: Miscellaneous notes and bookmarks that don't fit an existing topic.
-**Last updated**: 2026-09-08
+**Last updated**: 2026-11-22
 
 ---
 
 ## 2026
+
+- [Eastern vs. Western Philosophies](https://x.com/thisisalimirza/status/1732730707854667890): Ali Mirza's X post contrasting Western abundance/guilt-based morality with Eastern scarcity/shame-based morality. He argues that therapists should understand these premises because they shape patients' social environments. Keywords: philosophy, culture, East vs West, morality, psychology
 
 - [OpenDataLoader PDF](https://github.com/opendataloader-project/opendataloader-pdf/tree/main): Open-source PDF parser that extracts data in AI-ready formats including structured Markdown, JSON with bounding boxes, and HTML while preserving layout. Features OCR capabilities and PDF accessibility automation. Related: [[Python]], [[Tools]], [[AI]]. Keywords: PDF, OCR, data extraction, Python, open source
 

@@ -6,9 +6,9 @@ If you'd like to setup a similar website for your own notes, see the detailed gu
 
 ## Latest Finds
 
+- [Timing the Flames: Geostationary Detection of Shifting Stubble Burning](https://www.mdpi.com/2072-4292/18/10/1506): Paper showing NW India stubble burning shifted to late afternoon after 2022, evading MODIS/VIIRS overpasses but caught by geostationary GEO-KOMPSAT-2A. [Keywords: `stubble burning` `fire detection` `geostationary satellite` `air quality`] — [More in Remote Sensing](Remote_Sensing.md)
+- [Pocket City](https://april-zhu.com/pocketcity): Open-source Claude Code skill that turns any real place into an illustrated isometric miniature city from OpenStreetMap data. [Keywords: `Claude skill` `OpenStreetMap` `isometric` `3D city`] — [More in Claude Code](Claude_Code.md)
 - [AEF Wildfire Risk Map](https://github.com/kentstephen/aef-landcover-fosberg-cog): Browser-only hourly wildfire ignition risk map combining AlphaEarth Foundations embeddings with HRRR weather and the Fosberg index. [Keywords: `AlphaEarth Foundations` `embeddings` `wildfire risk` `deck.gl-raster`] — [More in Embeddings](Embeddings.md)
-- [Evan Applegate: Designing and Hosting a Site from Scratch with LLMs](https://x.com/youwillmakemaps/status/2115984033201148376): A 9-step recipe for building a fast, good-looking site with Claude Code, from copy and colors to fonts, hosting, and iteration. [Keywords: `web design` `Claude Code` `Cloudflare` `typography`] — [More in Claude Code](Claude_Code.md)
-- [EO Overpass Predictor](https://github.com/julianManning/eo-overpass-predictor): Python notebooks predicting when Sentinel-2 or Landsat 8/9 will image an AOI, with coverage, footprints, and a live satellite tracker. [Keywords: `Sentinel-2` `Landsat` `overpass prediction` `acquisition planning`] — [More in Remote Sensing](Remote_Sensing.md)
 
 ## Topics
 
