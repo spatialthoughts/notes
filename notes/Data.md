@@ -1,11 +1,13 @@
 # Data
 
 **Summary**: Notes on datasets, data engineering, and data discovery tools. India-specific datasets live on the [[India_GIS_Data]] page.
-**Last updated**: 2026-09-04
+**Last updated**: 2026-11-24
 
 ---
 
 ## 2026
+
+- [Inherited Reference Artefacts in Google's GEM-15](https://eartharxiv.org/repository/view/16205/): Ismail Elkhrachy's independent evaluation of Google's 15 m GEM-15 elevation dataset in drylands against ICESat-2 and airborne lidar. Finds tile offsets and stripes inherited from the ALOS PRISM / AW3D30 prior, and proposes orbit-guided destriping and a slope-adaptive blend with Copernicus GLO-30. Related: [[Remote_Sensing]], [[GEE]], [[Papers]]. Keywords: GEM-15, DEM, elevation, ICESat-2, lidar validation, destriping
 
 - [dynamical.org](https://dynamical.org/): A research lab providing a public catalog of cloud-optimized weather and climate datasets, helping researchers, forecasters, and developers access, understand, and act on environmental data. Related: [[Climate]], [[CNG]]. Keywords: weather, climate, data, cloud-optimized, open data, forecast
 

@@ -1,11 +1,15 @@
 # AI
 
 **Summary**: Notes on artificial intelligence tools, models, and applications, including generative AI and LLMs.
-**Last updated**: 2026-09-23
+**Last updated**: 2026-11-24
 
 ---
 
 ## 2026
+
+- [Farewell to Human Readable Code](https://csailmit.substack.com/p/farewell-to-human-readable-code): Nir Shavit's essay (MIT CSAIL) arguing that AI-optimized code will stop being human-readable, so programs should be treated as algorithmic objects tested by behavior, pushing computer science toward the natural sciences. Related: [[Claude_Code]]. Keywords: AI coding, code readability, software engineering, LLM, essay
+
+- [Estimating Wind Direction from Bike Ride Data with Claude](https://x.com/paraschopra/status/2124842949439811963): Paras Chopra's X post on using Claude to estimate wind direction from public bike ride data. Related: [[Claude_Code]], [[Data]]. Keywords: Claude, wind direction, cycling, public data, data analysis
 
 - [How To Fine-Tune a Small LLM on Your Own Data](https://x.com/sairahul1/status/2100882424343265527): Full guide walking through fine-tuning a small LLM on custom data. Related: [[Deep_Learning]]. Keywords: LLM, fine-tuning, tutorial, training, deep learning
 
